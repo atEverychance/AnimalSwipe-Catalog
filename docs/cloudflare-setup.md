@@ -35,6 +35,9 @@ Results:
 - Staging Worker deployed at `https://animalswipe-catalog-staging.everychance-ai.workers.dev`.
 - HTTPS verification passed for `/health`, `/latest.json`, `/catalog/catalog-v0001.json`, and sample `/assets/tiger.jpg`.
 - Worker version deployed: `a1ce85ff-0d3e-4093-8fbb-df8a7172c45c`.
+- GitHub repo visibility is public: `https://github.com/atEverychance/AnimalSwipe-Catalog`.
+- `main` branch protection is enabled with one required approving PR review and conversation resolution.
+- Live GitHub Actions workflow is active: `.github/workflows/live-catalog.yml`.
 
 ## Verification commands
 
@@ -67,6 +70,19 @@ That file must stay out of Git. The public key is exported to `keys/catalog-publ
 
 ## Remaining production decisions
 
-- Catalog GitHub repo owner/name and visibility. Recommended default: private GitHub repo under the user's normal GitHub owner/org, named `AnimalSwipe-Catalog`, until licensing/reuse posture is intentionally public.
 - Whether large source originals require Git LFS once new source images are added; default to plain Git until file sizes or repo growth justify LFS.
 - Approved PR merge to `main` is the live approval gate. The GitHub Actions workflow builds/signs/uploads the live catalog after verifying the merged PR had at least one approving review. The remaining setup need is adding the `CLOUDFLARE_API_TOKEN` GitHub secret.
+
+## GitHub Actions Cloudflare token
+
+Required repo secrets:
+
+- `CATALOG_SIGNING_KEY_P256` — set.
+- `CLOUDFLARE_ACCOUNT_ID` — set.
+- `CLOUDFLARE_API_TOKEN` — not set yet.
+
+Cloudflare does not allow creating this deploy token from the current Wrangler OAuth login. API-created tokens require an initial dashboard-created token with `API Tokens Write`, and the current OAuth token only has Wrangler deployment scopes. Create a scoped token in the Cloudflare dashboard with Account permissions: `Account Settings: Read`, `Workers Scripts: Edit`, and `Workers R2 Storage: Edit`, then install it with:
+
+```bash
+printf '<token>' | gh secret set CLOUDFLARE_API_TOKEN --repo atEverychance/AnimalSwipe-Catalog
+```
