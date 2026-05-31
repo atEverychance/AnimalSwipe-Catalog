@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "toucan",
+  "name": "Toucan",
+  "species": {
+    "displayName": "Toucan",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The jungle bird with a beak longer than its whole body would suggest.",
+    "shortDescription": "A toucan's oversized bill looks heavy, but it's actually hollow — a lightweight structure of bone struts filled with air, weighing almost nothing. It's also a great radiator: blood flows through a network of vessels in the beak, releasing body heat to cool the toucan down, like opening a window. Toucans use that beak to pluck fruit from branches just out of reach. Fun fact: A toucan's beak has serrated edges — like a tiny bread knife — which helps it grip slippery fruit."
+  },
+  "image": {
+    "primaryFileName": "toucan.jpg",
+    "sourceRelativePath": "Content/images/toucan.jpg",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.34
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Toucan",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Toucan"
+    },
+    "photo": {
+      "attributionName": "Bjørn Christian Tørrissen",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "PortraitOfAToucan.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:PortraitOfAToucan.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "toucan",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

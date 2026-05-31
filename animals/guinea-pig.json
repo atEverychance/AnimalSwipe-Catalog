@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "guinea-pig",
+  "name": "Guinea pig",
+  "species": {
+    "displayName": "Guinea pig",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "That wheek-wheek-wheek sound means someone heard the fridge open.",
+    "shortDescription": "Guinea pigs make a high-pitched wheek call when they hear a familiar sound — like a bag of vegetables rustling — and will keep making it until they get a piece of whatever it is. They live in herds in the wild and get lonely without at least one companion nearby. Unlike most small rodents, guinea pig babies are born fully furred, with eyes open, and able to run around within hours. Fun fact: Guinea pigs cannot make their own vitamin C, just like humans, so they must eat fresh vegetables every day or they'll get sick."
+  },
+  "image": {
+    "primaryFileName": "guinea-pig.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/guinea-pig.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Guinea_pig",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Guinea_pig"
+    },
+    "photo": {
+      "attributionName": "Wikimedia Commons contributor",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "George_the_amazing_guinea_pig.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:George_the_amazing_guinea_pig.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "guinea-pig",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

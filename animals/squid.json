@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "squid",
+  "name": "Squid",
+  "species": {
+    "displayName": "Squid",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The jet-powered torpedo of the open ocean.",
+    "shortDescription": "Squid propel themselves by blasting water through a tube-shaped funnel in their body, shooting backward at surprising speed — and they can steer the funnel to change direction instantly. They have the largest eyes of any animal relative to their body size, and the giant squid's eye can be as big as a basketball. Fun fact: Squid can change skin color in milliseconds using millions of tiny color cells called chromatophores."
+  },
+  "image": {
+    "primaryFileName": "squid.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/squid.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Squid",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Squid"
+    },
+    "photo": {
+      "attributionName": "Nhobgood Nick Hobgood",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Sepioteuthis_sepioidea_(Caribbean_Reef_Squid).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "squid",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

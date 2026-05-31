@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "seahorse",
+  "name": "Seahorse",
+  "species": {
+    "displayName": "Seahorse",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The tiny swimmer where dad is the one who gets pregnant.",
+    "shortDescription": "Seahorses are the only animals in the world where the father carries the babies. The female deposits eggs into a pouch on the male's belly, and he carries them, feeds them nutrients through his body, and gives birth to up to two thousand tiny seahorses at once. Fun fact: Seahorses can't swim fast at all — but they're expert ambush hunters who hover invisibly among seagrass until prey drifts close."
+  },
+  "image": {
+    "primaryFileName": "seahorse.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/seahorse.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Seahorse",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Seahorse"
+    },
+    "photo": {
+      "attributionName": "Hans Hillewaert",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "fish",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "seahorse",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "dolphin",
+  "name": "Dolphin",
+  "species": {
+    "displayName": "Dolphin",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The ocean's fastest chatters, leaping and clicking all at once.",
+    "shortDescription": "Every dolphin has its own signature whistle — a sound it makes that works like its personal name — and other dolphins use that whistle to call it specifically. They live in pods, and the relationships inside a pod can last a lifetime, with dolphins looking out for injured or sick companions for weeks. Fun fact: Dolphins sleep with only half their brain at a time — one half rests while the other stays awake so they keep breathing and swimming."
+  },
+  "image": {
+    "primaryFileName": "dolphin.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/dolphin.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Dolphin",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Dolphin"
+    },
+    "photo": {
+      "attributionName": "NASA",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Tursiops_truncatus_01.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "dolphin",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

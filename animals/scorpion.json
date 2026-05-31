@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "scorpion",
+  "name": "Scorpion",
+  "species": {
+    "displayName": "Scorpion",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Glowing in the dark, stinging with the tail.",
+    "shortDescription": "Scorpions are arachnids — relatives of spiders and ticks — and they glow bright blue-green under ultraviolet light, though no one is entirely sure why. Their venomous stinger is at the tip of their curved tail, and they use their claws to grab and hold prey before deciding whether to sting it. Fun fact: All scorpions give birth to live young, and newborn scorpions ride on their mother's back until after their first molt."
+  },
+  "image": {
+    "primaryFileName": "scorpion.jpg",
+    "sourceRelativePath": "Content/images/scorpion.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Scorpion",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Scorpion"
+    },
+    "photo": {
+      "attributionName": "Shantanu Kuveskar",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Scorpion_Photograph_By_Shantanu_Kuveskar.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Scorpion_Photograph_By_Shantanu_Kuveskar.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "armored",
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "armored",
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "scorpion",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

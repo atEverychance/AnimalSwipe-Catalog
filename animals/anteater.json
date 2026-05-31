@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "anteater",
+  "name": "Anteater",
+  "species": {
+    "displayName": "Anteater",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "No teeth, no problem, sixty thousand ants a day.",
+    "shortDescription": "Giant anteaters have no teeth at all — they don't need any. Their long sticky tongue, which can flick in and out up to one hundred and fifty times a minute, does all the work, scooping up ants and termites by the thousands. Fun fact: A giant anteater's tongue is about sixty centimeters long and coated in sticky saliva."
+  },
+  "image": {
+    "primaryFileName": "anteater.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/anteater.jpg",
+    "focalPoint": {
+      "x": 0.3,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Anteater",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Anteater"
+    },
+    "photo": {
+      "attributionName": "Nortondefeis",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Tamanduá-bandeira_no_Parque_Nacional_da_Serra_da_Canastra_(cropped).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1-bandeira_no_Parque_Nacional_da_Serra_da_Canastra_%28cropped%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "anteater",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

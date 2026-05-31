@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "kestrel",
+  "name": "Kestrel",
+  "species": {
+    "displayName": "Kestrel",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A tiny falcon that hovers like it's frozen in the sky.",
+    "shortDescription": "Kestrels are the only birds of prey that can truly hover — holding completely still in mid-air by pointing into the wind and fanning their tails. From up there, those sharp eyes are watching for a beetle or vole moving in the grass far below. Fun fact: Kestrels can see ultraviolet light, so mouse trails actually glow for them."
+  },
+  "image": {
+    "primaryFileName": "kestrel.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kestrel.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Kestrel",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Kestrel"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "American_kestrel_(Falco_sparverius_cinnamominus)_male_Leona_Amarga.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:American_kestrel_%28Falco_sparverius_cinnamominus%29_male_Leona_Amarga.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "kestrel",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "fennec-fox",
+  "name": "Fennec fox",
+  "species": {
+    "displayName": "Fennec fox",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The desert's smallest fox, with the universe's biggest ears.",
+    "shortDescription": "Fennec foxes are the tiniest wild dogs on Earth, but their ears are comically enormous — almost as long as their whole face — and they can swivel each ear separately to pinpoint a beetle rustling under the sand. They live in the Sahara and don't need to drink water at all, getting everything they need from food. Fun fact: A fennec fox's huge ears are lined with blood vessels that release heat and keep the animal cool in temperatures that would cook most creatures."
+  },
+  "image": {
+    "primaryFileName": "fennec-fox.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/fennec-fox.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Fennec_fox",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Fennec_fox"
+    },
+    "photo": {
+      "attributionName": "Drew Avery",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Fennec_Fox_Vulpes_zerda.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "fluffy",
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "cute",
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "fennec-fox",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "hyena",
+  "name": "Hyena",
+  "species": {
+    "displayName": "Hyena",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The laugh means business, and the jaw means more business.",
+    "shortDescription": "Spotted hyenas are not scavengers who pick up after lions — they're skilled hunters who often have lions stealing from them instead. Their clan is led by females, and their jaws are so strong they can crush bones that would break a lion's teeth. Fun fact: Hyenas have one of the strongest bites of any land mammal, powerful enough to crack through bone to reach the marrow inside."
+  },
+  "image": {
+    "primaryFileName": "hyena.jpg",
+    "sourceRelativePath": "Content/images/hyena.jpg",
+    "focalPoint": {
+      "x": 0.17,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hyena",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hyena"
+    },
+    "photo": {
+      "attributionName": "Termininja",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Hyaenidae_Diversity.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Hyaenidae_Diversity.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hyena",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

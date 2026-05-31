@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "llama",
+  "name": "Llama",
+  "species": {
+    "displayName": "Llama",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "High-altitude hauler with a habit of spitting.",
+    "shortDescription": "Llamas have been used as pack animals in the Andes mountains for thousands of years — they can carry heavy loads up steep rocky trails without slipping. When a llama is annoyed, it makes a deep humming sound — and if it's really unhappy, it will spit. Fun fact: Llamas have three stomach compartments to squeeze every bit of nutrition from tough mountain plants."
+  },
+  "image": {
+    "primaryFileName": "llama.jpg",
+    "sourceRelativePath": "Content/images/llama.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Llama",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Llama"
+    },
+    "photo": {
+      "attributionName": "Sanjay Acharya",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Black Llama.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Black_Llama.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "llama",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

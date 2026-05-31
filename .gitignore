@@ -1,0 +1,9 @@
+# Local command receipts; durable summaries live in indexes/* and the app goal notes.
+*.log
+.DS_Store
+.wrangler/
+.dev.vars
+.env
+.env.*
+!docs/**/*.md
+tmp/

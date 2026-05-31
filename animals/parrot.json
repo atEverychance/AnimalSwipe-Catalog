@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "parrot",
+  "name": "Parrot",
+  "species": {
+    "displayName": "Parrot",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The talking, climbing, nutcracking bird that never stops chatting.",
+    "shortDescription": "Parrots are among the cleverest birds alive — they can solve puzzles, use tools, count small numbers, and mimic human speech well enough to use words in the right context, not just repeat them randomly. They climb using their beak as a third hand, gripping branches while moving a foot. Fun fact: African grey parrots have been shown to understand that hidden objects still exist — a concept human children don't fully grasp until they're about a year old."
+  },
+  "image": {
+    "primaryFileName": "parrot.jpg",
+    "sourceRelativePath": "Content/images/parrot.jpg",
+    "focalPoint": {
+      "x": 0.62,
+      "y": 0.22
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Parrot",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Parrot"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Rainbow_lorikeet_(Trichoglossus_moluccanus_moluccanus)_Sydney.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "parrot",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

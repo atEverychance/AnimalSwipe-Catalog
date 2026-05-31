@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "sky-sentinels",
+  "name": "Sky Sentinels",
+  "subtitle": "Big wings on open-air patrol",
+  "description": "Soaring raptors and powerful long-distance fliers.",
+  "kind": "habitat",
+  "sortOrder": 70,
+  "coverAnimalID": "eagle",
+  "symbolName": "wind",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 2,
+    "weight": 2,
+    "group": "raptors"
+  },
+  "animalIDs": [
+    "eagle",
+    "bald-eagle",
+    "golden-eagle",
+    "hawk",
+    "falcon",
+    "kestrel",
+    "vulture",
+    "condor",
+    "swan",
+    "goose"
+  ]
+}

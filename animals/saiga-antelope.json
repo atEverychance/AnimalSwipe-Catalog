@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "saiga-antelope",
+  "name": "Saiga antelope",
+  "species": {
+    "displayName": "Saiga antelope",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The ancient steppe runner with the most unusual nose on four legs.",
+    "shortDescription": "The saiga antelope has a large, droopy, almost trunk-like nose that looks like no other animal's face. That strange nose is a superpower: in summer it filters out the clouds of dust kicked up by stampeding herds, and in winter it warms and humidifies freezing air before it reaches the lungs. Fun fact: Saiga can sprint at over eighty kilometres per hour across the open steppe."
+  },
+  "image": {
+    "primaryFileName": "saiga-antelope.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/saiga-antelope.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Saiga_antelope",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Saiga_antelope"
+    },
+    "photo": {
+      "attributionName": "Andrey Giljov",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "saiga-antelope",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

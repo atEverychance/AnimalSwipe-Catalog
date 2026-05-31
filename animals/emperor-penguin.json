@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "emperor-penguin",
+  "name": "Emperor penguin",
+  "species": {
+    "displayName": "Emperor penguin",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The dad who stands in Antarctic blizzards keeping an egg warm on his feet.",
+    "shortDescription": "Emperor penguins are the only animals that breed in the Antarctic winter, when temperatures can plunge to minus sixty degrees. The male keeps the single egg balanced on top of his feet under a warm fold of belly skin, eating nothing for two months while the females are out at sea hunting. To survive the cold, thousands of males huddle together, slowly rotating so everyone gets a turn in the warm middle. Fun fact: Emperor penguin chicks are born in the coldest place on Earth — in the dead of Antarctic winter."
+  },
+  "image": {
+    "primaryFileName": "emperor-penguin.jpg",
+    "sourceRelativePath": "Content/images/emperor-penguin.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Emperor_penguin",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Emperor_penguin"
+    },
+    "photo": {
+      "attributionName": "Ian Duffy from UK",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "emperor-penguin",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

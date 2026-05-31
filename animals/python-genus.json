@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "python-genus",
+  "name": "Python",
+  "species": {
+    "displayName": "Python",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The world's longest squeeze — and no teeth required.",
+    "shortDescription": "Pythons coil their powerful body around their prey and hold on tight until it stops struggling — no venom needed at all. They don't have venom — they don't need it. The reticulated python is the longest snake species alive, sometimes exceeding seven meters. Fun fact: Pythons can sense body heat using special pits on their lips, letting them hunt warm-blooded animals in complete darkness."
+  },
+  "image": {
+    "primaryFileName": "python-genus.jpg",
+    "sourceRelativePath": "Content/images/python-genus.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Python_%28genus%29",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Python_%28genus%29"
+    },
+    "photo": {
+      "attributionName": "Tigerpython",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Python molurus molurus-Portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Python_molurus_molurus-Portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "python-genus",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

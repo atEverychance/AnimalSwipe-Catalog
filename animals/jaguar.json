@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "jaguar",
+  "name": "Jaguar",
+  "species": {
+    "displayName": "Jaguar",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The rainforest's most powerful secret.",
+    "shortDescription": "Jaguars are built like tanks in spots — short, muscular, and incredibly strong. They love water and are confident swimmers, sometimes hunting fish and caimans right in the river. Fun fact: The jaguar has the strongest bite of any big cat, strong enough to crack open a turtle shell."
+  },
+  "image": {
+    "primaryFileName": "jaguar.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/jaguar.jpg",
+    "focalPoint": {
+      "x": 0.82,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Jaguar",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Jaguar"
+    },
+    "photo": {
+      "attributionName": "USFWS",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Standing_jaguar.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Standing_jaguar.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "spots"
+    ],
+    "hookArchetypes": [
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "jaguar",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

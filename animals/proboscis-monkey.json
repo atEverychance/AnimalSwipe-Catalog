@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "proboscis-monkey",
+  "name": "Proboscis monkey",
+  "species": {
+    "displayName": "Proboscis monkey",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The biggest nose in the jungle, and it's loud.",
+    "shortDescription": "Proboscis monkeys live in the mangrove forests of Borneo, and the males grow enormous drooping noses that hang down over their mouths. When a male honks to attract a mate or warn rivals, that big nose amplifies the sound like a built-in megaphone. Fun fact: Proboscis monkeys have partially webbed feet and are strong swimmers — they regularly cross rivers and have even been seen swimming in the ocean."
+  },
+  "image": {
+    "primaryFileName": "proboscis-monkey.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/proboscis-monkey.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Proboscis_monkey",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Proboscis_monkey"
+    },
+    "photo": {
+      "attributionName": "David Dennis",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Proboscis_Monkey_in_Borneo.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Proboscis_Monkey_in_Borneo.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "proboscis-monkey",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

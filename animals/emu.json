@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "emu",
+  "name": "Emu",
+  "species": {
+    "displayName": "Emu",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Australia's tallest bird, with the father doing almost everything.",
+    "shortDescription": "Emus are big, shaggy, and surprisingly fast — they can hit fifty kilometers per hour on open ground. When emu eggs are laid, the father takes charge: he stops eating and drinking and sits on the nest for eight weeks straight, losing a third of his body weight by the time the chicks hatch. Emus can't fly, but they are strong swimmers and will cross rivers without hesitation. Fun fact: Emus have two sets of eyelids — one for blinking and one to keep out dust and sand."
+  },
+  "image": {
+    "primaryFileName": "emu.jpg",
+    "sourceRelativePath": "Content/images/emu.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Emu",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Emu"
+    },
+    "photo": {
+      "attributionName": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Emu_1_-_Tidbinbilla.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "emu",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

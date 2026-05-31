@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "spider",
+  "name": "Spider",
+  "species": {
+    "displayName": "Spider",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Eight eyes, eight legs, and the world's strongest natural rope.",
+    "shortDescription": "Spider silk is stronger than steel of the same thickness — engineers dream about being able to make it in large quantities. Spiders have silk glands for different jobs: sticky spiral silk for trapping prey, dragline silk for moving around, and wrap silk for bundling up a catch. Fun fact: Most spiders have eight eyes, but many of them have terrible vision anyway and rely mostly on vibrations through their web."
+  },
+  "image": {
+    "primaryFileName": "spider.jpg",
+    "sourceRelativePath": "Content/images/spider.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Spider",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Spider"
+    },
+    "photo": {
+      "attributionName": "Mad Max at English Wikipedia",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Jumping-spider-WA-eyes.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Jumping-spider-WA-eyes.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "spider",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

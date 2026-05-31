@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "kangaroo",
+  "name": "Kangaroo",
+  "species": {
+    "displayName": "Kangaroo",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Big hops, strong tail, and the world's smallest newborn for its parent's size.",
+    "shortDescription": "A kangaroo's hop is actually more efficient at high speed than walking — the faster it goes, the less energy it uses, because the tendons in its legs work like springs, storing and releasing energy with each bound. A newborn joey is the size of a jellybean and crawls into the pouch by itself, moments after birth, with no help. Fun fact: Kangaroos cannot hop backward — they can only move forward, which is part of why the kangaroo appears on the Australian coat of arms."
+  },
+  "image": {
+    "primaryFileName": "kangaroo.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kangaroo.jpg",
+    "focalPoint": {
+      "x": 0.86,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Kangaroo",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Kangaroo"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Forester_kangaroo_(Macropus_giganteus_tasmaniensis)_juvenile_hopping_Esk_Valley.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Forester_kangaroo_%28Macropus_giganteus_tasmaniensis%29_juvenile_hopping_Esk_Valley.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "kangaroo",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

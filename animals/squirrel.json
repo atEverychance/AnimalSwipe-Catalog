@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "squirrel",
+  "name": "Squirrel",
+  "species": {
+    "displayName": "Squirrel",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Burying thousands of snacks, remembering most of them.",
+    "shortDescription": "Squirrels bury up to a few thousand nuts and acorns every autumn to eat through winter, and they can sniff out their buried stash through thirty centimeters of snow. The ones they forget to dig up often sprout into new trees — squirrels accidentally plant forests. Fun fact: Squirrels use fake-burying tricks to fool other squirrels who might be watching them cache their food."
+  },
+  "image": {
+    "primaryFileName": "squirrel.jpg",
+    "sourceRelativePath": "Content/images/squirrel.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Squirrel",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Squirrel"
+    },
+    "photo": {
+      "attributionName": "ShenandoahNPS",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Fox Squirrel Portrait (51841081329).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Fox_Squirrel_Portrait_%2851841081329%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "squirrel",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

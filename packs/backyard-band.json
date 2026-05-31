@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "backyard-band",
+  "name": "Backyard Band",
+  "subtitle": "The birds right outside your window",
+  "description": "Neighborhood birds plus one bright butterfly buddy.",
+  "kind": "theme",
+  "sortOrder": 90,
+  "coverAnimalID": "crow",
+  "symbolName": "music.note.house.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 2,
+    "weight": 2,
+    "group": "songbirds"
+  },
+  "animalIDs": [
+    "crow",
+    "raven",
+    "magpie",
+    "turkey-bird",
+    "chicken",
+    "rooster",
+    "pheasant",
+    "quail",
+    "finch",
+    "butterfly"
+  ]
+}

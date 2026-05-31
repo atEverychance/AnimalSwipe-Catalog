@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "elephant",
+  "name": "Elephant",
+  "species": {
+    "displayName": "Elephant",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The biggest animal on land has the world's most remarkable nose.",
+    "shortDescription": "An elephant's trunk is forty thousand muscles with no bones — soft enough to pick up a single grape, strong enough to uproot a tree. Elephants remember every watering hole, every friend, every loss — a grandmother elephant might carry the map of a landscape she first walked fifty years ago. Fun fact: Elephants make rumbles too low for human ears to hear, sending messages underground through their feet to elephants kilometers away."
+  },
+  "image": {
+    "primaryFileName": "elephant.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/elephant.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Elephant",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Elephant"
+    },
+    "photo": {
+      "attributionName": "Muhammad Mahdi Karim Facebook The making of this document was supported by Wikimedia CH. (Submit your project!) For all the files concerned, please see the category Supported by Wikimedia CH. العربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙ English ∙ Esperanto ∙ español ∙ français ∙ galego ∙ हिन्दी ∙ magyar ∙ italiano ∙ 日本語 ∙ македонски ∙ Nederlands ∙ português do Brasil ∙ rumantsch ∙ русский ∙ sicilianu ∙ slovenščina ∙ தமிழ் ∙ українська ∙ 中文 ∙ +/−",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "African_Bush_Elephant.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:African_Bush_Elephant.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "giant"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "elephant",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "tiny-trailblazers",
+  "name": "Tiny Trailblazers",
+  "subtitle": "Small animals with huge personalities",
+  "description": "Small creatures with outsized personality and hustle.",
+  "kind": "theme",
+  "sortOrder": 40,
+  "coverAnimalID": "sloth",
+  "symbolName": "sparkles",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 1,
+    "weight": 2,
+    "group": "small-mammals"
+  },
+  "animalIDs": [
+    "sloth",
+    "anteater",
+    "armadillo",
+    "porcupine",
+    "hedgehog",
+    "rabbit",
+    "hare",
+    "squirrel",
+    "chipmunk",
+    "hamster"
+  ]
+}

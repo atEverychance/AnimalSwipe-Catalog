@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "gibbon",
+  "name": "Gibbon",
+  "species": {
+    "displayName": "Gibbon",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Swinging arm over arm through the canopy like an acrobat late for breakfast.",
+    "shortDescription": "Gibbons are the fastest tree-moving primates on Earth, swinging between branches in a motion called brachiation — using just the momentum from one swing to throw themselves to the next branch without stopping. They have arms so long they drag on the ground when walking upright. Gibbons pair up and sing duets at dawn — a rising, whooping call that echoes through the forest and tells other gibbons exactly where they are and that this territory is taken. Fun fact: A gibbon can travel up to fourteen meters in a single swing without slowing down."
+  },
+  "image": {
+    "primaryFileName": "gibbon.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/gibbon.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Gibbon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Gibbon"
+    },
+    "photo": {
+      "attributionName": "JJ Harrison (jjharrison89@facebook.com)",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Hylobates_lar_-_Kaeng_Krachan_WB.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Hylobates_lar_-_Kaeng_Krachan_WB.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "gibbon",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

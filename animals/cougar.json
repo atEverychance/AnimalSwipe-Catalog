@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "cougar",
+  "name": "Cougar",
+  "species": {
+    "displayName": "Cougar",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Fifty names, one mountain shadow.",
+    "shortDescription": "The cougar holds the world record for the animal with the most common names — puma, mountain lion, panther, catamount, and over forty others — and it lives in more places than any other wild cat in the Western Hemisphere, from Yukon to Patagonia. It can leap five metres straight up from a standing start. Fun fact: Cougars can't roar — instead they purr like a house cat, and females make a piercing scream during mating season that sounds almost human."
+  },
+  "image": {
+    "primaryFileName": "cougar.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cougar.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Cougar",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Cougar"
+    },
+    "photo": {
+      "attributionName": "National Park Service",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Mountain_Lion_in_Glacier_National_Park.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mountain_Lion_in_Glacier_National_Park.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "cougar",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

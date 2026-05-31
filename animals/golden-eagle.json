@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "golden-eagle",
+  "name": "Golden eagle",
+  "species": {
+    "displayName": "Golden eagle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Mountain hunter with golden nape feathers and a dive faster than a falling stone.",
+    "shortDescription": "Golden eagles are among the fastest diving birds on Earth, folding their wings and plunging at over two hundred and forty kilometers per hour in a full stoop. They hunt hares, rabbits, and ground squirrels across open mountain terrain, and their huge feet can exert crushing grip force. Golden eagles have been used in falconry for thousands of years — some cultures in Central Asia still hunt wolves with them. Fun fact: A golden eagle's talons can exert a grip strong enough to crush bone."
+  },
+  "image": {
+    "primaryFileName": "golden-eagle.jpg",
+    "sourceRelativePath": "Content/images/golden-eagle.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Golden_eagle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Golden_eagle"
+    },
+    "photo": {
+      "attributionName": "Richard Bartz, Munich aka Makro Freak",
+      "licenseName": "CC BY-SA 2.5",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+      "commonsFile": "Steinadler Aquila chrysaetos closeup2 Richard Bartz.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Steinadler_Aquila_chrysaetos_closeup2_Richard_Bartz.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "golden-eagle",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "orca",
+  "name": "Orca",
+  "species": {
+    "displayName": "Orca",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The ocean's top team player — hunting together like a wolf pack beneath the waves.",
+    "shortDescription": "Orcas are the largest dolphins in the world, and they're one of the only animals known to intentionally beach themselves briefly to snatch seals from the shore — a trick mothers teach their calves by practicing on safe beaches with shallow water. Different orca families have their own dialects, passed down from grandmothers to grandchildren. Fun fact: An orca family's calls are so distinct they work like a language only that pod understands — and researchers can identify a pod just by listening."
+  },
+  "image": {
+    "primaryFileName": "orca.jpg",
+    "sourceRelativePath": "Content/images/orca.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Orca",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Orca"
+    },
+    "photo": {
+      "attributionName": "Robert L. Pitman",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Orca with iceball cropped.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Orca_with_iceball_cropped.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "orca",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

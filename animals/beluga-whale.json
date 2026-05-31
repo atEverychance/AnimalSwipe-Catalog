@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "beluga-whale",
+  "name": "Beluga whale",
+  "species": {
+    "displayName": "Beluga whale",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The white whale that can make faces — and sounds like a busy playground.",
+    "shortDescription": "Beluga whales are nicknamed sea canaries because they make so many chirps, squeaks, clicks, and whistles that you can sometimes hear them right through the hull of a boat. Unlike most whales, belugas have a flexible neck and can turn their head sideways — and they can change the shape of their forehead bubble to help make different sounds. Fun fact: Belugas are one of the few whales that can swim backward."
+  },
+  "image": {
+    "primaryFileName": "beluga-whale.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/beluga-whale.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Beluga_whale",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Beluga_whale"
+    },
+    "photo": {
+      "attributionName": "Javier Yaya Tur / CIUDAD DE LAS ARTES Y LAS CIENCIAS from Valencia, España",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Oceanogràfic_29102004.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Oceanogr%C3%A0fic_29102004.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "giant"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "beluga-whale",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "lobster",
+  "name": "Lobster",
+  "species": {
+    "displayName": "Lobster",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A deep-sea tank with two very different claws.",
+    "shortDescription": "Lobsters have two claws that do totally different jobs — one is wide and flat for crushing, the other is narrow and sharp for tearing. They walk slowly along the ocean floor but can flick their tail and shoot backward to escape danger in a flash. Fun fact: Lobsters keep growing their whole lives, so very old lobsters can be enormous — some as heavy as a big dog."
+  },
+  "image": {
+    "primaryFileName": "lobster.jpg",
+    "sourceRelativePath": "Content/images/lobster.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Lobster",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Lobster"
+    },
+    "photo": {
+      "attributionName": "XoMEoX",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "commonsFile": "Lobster Portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Lobster_Portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "claws",
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "lobster",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

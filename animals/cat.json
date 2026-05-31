@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "cat",
+  "name": "Cat",
+  "species": {
+    "displayName": "Cat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Whiskers forward, tail low, and disappearing into the carpet pattern.",
+    "shortDescription": "Cats have whiskers on their face, chin, and even the backs of their front legs — each one connected to a tiny nerve that senses the smallest air current or brush against a surface. Their eyes have a mirror-like layer behind the retina called the tapetum, which bounces light back through for a second look — that's why they glow in photos. Cats can rotate each ear independently to aim them at different sounds. Fun fact: Cats can jump up to six times their own body length in a single leap."
+  },
+  "image": {
+    "primaryFileName": "cat.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cat.jpg",
+    "focalPoint": {
+      "x": 0.75,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Cat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Cat"
+    },
+    "photo": {
+      "attributionName": "Alvesgaspar",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Cat_August_2010-4.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Cat_August_2010-4.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "cat",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "lemur",
+  "name": "Lemur",
+  "species": {
+    "displayName": "Lemur",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Arms wide open, face turned to the sun, completely unbothered.",
+    "shortDescription": "Ring-tailed lemurs start each morning by sitting up straight, spreading their arms wide, and basking directly in the sunlight like tiny solar panels warming up for the day. They live in female-led groups called troops and use scent marks to communicate who was where, when, and what mood they were in. Lemurs only live on the island of Madagascar, which split from the African continent millions of years ago and went its own strange way. Fun fact: A lemur troop communicates partly through scent 'stink fights' — males rub their tails on their scent glands and wave them at rivals."
+  },
+  "image": {
+    "primaryFileName": "lemur.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/lemur.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Lemur",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Lemur"
+    },
+    "photo": {
+      "attributionName": "Katta család.jpg: Veszprémi Állatkert Aye-aye at night in the wild in Madagascar.jpg: Frank Vassen Red-tailed Sportive Lemur, Kirindy, Madagascar.jpg: Frank Vassen Diademed ready to push off.jpg: C. Michael Hogan Archaeoindris fontoynonti.jpg: Smokeybjb Microcebus murinus -Artis Zoo, Amsterdam, Netherlands-8a.jpg: Arjan Haverkamp Juvenile Black-and-White Ruffed Lemur, Mantadia, Madagascar.jpg: Frank Vassen Two Brown Lemur, Mantadia, Madagascar.jpg: Frank Vassen derivative work: Maky",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Lemuroidea.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Lemuroidea.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "lemur",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

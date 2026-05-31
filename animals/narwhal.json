@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "narwhal",
+  "name": "Narwhal",
+  "species": {
+    "displayName": "Narwhal",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The Arctic unicorn with a spiral tusk bigger than you.",
+    "shortDescription": "Narwhals are medium-sized whales that live in Arctic waters — and males grow a single spiralling tusk that can be up to three metres long, sticking out of the left side of their upper jaw. For centuries nobody outside the Arctic knew what creature the tusks came from, and they were sold as genuine unicorn horns. Fun fact: The narwhal tusk is actually a tooth — a canine that grows outward through the lip and keeps spiralling for the whale's whole life."
+  },
+  "image": {
+    "primaryFileName": "narwhal.jpg",
+    "sourceRelativePath": "Content/images/narwhal.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Narwhal",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Narwhal"
+    },
+    "photo": {
+      "attributionName": "Dr. Kristin Laidre, Polar Science Center, UW NOAA/OAR/OER",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Pod Monodon monoceros.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pod_Monodon_monoceros.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "narwhal",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

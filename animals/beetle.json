@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "beetle",
+  "name": "Beetle",
+  "species": {
+    "displayName": "Beetle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The most successful animal shape in the history of life.",
+    "shortDescription": "There are more species of beetle than any other type of animal on Earth — around four hundred thousand known species, and scientists keep finding new ones. Their front wings have turned into hard armor-like covers called elytra that protect the delicate flying wings folded underneath. Fun fact: The goliath beetle from Africa is one of the heaviest insects alive, weighing as much as an apple."
+  },
+  "image": {
+    "primaryFileName": "beetle.jpg",
+    "sourceRelativePath": "Content/images/beetle.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Beetle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Beetle"
+    },
+    "photo": {
+      "attributionName": "Thomas G. Moertel (Tmoertel at en.wikipedia)",
+      "licenseName": "CC BY-SA 2.5",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+      "commonsFile": "Lady-beetle-close-up.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Lady-beetle-close-up.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "beetle",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

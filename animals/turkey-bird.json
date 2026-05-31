@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "turkey-bird",
+  "name": "Turkey",
+  "species": {
+    "displayName": "Turkey",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "All puffed up and gobbling loud enough to hear from across a field.",
+    "shortDescription": "Wild turkeys are nothing like the slow, plump birds people imagine — they can sprint at fifty kilometers per hour and roost high in trees to sleep safely. Males puff up their feathers, fan their tail, and drag their wingtips on the ground to impress females, making a loud scraping sound. Fun fact: A turkey's head changes color — from red to blue to white — depending on how excited or calm it is."
+  },
+  "image": {
+    "primaryFileName": "turkey-bird.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/turkey-bird.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Turkey_%28bird%29",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Turkey_%28bird%29"
+    },
+    "photo": {
+      "attributionName": "Frank Schulenburg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "turkey-bird",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

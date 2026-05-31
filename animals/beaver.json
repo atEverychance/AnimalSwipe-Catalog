@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "beaver",
+  "name": "Beaver",
+  "species": {
+    "displayName": "Beaver",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Nature's most ambitious construction crew.",
+    "shortDescription": "Beavers build dams across streams using branches, mud, and stones — and those dams create whole new ponds that didn't exist before. The pond protects their home, called a lodge, which has an underwater entrance so predators can't get in. Fun fact: Beaver teeth never stop growing and are naturally coated in orange iron-rich enamel, which makes them extra hard."
+  },
+  "image": {
+    "primaryFileName": "beaver.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/beaver.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Beaver",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Beaver"
+    },
+    "photo": {
+      "attributionName": "Steve from Washington, DC, USA",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "American_Beaver.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:American_Beaver.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "beaver",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

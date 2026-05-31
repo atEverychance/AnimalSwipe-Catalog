@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "northern-cardinal",
+  "name": "Northern cardinal",
+  "species": {
+    "displayName": "Northern cardinal",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The brightest red bird at the feeder, and the females sing just as well.",
+    "shortDescription": "Male northern cardinals are the color of a red crayon — vivid all the way to the tips. Unlike most songbirds, the female cardinal also sings, sometimes calling back and forth with her partner from their separate perches. Fun fact: A cardinal gets its red color from the food it eats — carotenoid pigments in berries and seeds make the feathers glow."
+  },
+  "image": {
+    "primaryFileName": "northern-cardinal.jpg",
+    "sourceRelativePath": "Content/images/northern-cardinal.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Northern_cardinal",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Northern_cardinal"
+    },
+    "photo": {
+      "attributionName": "Rhododendrites",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Male_northern_cardinal_in_Central_Park_(52612).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Male_northern_cardinal_in_Central_Park_%2852612%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "northern-cardinal",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

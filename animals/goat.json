@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "goat",
+  "name": "Goat",
+  "species": {
+    "displayName": "Goat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Climbs where nothing else dares, eats almost everything.",
+    "shortDescription": "Mountain goats can scale near-vertical cliff faces because their hooves have two toes that spread wide for balance plus a hard outer edge and a soft rubbery inner pad that grips rock like a climbing shoe. Their rectangular pupils give them a very wide field of vision to watch for predators from any angle. Fun fact: Goats have accents — studies show that young goats develop slightly different calls depending on which social group they grow up in."
+  },
+  "image": {
+    "primaryFileName": "goat.jpg",
+    "sourceRelativePath": "Content/images/goat.jpg",
+    "focalPoint": {
+      "x": 0.75,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Goat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Goat"
+    },
+    "photo": {
+      "attributionName": "Kuebi = Armin Kübelbeck",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Hausziege_04.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "goat",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

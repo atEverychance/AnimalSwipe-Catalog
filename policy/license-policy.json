@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "allowedLicenseFamilies": [
+    "Public Domain",
+    "CC0",
+    "CC BY",
+    "CC BY-SA"
+  ],
+  "rejectedLicenseMarkers": [
+    "NC",
+    "ND",
+    "NonCommercial",
+    "NoDerivatives"
+  ],
+  "requiresAttributionName": true,
+  "requiresSourceURL": true,
+  "requiresLicenseName": true
+}

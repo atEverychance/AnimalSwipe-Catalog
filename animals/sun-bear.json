@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "sun-bear",
+  "name": "Sun bear",
+  "species": {
+    "displayName": "Sun bear",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The world's smallest bear has the world's longest tongue for the job.",
+    "shortDescription": "Sun bears live in the rainforests of Southeast Asia and are the smallest bear species — roughly the size of a large dog. They have jet-black fur with a pale crescent chest patch that gives them their name, and an extraordinarily long tongue — up to twenty-five centimetres — that they use to extract honey from beehives and termites from mounds. Fun fact: Sun bears have the longest tongue relative to body size of any bear."
+  },
+  "image": {
+    "primaryFileName": "sun-bear.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sun-bear.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Sun_bear",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Sun_bear"
+    },
+    "photo": {
+      "attributionName": "Rushenb",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Sun-bear.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Sun-bear.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "large"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "sun-bear",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

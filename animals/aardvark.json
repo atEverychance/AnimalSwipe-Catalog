@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "aardvark",
+  "name": "Aardvark",
+  "species": {
+    "displayName": "Aardvark",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A pig-nosed, rabbit-eared, digging machine built for one job: ants.",
+    "shortDescription": "The aardvark has a pig-like snout, long rabbit-like ears, and a body that looks like it couldn't quite decide what it wanted to be — but it is perfectly designed for digging into rock-hard termite mounds and slurping up thousands of insects a night. Its sticky tongue is up to thirty centimeters long and moves in and out of its mouth up to a hundred times a minute. Aardvarks are so important to the ecosystem that other animals move into their abandoned burrows — warthogs, hyenas, foxes, and owls all use old aardvark holes. Fun fact: The aardvark is the only living member of its entire order — there is nothing quite like it anywhere else on Earth."
+  },
+  "image": {
+    "primaryFileName": "aardvark.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/aardvark.jpg",
+    "focalPoint": {
+      "x": 0.8,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Aardvark",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Aardvark"
+    },
+    "photo": {
+      "attributionName": "Kelly Abram",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "commonsFile": "Orycteropus_afer_175359469.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Orycteropus_afer_175359469.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "aardvark",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

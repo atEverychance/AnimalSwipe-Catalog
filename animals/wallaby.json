@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "wallaby",
+  "name": "Wallaby",
+  "species": {
+    "displayName": "Wallaby",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A pocket-sized kangaroo with serious bounce.",
+    "shortDescription": "Wallabies look like smaller kangaroos, but they're their own species — actually a whole group of many different species living across Australia and New Guinea. They're quick and springy, able to change direction mid-hop between trees and bushes. Fun fact: A wallaby joey's gender is determined by which pouch teat it attaches to after birth."
+  },
+  "image": {
+    "primaryFileName": "wallaby.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wallaby.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Wallaby",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Wallaby"
+    },
+    "photo": {
+      "attributionName": "User:benjamint444",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Red_necked_wallaby444.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Red_necked_wallaby444.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "wallaby",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

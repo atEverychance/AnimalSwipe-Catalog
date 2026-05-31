@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "gorilla",
+  "name": "Gorilla",
+  "species": {
+    "displayName": "Gorilla",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Gentle giant of the rainforest — and fiercely loyal to his family.",
+    "shortDescription": "Gorillas live in close family troops and spend their days eating, playing, and grooming. When a silverback male needs to make a point, he stands up tall and beats his chest with cupped hands — the boom travels through the forest like a drum. Despite the theatrics, gorillas are patient, peaceful plant-eaters most of the time. Fun fact: Gorillas share about ninety-eight percent of their DNA with humans, which shows up in everything from their expressions to the way they hold their babies."
+  },
+  "image": {
+    "primaryFileName": "gorilla.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/gorilla.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Gorilla",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Gorilla"
+    },
+    "photo": {
+      "attributionName": "Thurundir",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Gorille_des_plaines_de_l'ouest_à_l'Espace_Zoologique.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Gorille_des_plaines_de_l%27ouest_%C3%A0_l%27Espace_Zoologique.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "gorilla",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

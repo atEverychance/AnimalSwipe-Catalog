@@ -1,0 +1,71 @@
+# Cloudflare staging setup
+
+Wrangler is authenticated locally with OAuth. No API token is required for local setup.
+
+## Current target names
+
+- Account email: `ai@everychance.ca`
+- Account ID: `cff4d411f5dadab48c92e2c2a6be049d`
+- workers.dev subdomain: `everychance-ai.workers.dev`
+- Staging Worker: `animalswipe-catalog-staging`
+- Staging Worker URL: `https://animalswipe-catalog-staging.everychance-ai.workers.dev`
+- Staging R2 bucket: `animalswipe-catalog-staging`
+- Production Worker placeholder: `animalswipe-catalog`
+- Production R2 bucket placeholder: `animalswipe-catalog-prod`
+
+## Current status
+
+Completed:
+
+```bash
+wrangler r2 bucket create animalswipe-catalog-staging
+python3 scripts/prepare_signed_manifest.py --source-app-repo ../AnimalSwipe --version 1
+python3 scripts/catalog.py validate --mode publish
+python3 scripts/cloudflare_upload.py --bucket animalswipe-catalog-staging --version 1 --source-app-repo ../AnimalSwipe --include-assets
+wrangler deploy --env staging
+```
+
+Results:
+
+- R2 bucket exists: `animalswipe-catalog-staging`.
+- 203 objects uploaded: `latest.json`, `catalog/catalog-v0001.json`, `catalog/assets-manifest-v0001.json`, and 200 `assets/*.jpg` files.
+- R2 round-trip verification passed for `latest.json`, `catalog/catalog-v0001.json`, and sample asset `assets/tiger.jpg`.
+- workers.dev subdomain registered: `everychance-ai`.
+- Staging Worker deployed at `https://animalswipe-catalog-staging.everychance-ai.workers.dev`.
+- HTTPS verification passed for `/health`, `/latest.json`, `/catalog/catalog-v0001.json`, and sample `/assets/tiger.jpg`.
+- Worker version deployed: `a1ce85ff-0d3e-4093-8fbb-df8a7172c45c`.
+
+## Verification commands
+
+```bash
+BASE=https://animalswipe-catalog-staging.everychance-ai.workers.dev
+curl "$BASE/health"
+curl "$BASE/latest.json"
+curl "$BASE/catalog/catalog-v0001.json"
+curl -I "$BASE/assets/tiger.jpg"
+python3 scripts/catalog.py validate --mode baseline --source-app-repo ../AnimalSwipe
+python3 scripts/catalog.py validate --mode expansion
+python3 scripts/catalog.py validate --mode publish
+```
+
+## Signing keys
+
+`prepare_signed_manifest.py` creates the private P-256 key at:
+
+```text
+~/.animalswipe/catalog-signing-key-p256.pem
+```
+
+That file must stay out of Git. The public key is exported to `keys/catalog-public-key-p256.pem` for future iOS verification.
+
+## Current delivery decisions
+
+- Production/staging delivery can use the workers.dev domain for now; a custom `catalog.animalswipe.app` route is optional later.
+- GitHub is the source-of-truth for catalog records, review history, scripts, prompts, and source originals.
+- Cloudflare is delivery-only: generated manifests and optimized assets are uploaded to R2 and served by Workers.
+
+## Remaining production decisions
+
+- Catalog GitHub repo owner/name and visibility. Recommended default: private GitHub repo under the user's normal GitHub owner/org, named `AnimalSwipe-Catalog`, until licensing/reuse posture is intentionally public.
+- Whether large source originals require Git LFS once new source images are added; default to plain Git until file sizes or repo growth justify LFS.
+- Explicit approval before any first real remote pack goes live to app users. Approval means promoting new remote content into a signed manifest that a shipped app build can fetch/use, not merely generating candidates or staging existing baseline content.

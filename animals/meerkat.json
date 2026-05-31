@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "meerkat",
+  "name": "Meerkat",
+  "species": {
+    "displayName": "Meerkat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Tiny, upright, and scanning the sky for danger.",
+    "shortDescription": "Meerkats live in big family groups in the Kalahari Desert and take turns standing guard — the lookout pops upright on its back legs, scans the horizon and the sky, and calls out different alarm sounds depending on what kind of predator is coming. The group hears the call and knows exactly what to do. Fun fact: Meerkats are immune to many venoms, including scorpion and cobra venom."
+  },
+  "image": {
+    "primaryFileName": "meerkat.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/meerkat.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Meerkat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Meerkat"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Meerkat_(Suricata_suricatta)_Tswalu.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Meerkat_%28Suricata_suricatta%29_Tswalu.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "meerkat",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

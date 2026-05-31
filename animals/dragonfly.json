@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "dragonfly",
+  "name": "Dragonfly",
+  "species": {
+    "displayName": "Dragonfly",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The ace pilot of the insect world.",
+    "shortDescription": "Dragonflies can fly forward, backward, sideways, and hover perfectly still — they have four wings that each move independently, giving them moves no helicopter can match. They catch almost everything they hunt, making them one of the most successful predators on Earth. Fun fact: Dragonflies spend most of their lives underwater as nymphs — sometimes for years — before ever flying for a few summer weeks."
+  },
+  "image": {
+    "primaryFileName": "dragonfly.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/dragonfly.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Dragonfly",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Dragonfly"
+    },
+    "photo": {
+      "attributionName": "Darkone (talk · contribs) / Darkone",
+      "licenseName": "CC BY-SA 2.5",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+      "commonsFile": "Gemeine_Heidelibelle_(Sympetrum_vulgatum)_4.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Gemeine_Heidelibelle_%28Sympetrum_vulgatum%29_4.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "dragonfly",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

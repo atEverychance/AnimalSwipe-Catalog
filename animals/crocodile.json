@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "crocodile",
+  "name": "Crocodile",
+  "species": {
+    "displayName": "Crocodile",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Basically unchanged for two hundred million years and still very effective.",
+    "shortDescription": "Crocodiles are living fossils — they've barely changed since dinosaurs roamed the Earth. They can float almost completely hidden with just their eyes and nostrils above the waterline, looking like a bumpy log until they decide not to. Fun fact: The crocodile has the strongest bite force ever measured in an animal — it can snap shut with the force of a car falling on you."
+  },
+  "image": {
+    "primaryFileName": "crocodile.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/crocodile.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Crocodile",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Crocodile"
+    },
+    "photo": {
+      "attributionName": "Leigh Bedford",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Nile_crocodile_head.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "crocodile",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "hare",
+  "name": "Hare",
+  "species": {
+    "displayName": "Hare",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Born ready, running before the sun is fully up.",
+    "shortDescription": "Unlike baby rabbits, hares are born fully furred, eyes open, and ready to run within hours — a survival strategy on open land where there's nowhere to hide. Hares rely on pure speed, zigzagging at up to seventy kilometers per hour to shake off a chasing fox or hawk. Fun fact: Mountain hares change their coat from brown in summer to brilliant white in winter to match the snow."
+  },
+  "image": {
+    "primaryFileName": "hare.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hare.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hare",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hare"
+    },
+    "photo": {
+      "attributionName": "Bernard DUPONT from FRANCE",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Scrub_Hare_(Lepus_saxatilis)_close-up_(30544290256)_(2).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Scrub_Hare_%28Lepus_saxatilis%29_close-up_%2830544290256%29_%282%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hare",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

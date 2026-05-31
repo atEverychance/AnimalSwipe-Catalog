@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "scale-squad",
+  "name": "Scale Squad",
+  "subtitle": "Reptiles, amphibians, and glow-ups",
+  "description": "Cold-blooded legends with incredible adaptations.",
+  "kind": "habitat",
+  "sortOrder": 100,
+  "coverAnimalID": "tree-frog",
+  "symbolName": "tortoise.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 3,
+    "weight": 3,
+    "group": "reptiles-amphibians"
+  },
+  "animalIDs": [
+    "tree-frog",
+    "toad",
+    "salamander",
+    "axolotl",
+    "iguana",
+    "chameleon",
+    "komodo-dragon",
+    "gecko",
+    "sea-turtle",
+    "tortoise"
+  ]
+}

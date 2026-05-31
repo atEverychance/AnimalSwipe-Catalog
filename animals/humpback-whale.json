@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "humpback-whale",
+  "name": "Humpback whale",
+  "species": {
+    "displayName": "Humpback whale",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The whale that sings long songs and blows bubble fishing nets.",
+    "shortDescription": "Humpback whales are famous for two things: their haunting, complex songs that can last for hours, and a genius trick called bubble-net feeding — where a group of them swims in a spiral blowing bubbles to trap fish in a shimmering tube, then lunges up through the middle with a huge open mouth. Fun fact: Male humpbacks sing the same song as all the other males in their ocean — and the song slowly changes over time as whales pick up new phrases."
+  },
+  "image": {
+    "primaryFileName": "humpback-whale.jpg",
+    "sourceRelativePath": "Content/images/humpback-whale.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Humpback_whale",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Humpback_whale"
+    },
+    "photo": {
+      "attributionName": "D. Gordon E. Robertson",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Humpback Whale, blowholes.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Humpback_Whale%2C_blowholes.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "giant"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "humpback-whale",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

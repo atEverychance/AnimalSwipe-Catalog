@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "tortoise",
+  "name": "Tortoise",
+  "species": {
+    "displayName": "Tortoise",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Older than your grandparents, your great-grandparents, and probably your whole school.",
+    "shortDescription": "Tortoises are the oldest living animals on Earth — some individuals alive today hatched before cars, planes, or electric lights were invented. Their domed shell is fused to their spine and ribs, making it a true part of their skeleton. Fun fact: The oldest tortoise ever recorded lived to at least 190 years old."
+  },
+  "image": {
+    "primaryFileName": "tortoise.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tortoise.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Tortoise",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Tortoise"
+    },
+    "photo": {
+      "attributionName": "Childzy at en.wikipedia",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "A._gigantea_Aldabra_Giant_Tortoise.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:A._gigantea_Aldabra_Giant_Tortoise.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "shell",
+      "scales"
+    ],
+    "hookArchetypes": [
+      "armored"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "tortoise",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

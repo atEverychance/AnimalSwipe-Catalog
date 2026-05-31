@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "owl",
+  "name": "Owl",
+  "species": {
+    "displayName": "Owl",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The silent night hunter with a head that turns three-quarters of the way around.",
+    "shortDescription": "Owls can rotate their heads up to two hundred and seventy degrees because their eyes are fixed forward and can't move in their sockets the way ours can. Their wing feathers have soft, comb-like edges that break up air turbulence, making their flight almost completely silent — a mouse in total darkness has no warning at all before the owl arrives. Fun fact: Owls have three eyelids — one for blinking, one for sleeping, and a third that sweeps sideways to clean the eye like a windshield wiper."
+  },
+  "image": {
+    "primaryFileName": "owl.jpg",
+    "sourceRelativePath": "Content/images/owl.jpg",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.24
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Owl",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Owl"
+    },
+    "photo": {
+      "attributionName": "Carlos Delgado",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Bubo_bubo_sibiricus_-_01.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_sibiricus_-_01.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal",
+      "wings"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "owl",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

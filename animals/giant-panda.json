@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "giant-panda",
+  "name": "Giant panda",
+  "species": {
+    "displayName": "Giant panda",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The world's most famous bamboo expert, eating sixteen hours a day.",
+    "shortDescription": "Giant pandas are technically carnivores — classified as meat-eaters — but they eat almost nothing but bamboo, which is so low in nutrition that they have to eat enormous piles of it, all day long. They have a special wrist bone that juts out like a thumb, perfectly shaped for gripping stalks. Fun fact: A giant panda eats up to thirty-eight kilograms of bamboo in a single day — that's roughly the weight of an average seven-year-old."
+  },
+  "image": {
+    "primaryFileName": "giant-panda.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/giant-panda.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Giant_panda"
+    },
+    "photo": {
+      "attributionName": "J. Patrick Fischer",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Grosser_Panda.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "cute"
+    ],
+    "hookArchetypes": [
+      "cute"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "giant-panda",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

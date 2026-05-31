@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "bee",
+  "name": "Bee",
+  "species": {
+    "displayName": "Bee",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Every flower, every fruit, depends on this little flier.",
+    "shortDescription": "Bees pollinate about a third of all the food humans eat — without bees visiting flowers and spreading pollen, most of our fruits and vegetables wouldn't exist. When a honeybee finds a great patch of flowers, it flies back to the hive and performs a waggle dance to tell the other bees exactly where to go. Fun fact: A single honeybee produces only about one twelfth of a teaspoon of honey in its entire lifetime."
+  },
+  "image": {
+    "primaryFileName": "bee.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bee.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bee",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bee"
+    },
+    "photo": {
+      "attributionName": "Graham Wise from Brisbane, Australia",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Tetragonula_carbonaria_(14521993792).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Tetragonula_carbonaria_%2814521993792%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bee",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

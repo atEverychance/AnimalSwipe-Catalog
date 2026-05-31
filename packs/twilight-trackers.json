@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "twilight-trackers",
+  "name": "Twilight Trackers",
+  "subtitle": "Creatures of the night",
+  "description": "Sneaky night explorers with big eyes and bigger surprises.",
+  "kind": "theme",
+  "sortOrder": 170,
+  "coverAnimalID": "fennec-fox",
+  "symbolName": "moon.stars.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 4,
+    "weight": 2,
+    "group": "night-mammals"
+  },
+  "animalIDs": [
+    "gibbon",
+    "tapir",
+    "wombat",
+    "tasmanian-devil",
+    "aardvark",
+    "numbat",
+    "fennec-fox",
+    "serval",
+    "caracal",
+    "lynx"
+  ]
+}

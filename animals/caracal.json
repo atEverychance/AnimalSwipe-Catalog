@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "caracal",
+  "name": "Caracal",
+  "species": {
+    "displayName": "Caracal",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Black ear tufts, rocket legs, and zero patience for flying birds.",
+    "shortDescription": "Caracals are medium-sized wild cats with sleek sandy coats and dramatic black ear tufts that look like they're wearing fancy hats. They're famous for leaping high into the air and batting multiple birds out of a flock in one lightning-fast burst — sometimes catching two at once. Fun fact: The word 'caracal' comes from a Turkish phrase meaning 'black ears.'"
+  },
+  "image": {
+    "primaryFileName": "caracal.jpg",
+    "sourceRelativePath": "Content/images/caracal.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Caracal",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Caracal"
+    },
+    "photo": {
+      "attributionName": "Charles Barilleaux from Cincinnati, Ohio, United States of America",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Caracal Portrait (7476164046).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Caracal_Portrait_%287476164046%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "caracal",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

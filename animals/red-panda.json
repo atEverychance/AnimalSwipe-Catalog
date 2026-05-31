@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "red-panda",
+  "name": "Red panda",
+  "species": {
+    "displayName": "Red panda",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Fluffy, rust-coloured, and built entirely for mountain life.",
+    "shortDescription": "Red pandas are not related to giant pandas — they're closer to raccoons and weasels, and they were named first, so technically pandas are named after them. They live in cold Himalayan forests and wrap their thick ringed tails around themselves like a built-in scarf when the temperature drops. Fun fact: Red pandas have a false thumb — a wrist bone that juts out just enough to help them grip bamboo shoots, like a little secret hand."
+  },
+  "image": {
+    "primaryFileName": "red-panda.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/red-panda.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Red_panda",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Red_panda"
+    },
+    "photo": {
+      "attributionName": "Sunuwargr",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "cute"
+    ],
+    "hookArchetypes": [
+      "cute"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "red-panda",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

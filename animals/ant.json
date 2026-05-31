@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ant",
+  "name": "Ant",
+  "species": {
+    "displayName": "Ant",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Small body, enormous team, unstoppable together.",
+    "shortDescription": "Ants can carry up to fifty times their own body weight — that's like a kid carrying a car. They communicate entirely with chemical signals called pheromones, laying invisible scent trails that tell the whole colony where to go. Fun fact: There are more ants on Earth than any other insect — scientists estimate about twenty quadrillion of them."
+  },
+  "image": {
+    "primaryFileName": "ant.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ant.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Ant",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Ant"
+    },
+    "photo": {
+      "attributionName": "Samantha Henneke from Seagrove, North Carolina, USA",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Red_Ant_-_March_2025.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "ant",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

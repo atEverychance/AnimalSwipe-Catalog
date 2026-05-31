@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "blue-jay",
+  "name": "Blue jay",
+  "species": {
+    "displayName": "Blue jay",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Loud, bold, brilliant blue, and extremely aware of everything happening.",
+    "shortDescription": "Blue jays are the neighborhood alarm system — when a hawk appears, they scream a warning and every small bird nearby freezes or hides. They're also excellent mimics and can copy a red-tailed hawk's cry so well that other birds scatter even when there's no hawk in sight. Fun fact: Blue jays bury thousands of acorns every autumn and remember where most of them are buried."
+  },
+  "image": {
+    "primaryFileName": "blue-jay.jpg",
+    "sourceRelativePath": "Content/images/blue-jay.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Blue_jay",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Blue_jay"
+    },
+    "photo": {
+      "attributionName": "Rhododendrites",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Blue_jay_in_PP_(30960).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Blue_jay_in_PP_%2830960%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "blue-jay",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

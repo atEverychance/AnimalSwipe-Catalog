@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "monarch-butterfly",
+  "name": "Monarch butterfly",
+  "species": {
+    "displayName": "Monarch butterfly",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "One tiny insect, four thousand kilometers of open sky.",
+    "shortDescription": "Monarch butterflies migrate farther than almost any insect alive — millions of them travel from Canada all the way to forests in central Mexico every autumn, crossing mountains and deserts on wings no bigger than your hand. They've never made the trip before, but they still find the exact same trees their great-grandparents used. Fun fact: No single monarch butterfly lives long enough to make the full round trip — it takes three or four generations to complete the journey."
+  },
+  "image": {
+    "primaryFileName": "monarch-butterfly.jpg",
+    "sourceRelativePath": "Content/images/monarch-butterfly.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Monarch_butterfly",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Monarch_butterfly"
+    },
+    "photo": {
+      "attributionName": "Pro2",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Danaus plexippus portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Danaus_plexippus_portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "monarch-butterfly",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

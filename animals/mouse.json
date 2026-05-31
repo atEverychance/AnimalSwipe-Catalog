@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "mouse",
+  "name": "Mouse",
+  "species": {
+    "displayName": "Mouse",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Tiny explorer with whiskers that feel every gap before squeezing through.",
+    "shortDescription": "A mouse uses its whiskers like a ruler — before squeezing into any hole, it checks the width first. Those wiry little whiskers brush the edges and tell the mouse's brain whether it's a go or a no. Mice can fit through any gap big enough for a pencil to pass through. Fun fact: A mouse's whiskers can feel air movements to detect danger even in complete darkness."
+  },
+  "image": {
+    "primaryFileName": "mouse.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mouse.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Mouse",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Mouse"
+    },
+    "photo": {
+      "attributionName": "George Shuklin (talk)",
+      "licenseName": "CC BY-SA 1.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/1.0",
+      "commonsFile": "Мышь_2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "mouse",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "king-cobra",
+  "name": "King cobra",
+  "species": {
+    "displayName": "King cobra",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The snake that can look you in the eye — and usually chooses not to.",
+    "shortDescription": "King cobras are the longest venomous snakes in the world, sometimes reaching over five meters. When threatened, they rear up, spread a hood made of loose neck skin, and let out a hiss so deep it sounds almost like a growl. Fun fact: King cobras eat other snakes — sometimes venomous ones — and their venom is powerful enough to kill an elephant."
+  },
+  "image": {
+    "primaryFileName": "king-cobra.jpg",
+    "sourceRelativePath": "Content/images/king-cobra.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/King_cobra",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/King_cobra"
+    },
+    "photo": {
+      "attributionName": "Michael Allen Smith from Seattle, USA",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "king-cobra",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

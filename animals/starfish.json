@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "starfish",
+  "name": "Starfish",
+  "species": {
+    "displayName": "Starfish",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A five-armed creature with a stomach that leaves its body to eat.",
+    "shortDescription": "Sea stars move on hundreds of tiny tube feet on the underside of their arms, each one gripping the seafloor with gentle suction. When they find a mussel or clam, they pry it open just a tiny crack and push their stomach outside of their body and into the shell to digest the meal in place. Fun fact: Sea stars can regrow a lost arm — and a single severed arm can sometimes regrow an entirely new body."
+  },
+  "image": {
+    "primaryFileName": "starfish.jpg",
+    "sourceRelativePath": "Content/images/starfish.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Starfish",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Starfish"
+    },
+    "photo": {
+      "attributionName": "No machine-readable author provided. Mbz1 assumed (based on copyright claims).",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Starfishmussel.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Starfishmussel.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "starfish",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

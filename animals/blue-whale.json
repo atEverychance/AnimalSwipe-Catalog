@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "blue-whale",
+  "name": "Blue whale",
+  "species": {
+    "displayName": "Blue whale",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The largest animal that has ever lived on Earth — and it eats tiny shrimp.",
+    "shortDescription": "A blue whale is longer than three school buses parked end to end, and its heart is about the size of a small car. Despite being enormous, it eats tiny shrimp-like creatures called krill — gulping giant mouthfuls of water and squeezing the krill out through bristly plates in its mouth. Fun fact: A blue whale's call is so loud it can be heard by other whales over eight hundred kilometers away."
+  },
+  "image": {
+    "primaryFileName": "blue-whale.jpg",
+    "sourceRelativePath": "Content/images/blue-whale.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Blue_whale",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Blue_whale"
+    },
+    "photo": {
+      "attributionName": "NOAA",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Bluewhale1 noaa crop.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bluewhale1_noaa_crop.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "giant"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "blue-whale",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

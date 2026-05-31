@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "chimpanzee",
+  "name": "Chimpanzee",
+  "species": {
+    "displayName": "Chimpanzee",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A stripped twig, a termite mound, and a very clever idea.",
+    "shortDescription": "Chimpanzees are the only animals besides humans that have been seen making and using tools in the wild — stripping leaves off twigs to fish termites from mounds, cracking nuts with specific stones they carry between sites, and using leaves as sponges to soak up water from tree hollows. They live in communities that can have over a hundred individuals and have fierce rivalries with neighbouring groups. Fun fact: Chimpanzees can recognise themselves in a mirror, which is something most animals simply cannot do."
+  },
+  "image": {
+    "primaryFileName": "chimpanzee.jpg",
+    "sourceRelativePath": "Content/images/chimpanzee.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Chimpanzee",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Chimpanzee"
+    },
+    "photo": {
+      "attributionName": "Giles Laurent",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "chimpanzee",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

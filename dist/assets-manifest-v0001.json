@@ -1,0 +1,1806 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "assets": [
+    {
+      "animalID": "aardvark",
+      "fileName": "aardvark.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/aardvark.jpg",
+      "sha256": "51da549b603994f7c6c51a000c1ae273f50d8ca4401e364e00f8459368d73d0b",
+      "byteSize": 258448,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/aardvark.jpg"
+    },
+    {
+      "animalID": "alligator",
+      "fileName": "alligator.jpg",
+      "sourceRelativePath": "Content/images/alligator.jpg",
+      "sha256": "c5dff306279fe6ef1a92de0556b1fa790a9d1bf15b0688b5021f872776f44be0",
+      "byteSize": 892785,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/alligator.jpg"
+    },
+    {
+      "animalID": "alpaca",
+      "fileName": "alpaca.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/alpaca.jpg",
+      "sha256": "baef3cadf0ae0dc8be4d0cd6992567804083484e72aa4da262fed28c5fd27812",
+      "byteSize": 182025,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/alpaca.jpg"
+    },
+    {
+      "animalID": "ant",
+      "fileName": "ant.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ant.jpg",
+      "sha256": "437919dd1c9cb81a5cb8999dbfbc2e02db3c21aac63505a0737fd05098b715c1",
+      "byteSize": 83996,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/ant.jpg"
+    },
+    {
+      "animalID": "anteater",
+      "fileName": "anteater.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/anteater.jpg",
+      "sha256": "cb90a804e3613b261e0bd6ff4185f1d83988c43ea40840660c42c27cffa11e1c",
+      "byteSize": 242594,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/anteater.jpg"
+    },
+    {
+      "animalID": "antelope",
+      "fileName": "antelope.jpg",
+      "sourceRelativePath": "Content/images/antelope.jpg",
+      "sha256": "2892856661ef80c08e0fc517783251dcd23aff5bc7bd12dc85fa9382234ae56a",
+      "byteSize": 772334,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/antelope.jpg"
+    },
+    {
+      "animalID": "arctic-fox",
+      "fileName": "arctic-fox.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/arctic-fox.jpg",
+      "sha256": "2ef595e702cc35187793bddf2626bc09e7158bd152e4b5a4fd5000d9ebfc01b4",
+      "byteSize": 103258,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/arctic-fox.jpg"
+    },
+    {
+      "animalID": "armadillo",
+      "fileName": "armadillo.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/armadillo.jpg",
+      "sha256": "f86ce47fb2e1751571a9de46c1532dad0ba8ee7833ce360b80f7be1d556945dd",
+      "byteSize": 224888,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/armadillo.jpg"
+    },
+    {
+      "animalID": "axolotl",
+      "fileName": "axolotl.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/axolotl.jpg",
+      "sha256": "70345cd19d5e733ec527907d015025fe4b9dbb3ceda54ede36513f37f5a0332a",
+      "byteSize": 142623,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/axolotl.jpg"
+    },
+    {
+      "animalID": "baboon",
+      "fileName": "baboon.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/baboon.jpg",
+      "sha256": "997b9d194ef308e393bb431dae44f66618802f66eaf02b564760ef6d81163ffa",
+      "byteSize": 247074,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/baboon.jpg"
+    },
+    {
+      "animalID": "bald-eagle",
+      "fileName": "bald-eagle.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bald-eagle.jpg",
+      "sha256": "31723f79307a8a82d00ed03deffff56a76d883bf9db4353ef0d989df3472f129",
+      "byteSize": 124525,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bald-eagle.jpg"
+    },
+    {
+      "animalID": "bat",
+      "fileName": "bat.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bat.jpg",
+      "sha256": "086e8a538943f8a19f01adb54b67696270297a5c4a63a619ef4ac78220ee15ff",
+      "byteSize": 50095,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bat.jpg"
+    },
+    {
+      "animalID": "beaver",
+      "fileName": "beaver.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/beaver.jpg",
+      "sha256": "b28c7c9edec934193f58c72466ed192d8c5d6f82c68abd2c9ee5114c9832b511",
+      "byteSize": 187016,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/beaver.jpg"
+    },
+    {
+      "animalID": "bee",
+      "fileName": "bee.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bee.jpg",
+      "sha256": "1c18d6ec962c08d39f2f2f38bb60ecfce4efd8d8a91b902481df9af0262b4466",
+      "byteSize": 84331,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bee.jpg"
+    },
+    {
+      "animalID": "beetle",
+      "fileName": "beetle.jpg",
+      "sourceRelativePath": "Content/images/beetle.jpg",
+      "sha256": "33f00dc493d16446a3956b8a062564c1849a8c68bab9bf438ccf256ad59b98e4",
+      "byteSize": 144299,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/beetle.jpg"
+    },
+    {
+      "animalID": "beluga-whale",
+      "fileName": "beluga-whale.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/beluga-whale.jpg",
+      "sha256": "8ef8c01bab2fff9c5d095cb20f40f8d0c40a5345181ad95449938418eaadc87f",
+      "byteSize": 48435,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/beluga-whale.jpg"
+    },
+    {
+      "animalID": "bison",
+      "fileName": "bison.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bison.jpg",
+      "sha256": "90e3fef0eccd073474ab08274b435bc9211aee0bc2558d8e41aed014ab233458",
+      "byteSize": 201359,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bison.jpg"
+    },
+    {
+      "animalID": "blue-jay",
+      "fileName": "blue-jay.jpg",
+      "sourceRelativePath": "Content/images/blue-jay.jpg",
+      "sha256": "a554aba771717c9811e0b04d6a2026e329eaabef47c7cdea211ece0841d6c1fe",
+      "byteSize": 168642,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/blue-jay.jpg"
+    },
+    {
+      "animalID": "blue-whale",
+      "fileName": "blue-whale.jpg",
+      "sourceRelativePath": "Content/images/blue-whale.jpg",
+      "sha256": "ca2f956c14e86cd13ba50249f341d6075a44e2bdae16d6c8f8fe56e3e19c7cb8",
+      "byteSize": 730127,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/blue-whale.jpg"
+    },
+    {
+      "animalID": "bobcat",
+      "fileName": "bobcat.jpg",
+      "sourceRelativePath": "Content/images/bobcat.jpg",
+      "sha256": "7f46d476e1d071a1f66abf9e8202ac81b18f9193cafb0450ce0c44407ca4164c",
+      "byteSize": 516724,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bobcat.jpg"
+    },
+    {
+      "animalID": "bonobo",
+      "fileName": "bonobo.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bonobo.jpg",
+      "sha256": "3518a2aab88d1d5f8d43cb3c9f253cfee5e8d4d69f111d1dcf41511109a88a1d",
+      "byteSize": 234693,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bonobo.jpg"
+    },
+    {
+      "animalID": "brown-bear",
+      "fileName": "brown-bear.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/brown-bear.jpg",
+      "sha256": "9972e5ffa6082af815282b5a3c40b29a77191d3938b757f4aa47cd45d4044cab",
+      "byteSize": 146518,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/brown-bear.jpg"
+    },
+    {
+      "animalID": "bumblebee",
+      "fileName": "bumblebee.jpg",
+      "sourceRelativePath": "Content/images/bumblebee.jpg",
+      "sha256": "06f37319d418a5d391b4e54907d094058952ffd0daa0347e73a52312a1fdcf3c",
+      "byteSize": 519671,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/bumblebee.jpg"
+    },
+    {
+      "animalID": "butterfly",
+      "fileName": "butterfly.jpg",
+      "sourceRelativePath": "Content/images/butterfly.jpg",
+      "sha256": "db2e993b2c54f8fcab822d1c03a25cd7c2f577061412ff97ad09ca22c8d72984",
+      "byteSize": 622127,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/butterfly.jpg"
+    },
+    {
+      "animalID": "camel",
+      "fileName": "camel.jpg",
+      "sourceRelativePath": "Content/images/camel.jpg",
+      "sha256": "911bc59b4f051a7ee1302b12bb9dd82bf690725940042b11d19288dc14813d13",
+      "byteSize": 623640,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/camel.jpg"
+    },
+    {
+      "animalID": "capybara",
+      "fileName": "capybara.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/capybara.jpg",
+      "sha256": "a9a02e9483df0104eb9396cbc67abec00924648ef1cff65647b23cc54667973f",
+      "byteSize": 200440,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/capybara.jpg"
+    },
+    {
+      "animalID": "caracal",
+      "fileName": "caracal.jpg",
+      "sourceRelativePath": "Content/images/caracal.jpg",
+      "sha256": "dc9d935b09190cb128e2cc7f92cc99473ca6808da8a9ef8a7360886023aaf135",
+      "byteSize": 340468,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/caracal.jpg"
+    },
+    {
+      "animalID": "cassowary",
+      "fileName": "cassowary.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cassowary.jpg",
+      "sha256": "bf17a53113d1945bad7cd4a3ce01b96a7619adb2911302518d946015a71c428d",
+      "byteSize": 178747,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/cassowary.jpg"
+    },
+    {
+      "animalID": "cat",
+      "fileName": "cat.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cat.jpg",
+      "sha256": "835123381887386ee293925e761e91eaacc76bf94dedd544e7e26dd0281f66b9",
+      "byteSize": 128428,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/cat.jpg"
+    },
+    {
+      "animalID": "caterpillar",
+      "fileName": "caterpillar.jpg",
+      "sourceRelativePath": "Content/images/caterpillar.jpg",
+      "sha256": "43b44375b7d148ebb83decccd3d0e0f9287c9a95f2374a4dec7b27f7a2891c13",
+      "byteSize": 520017,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/caterpillar.jpg"
+    },
+    {
+      "animalID": "chameleon",
+      "fileName": "chameleon.jpg",
+      "sourceRelativePath": "Content/images/chameleon.jpg",
+      "sha256": "5485eb869c4b10cd62b7c903222fe51ae53f5b5fb02c7d7fa918ae1037b269f5",
+      "byteSize": 245968,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/chameleon.jpg"
+    },
+    {
+      "animalID": "cheetah",
+      "fileName": "cheetah.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cheetah.jpg",
+      "sha256": "2777cad5a07f76d970dac1d1f48a7d397ad0ac0eb881c8b28c7bda14375923a7",
+      "byteSize": 155542,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/cheetah.jpg"
+    },
+    {
+      "animalID": "chicken",
+      "fileName": "chicken.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/chicken.jpg",
+      "sha256": "ddefe3d7f922dd1d5fcf0c3834e4acf4288e3d36a2291e01605e89bf63bfbc5d",
+      "byteSize": 789469,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/chicken.jpg"
+    },
+    {
+      "animalID": "chimpanzee",
+      "fileName": "chimpanzee.jpg",
+      "sourceRelativePath": "Content/images/chimpanzee.jpg",
+      "sha256": "66bf01b4a4e0f003e0a19c2dcf59ad4111d0cc96c6fed67c5b7b6872247c91df",
+      "byteSize": 429392,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/chimpanzee.jpg"
+    },
+    {
+      "animalID": "chinchilla",
+      "fileName": "chinchilla.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/chinchilla.jpg",
+      "sha256": "07461fa129be22c15c368ddd2c152c325aeb5c14a9c53c748737c748ab4c6b69",
+      "byteSize": 296426,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/chinchilla.jpg"
+    },
+    {
+      "animalID": "chipmunk",
+      "fileName": "chipmunk.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/chipmunk.jpg",
+      "sha256": "359a2e0723fd37efbf33aba4bd68198f5c24906fdebeb297e3d31092a5f7ab20",
+      "byteSize": 142921,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/chipmunk.jpg"
+    },
+    {
+      "animalID": "civet",
+      "fileName": "civet.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/civet.jpg",
+      "sha256": "f24f24efb92a6526d39b341b98fe233f98af38666d8655f4f6f771813ed085c8",
+      "byteSize": 97035,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/civet.jpg"
+    },
+    {
+      "animalID": "clownfish",
+      "fileName": "clownfish.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/clownfish.jpg",
+      "sha256": "1a27d37c67855c501d424f18beb0affaeb57c191620b9afd626e8b5240d21a6e",
+      "byteSize": 119380,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/clownfish.jpg"
+    },
+    {
+      "animalID": "condor",
+      "fileName": "condor.jpg",
+      "sourceRelativePath": "Content/images/condor.jpg",
+      "sha256": "bed1b70a8bc36a68ae830a0166dbea83933f097eddab3f11eb0193a3be420d11",
+      "byteSize": 613134,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/condor.jpg"
+    },
+    {
+      "animalID": "cougar",
+      "fileName": "cougar.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cougar.jpg",
+      "sha256": "026932a8b2309f927e94d4d249b031ec3558c3eca20e0b1c87859bae737971bc",
+      "byteSize": 141850,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/cougar.jpg"
+    },
+    {
+      "animalID": "cow",
+      "fileName": "cow.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cow.jpg",
+      "sha256": "c4d69811ad3fe20fcd7a4fac7f196c87f7c941658d7bf2e1d2b89f03e3e1f7e2",
+      "byteSize": 265250,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/cow.jpg"
+    },
+    {
+      "animalID": "crab",
+      "fileName": "crab.jpg",
+      "sourceRelativePath": "Content/images/crab.jpg",
+      "sha256": "3d7253a74c6d6ea994c4d2394637c752791cfe9eb1424f0ef3df0049534215e8",
+      "byteSize": 629509,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/crab.jpg"
+    },
+    {
+      "animalID": "cricket",
+      "fileName": "cricket.jpg",
+      "sourceRelativePath": "Content/images/cricket.jpg",
+      "sha256": "cbcde6654b7d35c50e56590840a06aa458b80146fbb7fdeb4124fe8445e73615",
+      "byteSize": 2309086,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/cricket.jpg"
+    },
+    {
+      "animalID": "crocodile",
+      "fileName": "crocodile.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/crocodile.jpg",
+      "sha256": "b2c82ffd95fa65f24e62a11ee402066d91f29e1c6e8ad3667bc884ce7c5f818e",
+      "byteSize": 168570,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/crocodile.jpg"
+    },
+    {
+      "animalID": "crow",
+      "fileName": "crow.jpg",
+      "sourceRelativePath": "Content/images/crow.jpg",
+      "sha256": "322b704b44b28a45ff2c26a573ddad084c0311dd21402f925a9649100c1e9048",
+      "byteSize": 475984,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/crow.jpg"
+    },
+    {
+      "animalID": "deer",
+      "fileName": "deer.jpg",
+      "sourceRelativePath": "Content/images/deer.jpg",
+      "sha256": "d487efc96962a9075f62125f1f2793322ab33f1549795f98fc211d3b779fd9ee",
+      "byteSize": 1046823,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/deer.jpg"
+    },
+    {
+      "animalID": "dog",
+      "fileName": "dog.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/dog.jpg",
+      "sha256": "7e45d9e85e6d943ec53865cebd335bd707e09026886696d98f4bdb143cc4ae79",
+      "byteSize": 134836,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/dog.jpg"
+    },
+    {
+      "animalID": "dolphin",
+      "fileName": "dolphin.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/dolphin.jpg",
+      "sha256": "89d5bb7feaa5806a2ea266160099e3af84896259a66c4ef0a5aa974e0d918659",
+      "byteSize": 228218,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/dolphin.jpg"
+    },
+    {
+      "animalID": "donkey",
+      "fileName": "donkey.jpg",
+      "sourceRelativePath": "Content/images/donkey.jpg",
+      "sha256": "7d4e3d87af5bf708247f7f372b050afe7fbacc271c994c51f9061678fd492c3c",
+      "byteSize": 59143,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/donkey.jpg"
+    },
+    {
+      "animalID": "dragonfly",
+      "fileName": "dragonfly.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/dragonfly.jpg",
+      "sha256": "6b9230a809479f93c8d55d0f9d7e0a839965d6f7e4bb7a25a218d40d97428c43",
+      "byteSize": 190294,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/dragonfly.jpg"
+    },
+    {
+      "animalID": "duck",
+      "fileName": "duck.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/duck.jpg",
+      "sha256": "63677af332f8d8faf8303b143f6b86a7ec57fab15524ceba0150f74ab1f8f5ec",
+      "byteSize": 134806,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/duck.jpg"
+    },
+    {
+      "animalID": "dugong",
+      "fileName": "dugong.jpg",
+      "sourceRelativePath": "Content/images/dugong.jpg",
+      "sha256": "5294fccd97df55ddfdd0909789d4b30be650b66dca512da84c1caaf6dbe0b899",
+      "byteSize": 333095,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/dugong.jpg"
+    },
+    {
+      "animalID": "eagle",
+      "fileName": "eagle.jpg",
+      "sourceRelativePath": "Content/images/eagle.jpg",
+      "sha256": "e52b7b5704040903eff02a33834b8f21f9ab4f7116c4e2aeef7935da0eed7558",
+      "byteSize": 801312,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/eagle.jpg"
+    },
+    {
+      "animalID": "eel",
+      "fileName": "eel.jpg",
+      "sourceRelativePath": "Content/images/eel.jpg",
+      "sha256": "cdf939f33a9d4427c41117f58c272cfc52fd15901995a0bf4e5df5d79c652f91",
+      "byteSize": 401177,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/eel.jpg"
+    },
+    {
+      "animalID": "elephant",
+      "fileName": "elephant.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/elephant.jpg",
+      "sha256": "794e97d1d481186b8777e9224420270a1dd68d514e47ac6148042fb61636370f",
+      "byteSize": 291827,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/elephant.jpg"
+    },
+    {
+      "animalID": "elk",
+      "fileName": "elk.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/elk.jpg",
+      "sha256": "0c30efc79ae3cb838eab3e77bface2bdd98e5d91ea19a950258f0cc5d3236af8",
+      "byteSize": 335885,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/elk.jpg"
+    },
+    {
+      "animalID": "emperor-penguin",
+      "fileName": "emperor-penguin.jpg",
+      "sourceRelativePath": "Content/images/emperor-penguin.jpg",
+      "sha256": "481eead363430514fba56de540224f84a886ef21d864783f6020b9b9fc45e8ad",
+      "byteSize": 986938,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/emperor-penguin.jpg"
+    },
+    {
+      "animalID": "emu",
+      "fileName": "emu.jpg",
+      "sourceRelativePath": "Content/images/emu.jpg",
+      "sha256": "6e09b09e0f3121af7e9e74561e0756c25079cd5ff96dfe5d99d22a5251ee0043",
+      "byteSize": 180194,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/emu.jpg"
+    },
+    {
+      "animalID": "falcon",
+      "fileName": "falcon.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/falcon.jpg",
+      "sha256": "8134e9e5ff445295ea4ac14d9eb835f341cd06adabe871abd2592dc50b3066f7",
+      "byteSize": 188107,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/falcon.jpg"
+    },
+    {
+      "animalID": "fennec-fox",
+      "fileName": "fennec-fox.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/fennec-fox.jpg",
+      "sha256": "ba943303bc1b33c7d6ce8587336397566c746d157f5fb39ba188b8228378ee6b",
+      "byteSize": 182847,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/fennec-fox.jpg"
+    },
+    {
+      "animalID": "ferret",
+      "fileName": "ferret.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ferret.jpg",
+      "sha256": "bf173248d0bd01fd71a19a188cb852f4f044487978b667b5e1af12be449cc56d",
+      "byteSize": 761189,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/ferret.jpg"
+    },
+    {
+      "animalID": "finch",
+      "fileName": "finch.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/finch.jpg",
+      "sha256": "dc73fa08da5ac02654a4eefa7c2ae8b3a08ac2b9ecc21a5b92f8b34fc467b82c",
+      "byteSize": 115645,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/finch.jpg"
+    },
+    {
+      "animalID": "firefly",
+      "fileName": "firefly.jpg",
+      "sourceRelativePath": "Content/images/firefly.jpg",
+      "sha256": "90a7c83be441ac26d6a5e45c73e00dc4b723c0372aa58fe7db08eef41e4ac77b",
+      "byteSize": 440104,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/firefly.jpg"
+    },
+    {
+      "animalID": "flamingo",
+      "fileName": "flamingo.jpg",
+      "sourceRelativePath": "Content/images/flamingo.jpg",
+      "sha256": "553199b621b31b178fba39dde8d706cd3e4df02510a4b28c838a25f3a8ecf035",
+      "byteSize": 335165,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/flamingo.jpg"
+    },
+    {
+      "animalID": "frog",
+      "fileName": "frog.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/frog.jpg",
+      "sha256": "3abfb6be4a2bd016808f00610764f7e05b2e8f1b5a927a7ec0ec05598a3c85e4",
+      "byteSize": 58212,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/frog.jpg"
+    },
+    {
+      "animalID": "gazelle",
+      "fileName": "gazelle.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/gazelle.jpg",
+      "sha256": "607fc4da4d0fdd91936538aeb3f4408b5f653530735ea6a9f233e8361fc3604c",
+      "byteSize": 142507,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/gazelle.jpg"
+    },
+    {
+      "animalID": "gecko",
+      "fileName": "gecko.jpg",
+      "sourceRelativePath": "Content/images/gecko.jpg",
+      "sha256": "0e701958f4e737f0c378d899c29522c2372ae48f94d656a0529c71567f1badb6",
+      "byteSize": 237017,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/gecko.jpg"
+    },
+    {
+      "animalID": "giant-panda",
+      "fileName": "giant-panda.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/giant-panda.jpg",
+      "sha256": "121eb2cebea5e6610e15658400da90000f79b80f548553e802d3e16bcb8ea682",
+      "byteSize": 177193,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/giant-panda.jpg"
+    },
+    {
+      "animalID": "gibbon",
+      "fileName": "gibbon.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/gibbon.jpg",
+      "sha256": "cf53c9a72b785c2f00228e6fc206b8c2d82ae3dc72b37848aad33259b74633e6",
+      "byteSize": 154104,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/gibbon.jpg"
+    },
+    {
+      "animalID": "giraffe",
+      "fileName": "giraffe.jpg",
+      "sourceRelativePath": "Content/images/giraffe.jpg",
+      "sha256": "f4af590dcf1e789ed2a2f1c9ca8d60f302e830ccabccef7e2b8c8034434946ce",
+      "byteSize": 1202843,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/giraffe.jpg"
+    },
+    {
+      "animalID": "goat",
+      "fileName": "goat.jpg",
+      "sourceRelativePath": "Content/images/goat.jpg",
+      "sha256": "33b165eaa25e2dd6e45982b541710907b69c0a8665b756204c3ea550c506ac46",
+      "byteSize": 158590,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/goat.jpg"
+    },
+    {
+      "animalID": "golden-eagle",
+      "fileName": "golden-eagle.jpg",
+      "sourceRelativePath": "Content/images/golden-eagle.jpg",
+      "sha256": "49a12d440f91e6be832a4372b1d1c83c84eebd081e4dc5c8a5b5940a447c1627",
+      "byteSize": 332924,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/golden-eagle.jpg"
+    },
+    {
+      "animalID": "goose",
+      "fileName": "goose.jpg",
+      "sourceRelativePath": "Content/images/goose.jpg",
+      "sha256": "78762e1ff7764b0333a2a3192a852e992375cf89692b280f7f4c3f064675fc7f",
+      "byteSize": 313775,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/goose.jpg"
+    },
+    {
+      "animalID": "gorilla",
+      "fileName": "gorilla.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/gorilla.jpg",
+      "sha256": "85cb5b2fa8f3a7e3aaacbd1f59dfa79075c230b085a4d8ade966b7ab1a422d14",
+      "byteSize": 320959,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/gorilla.jpg"
+    },
+    {
+      "animalID": "grasshopper",
+      "fileName": "grasshopper.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/grasshopper.jpg",
+      "sha256": "58ef681e63af6e0499776a6d80ab30c7dff60e777791bf986bc4318e0d6629d7",
+      "byteSize": 116390,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/grasshopper.jpg"
+    },
+    {
+      "animalID": "great-white-shark",
+      "fileName": "great-white-shark.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/great-white-shark.jpg",
+      "sha256": "6d17f8838a59a514f93707ab7d8444eb103ac21f9e7c7e1123fde6ece943c756",
+      "byteSize": 135210,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/great-white-shark.jpg"
+    },
+    {
+      "animalID": "guinea-pig",
+      "fileName": "guinea-pig.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/guinea-pig.jpg",
+      "sha256": "36417e008e330f1aac78fa3c200984747b7bd7ab44d1873ce14158b203db221a",
+      "byteSize": 171351,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/guinea-pig.jpg"
+    },
+    {
+      "animalID": "hammerhead-shark",
+      "fileName": "hammerhead-shark.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hammerhead-shark.jpg",
+      "sha256": "1e4363262d5bb2e09e56ece3267a1f786157d8b9ce1da7a1b0c06a491613ce3a",
+      "byteSize": 71038,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hammerhead-shark.jpg"
+    },
+    {
+      "animalID": "hamster",
+      "fileName": "hamster.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hamster.jpg",
+      "sha256": "f9e4fd64d66dc789d504fca4dfbe17a1e720d1e34c49cf6ee9c1297439579b64",
+      "byteSize": 198048,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hamster.jpg"
+    },
+    {
+      "animalID": "hare",
+      "fileName": "hare.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hare.jpg",
+      "sha256": "3cc284cc3f3a8a2d96f146bdb96e0d0d590f34f6a49494e39f062b84fc877084",
+      "byteSize": 335291,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hare.jpg"
+    },
+    {
+      "animalID": "hawk",
+      "fileName": "hawk.jpg",
+      "sourceRelativePath": "Content/images/hawk.jpg",
+      "sha256": "c1f379b0b5d351b8e005d9cca6a994531ef83d922e722a21ab822dfadd95b2bd",
+      "byteSize": 322134,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hawk.jpg"
+    },
+    {
+      "animalID": "hedgehog",
+      "fileName": "hedgehog.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hedgehog.jpg",
+      "sha256": "c08840f676db48c3975e82d283f3cf1595f7a742dc8d3d59acde7f0aa04bfeed",
+      "byteSize": 229167,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hedgehog.jpg"
+    },
+    {
+      "animalID": "heron",
+      "fileName": "heron.jpg",
+      "sourceRelativePath": "Content/images/heron.jpg",
+      "sha256": "215e89a32a6e2f5bd34c4c4e06f66bdfc2c12040462a5297a3af2c2ff454aef1",
+      "byteSize": 529720,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/heron.jpg"
+    },
+    {
+      "animalID": "hippopotamus",
+      "fileName": "hippopotamus.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hippopotamus.jpg",
+      "sha256": "ee0fdf5f3cf44d07e09724056f24b66cd6beee038c2ddef0f04c18fb7d7190c5",
+      "byteSize": 160066,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hippopotamus.jpg"
+    },
+    {
+      "animalID": "horse",
+      "fileName": "horse.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/horse.jpg",
+      "sha256": "7c2c66136a62cd6dd46eccb82c9cdc89723d87577af666c791266667eb5a5d7c",
+      "byteSize": 78356,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/horse.jpg"
+    },
+    {
+      "animalID": "howler-monkey",
+      "fileName": "howler-monkey.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/howler-monkey.jpg",
+      "sha256": "6d317ed45bedc77a3c1b4432d6374aaff9d99718b07ebae3d5e40c723d9b8002",
+      "byteSize": 310524,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/howler-monkey.jpg"
+    },
+    {
+      "animalID": "hummingbird",
+      "fileName": "hummingbird.jpg",
+      "sourceRelativePath": "Content/images/hummingbird.jpg",
+      "sha256": "66041b13d4267e4188989c64f2a6bc34463c5d72af6575a21aa0b5a74e549738",
+      "byteSize": 338368,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hummingbird.jpg"
+    },
+    {
+      "animalID": "humpback-whale",
+      "fileName": "humpback-whale.jpg",
+      "sourceRelativePath": "Content/images/humpback-whale.jpg",
+      "sha256": "104b3fb8d51c979534d17d46b697812a22fdb73d1560bedc0c4626906840e335",
+      "byteSize": 778078,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/humpback-whale.jpg"
+    },
+    {
+      "animalID": "hyena",
+      "fileName": "hyena.jpg",
+      "sourceRelativePath": "Content/images/hyena.jpg",
+      "sha256": "bdc1a224d782f4c3409ba81167f649ff3296c1fb65dfe9e394ce1bbfc01fde75",
+      "byteSize": 241938,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/hyena.jpg"
+    },
+    {
+      "animalID": "ibex",
+      "fileName": "ibex.jpg",
+      "sourceRelativePath": "Content/images/ibex.jpg",
+      "sha256": "b1784d3d9a1f5c0c2d8f373e4df6a71c99a3a23d65d7575c1e6d8987be52840a",
+      "byteSize": 142586,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/ibex.jpg"
+    },
+    {
+      "animalID": "iguana",
+      "fileName": "iguana.jpg",
+      "sourceRelativePath": "Content/images/iguana.jpg",
+      "sha256": "66382e562df9f90366a9124379f80e264f0aee4d04913bcb7ed4cf8050150cdd",
+      "byteSize": 677196,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/iguana.jpg"
+    },
+    {
+      "animalID": "jaguar",
+      "fileName": "jaguar.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/jaguar.jpg",
+      "sha256": "37f771f0b1270faa683daffb2dd4a4c4966d11ac66729dbde1797128c398cd44",
+      "byteSize": 118558,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/jaguar.jpg"
+    },
+    {
+      "animalID": "jellyfish",
+      "fileName": "jellyfish.jpg",
+      "sourceRelativePath": "Content/images/jellyfish.jpg",
+      "sha256": "c1ff606f426a9afdd03086691d7ffb400da7110c4eaf2d690eef109fb94ecceb",
+      "byteSize": 48349,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/jellyfish.jpg"
+    },
+    {
+      "animalID": "kangaroo",
+      "fileName": "kangaroo.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kangaroo.jpg",
+      "sha256": "be67dd4a57c9ef25d6d7daa0f8924934862b477650c9b1005637c9ac7c5a5995",
+      "byteSize": 146093,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/kangaroo.jpg"
+    },
+    {
+      "animalID": "kestrel",
+      "fileName": "kestrel.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kestrel.jpg",
+      "sha256": "309f5386f706e8f57b67afdd6b76a871096b5bee502bf2a49e11c88c09e60dd1",
+      "byteSize": 57197,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/kestrel.jpg"
+    },
+    {
+      "animalID": "king-cobra",
+      "fileName": "king-cobra.jpg",
+      "sourceRelativePath": "Content/images/king-cobra.jpg",
+      "sha256": "da8469f6c5b5b5578af666a5e24ac76aaa7234ede07e88bff76e9c9b5f6fb1ce",
+      "byteSize": 270173,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/king-cobra.jpg"
+    },
+    {
+      "animalID": "king-penguin",
+      "fileName": "king-penguin.jpg",
+      "sourceRelativePath": "Content/images/king-penguin.jpg",
+      "sha256": "ecfbd12ae42ebb62f1e2425c635e2f88123c836b22aafb911ca7dd20bd7e02e6",
+      "byteSize": 302300,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/king-penguin.jpg"
+    },
+    {
+      "animalID": "kingfisher",
+      "fileName": "kingfisher.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kingfisher.jpg",
+      "sha256": "60ccadf7f640356f30e20d4f840ec13c6a8a206dbe6f0ccb032e3ff344247fa6",
+      "byteSize": 87411,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/kingfisher.jpg"
+    },
+    {
+      "animalID": "kiwi-bird",
+      "fileName": "kiwi-bird.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kiwi-bird.jpg",
+      "sha256": "264b9a2edc2230be328180ef10a18217a8b98b3573d54d15c317b06e0a6c6536",
+      "byteSize": 315831,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/kiwi-bird.jpg"
+    },
+    {
+      "animalID": "koala",
+      "fileName": "koala.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/koala.jpg",
+      "sha256": "8c5ee2295c4a3981f2e62861df3bd402bdb55904c5bc3be20107376be339ccfc",
+      "byteSize": 284386,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/koala.jpg"
+    },
+    {
+      "animalID": "komodo-dragon",
+      "fileName": "komodo-dragon.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/komodo-dragon.jpg",
+      "sha256": "c6b6608b8979660d76c07de2f3352bf7d84ace5b33bc20df5d1abe34f0981e8c",
+      "byteSize": 223404,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/komodo-dragon.jpg"
+    },
+    {
+      "animalID": "ladybug",
+      "fileName": "ladybug.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ladybug.jpg",
+      "sha256": "2f6bd3b6880b6d8280b44a8f8b4af9d6ef7612dc6fc77a2681a7a9be574a8aeb",
+      "byteSize": 97794,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/ladybug.jpg"
+    },
+    {
+      "animalID": "lemur",
+      "fileName": "lemur.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/lemur.jpg",
+      "sha256": "e57fda6fae3a6683bd84ae415dc15ddf3cbe1e695e00da8a644bb6228b544a51",
+      "byteSize": 320709,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/lemur.jpg"
+    },
+    {
+      "animalID": "leopard",
+      "fileName": "leopard.jpg",
+      "sourceRelativePath": "Content/images/leopard.jpg",
+      "sha256": "fbf43f8df98f95c1f9f808471f71e14d71581c37217fdaf296e86e9aa2dc5ae5",
+      "byteSize": 322339,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/leopard.jpg"
+    },
+    {
+      "animalID": "lion",
+      "fileName": "lion.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/lion.jpg",
+      "sha256": "53492ae9fce91a00f0f0aea28a9cb945228398e72a9d63d42e61aceadaf5cfb8",
+      "byteSize": 162096,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/lion.jpg"
+    },
+    {
+      "animalID": "llama",
+      "fileName": "llama.jpg",
+      "sourceRelativePath": "Content/images/llama.jpg",
+      "sha256": "ac9dcd652addfd3f7ff8ad5b1b75de1612df72431a6985df0e494a970ac999ca",
+      "byteSize": 1111643,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/llama.jpg"
+    },
+    {
+      "animalID": "lobster",
+      "fileName": "lobster.jpg",
+      "sourceRelativePath": "Content/images/lobster.jpg",
+      "sha256": "c28f8cc2526b640914d9c3999e818c1111f4cdcacd7679a5206382066103fec6",
+      "byteSize": 1080515,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/lobster.jpg"
+    },
+    {
+      "animalID": "lynx",
+      "fileName": "lynx.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/lynx.jpg",
+      "sha256": "c7277c23ff49e1641ec7af1d628a9fa52b29851104123c255a71dc2ce3d975c6",
+      "byteSize": 177382,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/lynx.jpg"
+    },
+    {
+      "animalID": "macaw",
+      "fileName": "macaw.jpg",
+      "sourceRelativePath": "Content/images/macaw.jpg",
+      "sha256": "032375c3cbb9eb1bbed5e326f23292e4c21ff8eb017672bae81b8cd8a50c9d2f",
+      "byteSize": 1285183,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/macaw.jpg"
+    },
+    {
+      "animalID": "magpie",
+      "fileName": "magpie.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/magpie.jpg",
+      "sha256": "3a279aca3498cd50d56cd6f0eda1dc0d4c09a4faf0e08c67ea3d3da888b0e036",
+      "byteSize": 120753,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/magpie.jpg"
+    },
+    {
+      "animalID": "mallard",
+      "fileName": "mallard.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mallard.jpg",
+      "sha256": "e7257391b15694cf798bed31bb76d4ed7414b7e6c0637ef079c198720af29677",
+      "byteSize": 291637,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/mallard.jpg"
+    },
+    {
+      "animalID": "manatee",
+      "fileName": "manatee.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/manatee.jpg",
+      "sha256": "c1780b3c991115ed901d8157f3a1d5b07f554cf259db0f9fd78f4828f77967c6",
+      "byteSize": 204535,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/manatee.jpg"
+    },
+    {
+      "animalID": "mandrill",
+      "fileName": "mandrill.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mandrill.jpg",
+      "sha256": "214f26a1e5d86c77b7373cd5af7f0067b5952bea04f527101a08621b614d4e44",
+      "byteSize": 436757,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/mandrill.jpg"
+    },
+    {
+      "animalID": "manta-ray",
+      "fileName": "manta-ray.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/manta-ray.jpg",
+      "sha256": "32eed8cafadd58735d11463b4ead25ddc4673def6116a0e55e1903cd3e420c62",
+      "byteSize": 104282,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/manta-ray.jpg"
+    },
+    {
+      "animalID": "marmot",
+      "fileName": "marmot.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/marmot.jpg",
+      "sha256": "4e4fb704ff247f959711dbdc6cb919e3c156aa7d9039f61ef507d4b269fb7480",
+      "byteSize": 305024,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/marmot.jpg"
+    },
+    {
+      "animalID": "meerkat",
+      "fileName": "meerkat.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/meerkat.jpg",
+      "sha256": "a89c2e8e8487fe03eba58bbff9893031bda49557c7ed094793820b92f0ba27db",
+      "byteSize": 225067,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/meerkat.jpg"
+    },
+    {
+      "animalID": "monarch-butterfly",
+      "fileName": "monarch-butterfly.jpg",
+      "sourceRelativePath": "Content/images/monarch-butterfly.jpg",
+      "sha256": "7100e84c8597c47234556e001cc4347f53643fa2e5c475ecf23b18f5c9b19f92",
+      "byteSize": 283978,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/monarch-butterfly.jpg"
+    },
+    {
+      "animalID": "mongoose",
+      "fileName": "mongoose.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mongoose.jpg",
+      "sha256": "506e191e798cce6d54abd3ee0f3001fbce0e0489273d7a82d444496cdf413e11",
+      "byteSize": 2101191,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/mongoose.jpg"
+    },
+    {
+      "animalID": "moose",
+      "fileName": "moose.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/moose.jpg",
+      "sha256": "d633f28e45472dfa79393c76317687b4507d87b4bd8d7569e783964e9d2b7cb9",
+      "byteSize": 205322,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/moose.jpg"
+    },
+    {
+      "animalID": "moth",
+      "fileName": "moth.jpg",
+      "sourceRelativePath": "Content/images/moth.jpg",
+      "sha256": "8e64c5baa820ca004bcac910a2bd93cd6e30f4a1f3fd6d68aa789746b6e41025",
+      "byteSize": 129509,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/moth.jpg"
+    },
+    {
+      "animalID": "mountain-goat",
+      "fileName": "mountain-goat.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mountain-goat.jpg",
+      "sha256": "92aa301f6557d7c8b02c84843fa16ef801590cc25de45002009b3965d76c45b9",
+      "byteSize": 316178,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/mountain-goat.jpg"
+    },
+    {
+      "animalID": "mouse",
+      "fileName": "mouse.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mouse.jpg",
+      "sha256": "4f1c48c98245919b956deaa2ea91621141497493d553cd17fe0f83c3049fccaf",
+      "byteSize": 44579,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/mouse.jpg"
+    },
+    {
+      "animalID": "musk-ox",
+      "fileName": "musk-ox.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/musk-ox.jpg",
+      "sha256": "1f44ccb1f4a0ce5fab7cb9236235c0c2ac110c8bb1d50ef1916f33dab1d1a4c4",
+      "byteSize": 269926,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/musk-ox.jpg"
+    },
+    {
+      "animalID": "narwhal",
+      "fileName": "narwhal.jpg",
+      "sourceRelativePath": "Content/images/narwhal.jpg",
+      "sha256": "64d6b973a8bafc2b17704a8fcc9511b7d97b330feaa306d3c8b8671236ba43fe",
+      "byteSize": 404658,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/narwhal.jpg"
+    },
+    {
+      "animalID": "northern-cardinal",
+      "fileName": "northern-cardinal.jpg",
+      "sourceRelativePath": "Content/images/northern-cardinal.jpg",
+      "sha256": "474222a9e10cc5632bd681cd287c832d43a250b5dd84f6dc170451b6e5a7b9e2",
+      "byteSize": 183936,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/northern-cardinal.jpg"
+    },
+    {
+      "animalID": "numbat",
+      "fileName": "numbat.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/numbat.jpg",
+      "sha256": "ab297e371c546440e842bdf61b5b63ae3d79714348e6e393edb43894b583b6a2",
+      "byteSize": 172516,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/numbat.jpg"
+    },
+    {
+      "animalID": "ocelot",
+      "fileName": "ocelot.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ocelot.jpg",
+      "sha256": "ed3dbe0b9b0183a7f12b4f3b816cb51cffd101dda8f63e39aa2683085453b55c",
+      "byteSize": 197138,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/ocelot.jpg"
+    },
+    {
+      "animalID": "octopus",
+      "fileName": "octopus.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/octopus.jpg",
+      "sha256": "4d58b1f7db3d58a35cde5b0532ec99f9a12dda2565c3a88261e85bdfeca598e0",
+      "byteSize": 182755,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/octopus.jpg"
+    },
+    {
+      "animalID": "okapi",
+      "fileName": "okapi.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/okapi.jpg",
+      "sha256": "f59b0bcbe94d95c9586b4b053d33208a3667c2b13d85e4dc5865af721584a9dc",
+      "byteSize": 296392,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/okapi.jpg"
+    },
+    {
+      "animalID": "orangutan",
+      "fileName": "orangutan.jpg",
+      "sourceRelativePath": "Content/images/orangutan.jpg",
+      "sha256": "4be9df6191dacea13697cc94a42e8a225b0b26db17247289d50c13f49b95e90c",
+      "byteSize": 357338,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/orangutan.jpg"
+    },
+    {
+      "animalID": "orca",
+      "fileName": "orca.jpg",
+      "sourceRelativePath": "Content/images/orca.jpg",
+      "sha256": "59c929a6b2e013ba76b93bd3737d7db6bef5e8028bb907bc2eccf7f87db10085",
+      "byteSize": 76116,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/orca.jpg"
+    },
+    {
+      "animalID": "ostrich",
+      "fileName": "ostrich.jpg",
+      "sourceRelativePath": "Content/images/ostrich.jpg",
+      "sha256": "b1a5aba924932f4f01f8cf275fd58c97c4cae74b9bc3d7170f0feb9069af2a27",
+      "byteSize": 867484,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/ostrich.jpg"
+    },
+    {
+      "animalID": "otter",
+      "fileName": "otter.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/otter.jpg",
+      "sha256": "7425f594aec064ee87f9fe535a78e32350172287db2c11edbe6538dcde93cdd3",
+      "byteSize": 156634,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/otter.jpg"
+    },
+    {
+      "animalID": "owl",
+      "fileName": "owl.jpg",
+      "sourceRelativePath": "Content/images/owl.jpg",
+      "sha256": "35518ab8395407e8fa6297e9d44b8cf574f0e8dd30d4ec84c447d0b413c19f6b",
+      "byteSize": 261850,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/owl.jpg"
+    },
+    {
+      "animalID": "parakeet",
+      "fileName": "parakeet.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/parakeet.jpg",
+      "sha256": "1068aeaf03e8af04c592b1252b6e2f41f1c367e7755cfc6a541b0065f4a9c003",
+      "byteSize": 319775,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/parakeet.jpg"
+    },
+    {
+      "animalID": "parrot",
+      "fileName": "parrot.jpg",
+      "sourceRelativePath": "Content/images/parrot.jpg",
+      "sha256": "84fe2f8bcdb6ab0854813491aedeb7669a14a54e9ce4e326401bf709111b2229",
+      "byteSize": 195000,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/parrot.jpg"
+    },
+    {
+      "animalID": "peacock",
+      "fileName": "peacock.jpg",
+      "sourceRelativePath": "Content/images/peacock.jpg",
+      "sha256": "1b54faeabe9776eca6529fb74d29371d37b7ee33fe1813371198ae05b6185422",
+      "byteSize": 192935,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/peacock.jpg"
+    },
+    {
+      "animalID": "pelican",
+      "fileName": "pelican.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/pelican.jpg",
+      "sha256": "437e40123a76232bbe7ea0ae4ddb5671622095e727e709f179707b8577bfd61d",
+      "byteSize": 101658,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/pelican.jpg"
+    },
+    {
+      "animalID": "penguin",
+      "fileName": "penguin.jpg",
+      "sourceRelativePath": "Content/images/penguin.jpg",
+      "sha256": "481eead363430514fba56de540224f84a886ef21d864783f6020b9b9fc45e8ad",
+      "byteSize": 986938,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/penguin.jpg"
+    },
+    {
+      "animalID": "pheasant",
+      "fileName": "pheasant.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/pheasant.jpg",
+      "sha256": "e8052e01ae55fa4bee8475c5aa3406867285ced22329fb02fa91da3a1f02002e",
+      "byteSize": 175281,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/pheasant.jpg"
+    },
+    {
+      "animalID": "pig",
+      "fileName": "pig.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/pig.jpg",
+      "sha256": "4915dcbfc7f8f2a5e9e772f7e510e26d0b7ab9b188e2094a07ee02eb9b623d79",
+      "byteSize": 181728,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/pig.jpg"
+    },
+    {
+      "animalID": "polar-bear",
+      "fileName": "polar-bear.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/polar-bear.jpg",
+      "sha256": "cf1b2a1d892da11f581a19ff0025e095dad21a83e688712cd78cce2d88635614",
+      "byteSize": 155069,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/polar-bear.jpg"
+    },
+    {
+      "animalID": "porcupine",
+      "fileName": "porcupine.jpg",
+      "sourceRelativePath": "Content/images/porcupine.jpg",
+      "sha256": "0108f45d041555b8c6059d4dc7510d7552fe6f82051dbf7e345544fb99a2d099",
+      "byteSize": 377455,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/porcupine.jpg"
+    },
+    {
+      "animalID": "prairie-dog",
+      "fileName": "prairie-dog.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/prairie-dog.jpg",
+      "sha256": "5096153daf21ff054969c7c4ab2489364b7fee8cb97e53a3f7bd738d6833b939",
+      "byteSize": 290972,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/prairie-dog.jpg"
+    },
+    {
+      "animalID": "praying-mantis",
+      "fileName": "praying-mantis.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/praying-mantis.jpg",
+      "sha256": "3de7b8a5dc0ecbfdc77f7027b731e3e0ceba406a0d02d18e1da977aab4c51992",
+      "byteSize": 58103,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/praying-mantis.jpg"
+    },
+    {
+      "animalID": "proboscis-monkey",
+      "fileName": "proboscis-monkey.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/proboscis-monkey.jpg",
+      "sha256": "4568ac8f9727422961be75fe5abe2f84a5d92cebb794ec479032d1eb1e7ee437",
+      "byteSize": 190302,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/proboscis-monkey.jpg"
+    },
+    {
+      "animalID": "puffin",
+      "fileName": "puffin.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/puffin.jpg",
+      "sha256": "135b84699b9ca8c5ffc611aab88fade510cf33456ce268faf1001339a1c817cd",
+      "byteSize": 136857,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/puffin.jpg"
+    },
+    {
+      "animalID": "python-genus",
+      "fileName": "python-genus.jpg",
+      "sourceRelativePath": "Content/images/python-genus.jpg",
+      "sha256": "d4bc689f00d4e7f52d6895e1cd11baa5cd1310802989fa221a82a2d54f497ef5",
+      "byteSize": 395813,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/python-genus.jpg"
+    },
+    {
+      "animalID": "quail",
+      "fileName": "quail.jpg",
+      "sourceRelativePath": "Content/images/quail.jpg",
+      "sha256": "90ee45642f07287f267af613099ddd130808d1ae9edb84a23c7d55bc14ef5e32",
+      "byteSize": 206241,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/quail.jpg"
+    },
+    {
+      "animalID": "rabbit",
+      "fileName": "rabbit.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/rabbit.jpg",
+      "sha256": "228df13d917406804eb7488e3fddf6b6631ddb4514f5d97ed790a9eb1eaa8721",
+      "byteSize": 342148,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/rabbit.jpg"
+    },
+    {
+      "animalID": "raccoon",
+      "fileName": "raccoon.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/raccoon.jpg",
+      "sha256": "0c88a73bb390b17cb4becb43d4e796513fb93abd3f0797f9f9ac4c845ac7b30c",
+      "byteSize": 237352,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/raccoon.jpg"
+    },
+    {
+      "animalID": "raccoon-dog",
+      "fileName": "raccoon-dog.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/raccoon-dog.jpg",
+      "sha256": "d29fbaa56be0174741601b511d690b0e166f01d5902fbc024b77ed06e370f484",
+      "byteSize": 2510975,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/raccoon-dog.jpg"
+    },
+    {
+      "animalID": "rattlesnake",
+      "fileName": "rattlesnake.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/rattlesnake.jpg",
+      "sha256": "8fa1ae5075a9a5a0424ea3860f46a3c6b206a63f169c19694d321c90fc4a14e9",
+      "byteSize": 294448,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/rattlesnake.jpg"
+    },
+    {
+      "animalID": "raven",
+      "fileName": "raven.jpg",
+      "sourceRelativePath": "Content/images/raven.jpg",
+      "sha256": "538425543fc6ea80bdd0121a1fcd16a89ac6287adcbd1aaeba06ce25de9adcd5",
+      "byteSize": 78364,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/raven.jpg"
+    },
+    {
+      "animalID": "red-fox",
+      "fileName": "red-fox.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/red-fox.jpg",
+      "sha256": "7a8b339ba053e88ee88200f634570431d7e34b53a0b132f221c47ebc936a81ef",
+      "byteSize": 149089,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/red-fox.jpg"
+    },
+    {
+      "animalID": "red-panda",
+      "fileName": "red-panda.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/red-panda.jpg",
+      "sha256": "7ec37983ffa6a7dbb7f8518e894a0acb61eeed9e31b398954043c95c8cc3d8b8",
+      "byteSize": 167159,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/red-panda.jpg"
+    },
+    {
+      "animalID": "reindeer",
+      "fileName": "reindeer.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/reindeer.jpg",
+      "sha256": "eeda1bd6957a7ca8af88f17d62a925949fc41c6ee42ecd78ff3f9179935bb362",
+      "byteSize": 171531,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/reindeer.jpg"
+    },
+    {
+      "animalID": "rhinoceros",
+      "fileName": "rhinoceros.jpg",
+      "sourceRelativePath": "Content/images/rhinoceros.jpg",
+      "sha256": "08d0d12d46e1b33d19c048ba35ca7fc8e3dc8213d236397d9eeda68ec109d60b",
+      "byteSize": 954698,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/rhinoceros.jpg"
+    },
+    {
+      "animalID": "rooster",
+      "fileName": "rooster.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/rooster.jpg",
+      "sha256": "ddefe3d7f922dd1d5fcf0c3834e4acf4288e3d36a2291e01605e89bf63bfbc5d",
+      "byteSize": 789469,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/rooster.jpg"
+    },
+    {
+      "animalID": "saiga-antelope",
+      "fileName": "saiga-antelope.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/saiga-antelope.jpg",
+      "sha256": "842230bd871eea1a9ee2c1606ca4f8269b6f37c1d84511cb12bff12fee3e31a7",
+      "byteSize": 144356,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/saiga-antelope.jpg"
+    },
+    {
+      "animalID": "salamander",
+      "fileName": "salamander.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/salamander.jpg",
+      "sha256": "cd3569be4971350b0f2256a2ad962bbcb0ba9ffb1900ccb7b7190d14a7e8eb29",
+      "byteSize": 92881,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/salamander.jpg"
+    },
+    {
+      "animalID": "scorpion",
+      "fileName": "scorpion.jpg",
+      "sourceRelativePath": "Content/images/scorpion.jpg",
+      "sha256": "b37be85e80533c127e8b391bc0955fbef92a3cc03f1bd987db788fe48620c8cb",
+      "byteSize": 231801,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/scorpion.jpg"
+    },
+    {
+      "animalID": "sea-lion",
+      "fileName": "sea-lion.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sea-lion.jpg",
+      "sha256": "383837224c1b9e9d9ed0eb7fe5acc45e211287fcf3adaaa081f1b5e20f8e7cc9",
+      "byteSize": 103141,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/sea-lion.jpg"
+    },
+    {
+      "animalID": "sea-turtle",
+      "fileName": "sea-turtle.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sea-turtle.jpg",
+      "sha256": "eb5cb6d0195bab92ae5cbaaa21c30f66ce7f1fb1d8a58994e2bf2653bdfa7a3d",
+      "byteSize": 257471,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/sea-turtle.jpg"
+    },
+    {
+      "animalID": "seahorse",
+      "fileName": "seahorse.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/seahorse.jpg",
+      "sha256": "c33e37f6095dd23e1c1fc85bbba1a43607a301acbe38f8e46dec8ee3e4a6e907",
+      "byteSize": 146927,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/seahorse.jpg"
+    },
+    {
+      "animalID": "serval",
+      "fileName": "serval.jpg",
+      "sourceRelativePath": "Content/images/serval.jpg",
+      "sha256": "58c58978dce08239fb9538d6d65306b29b9a1f80da87d7940631b528ce5e1e90",
+      "byteSize": 1974612,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/serval.jpg"
+    },
+    {
+      "animalID": "sheep",
+      "fileName": "sheep.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sheep.jpg",
+      "sha256": "5757fbac00162ce54e7e7d4af33c7353f34159cc50f37d3c7cb90370643933a5",
+      "byteSize": 461177,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/sheep.jpg"
+    },
+    {
+      "animalID": "shrimp",
+      "fileName": "shrimp.jpg",
+      "sourceRelativePath": "Content/images/shrimp.jpg",
+      "sha256": "c52a4c7b9164c1364d0ebf8ac479603c02d96965a450bca44d2e1207e59df394",
+      "byteSize": 431311,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/shrimp.jpg"
+    },
+    {
+      "animalID": "sloth",
+      "fileName": "sloth.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sloth.jpg",
+      "sha256": "b4b25f69c4c69075949cb9cc785e5f506d9476980591e953a6a70d6b9240397b",
+      "byteSize": 348605,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/sloth.jpg"
+    },
+    {
+      "animalID": "snail",
+      "fileName": "snail.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/snail.jpg",
+      "sha256": "3ec978015a5150cc877cfa2b9f5055b955345627dff6e6acd75a34e059bd017a",
+      "byteSize": 207451,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/snail.jpg"
+    },
+    {
+      "animalID": "snow-leopard",
+      "fileName": "snow-leopard.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/snow-leopard.jpg",
+      "sha256": "06690c42af88015635903203c1de6587affb981494df090285e170ea196b10d6",
+      "byteSize": 171031,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/snow-leopard.jpg"
+    },
+    {
+      "animalID": "spectacled-bear",
+      "fileName": "spectacled-bear.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/spectacled-bear.jpg",
+      "sha256": "ec74a908ee1d848e4666ea5d7e862a6f430507e349087b38bb799b03a990639b",
+      "byteSize": 197593,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/spectacled-bear.jpg"
+    },
+    {
+      "animalID": "spider",
+      "fileName": "spider.jpg",
+      "sourceRelativePath": "Content/images/spider.jpg",
+      "sha256": "f56538baa5d47a82ffe4f590f77e046fe00d0ce388a61feed0dfb8b961485a7e",
+      "byteSize": 123498,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/spider.jpg"
+    },
+    {
+      "animalID": "squid",
+      "fileName": "squid.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/squid.jpg",
+      "sha256": "236866347cd46167e89bfb8109aa1eed59d1692ad49577b508b1b3e5a0039d06",
+      "byteSize": 188607,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/squid.jpg"
+    },
+    {
+      "animalID": "squirrel",
+      "fileName": "squirrel.jpg",
+      "sourceRelativePath": "Content/images/squirrel.jpg",
+      "sha256": "77d4e258204ddaf40d7c9e7d0321a086f5fdb0a1a5f2800d722e98f947ae9f12",
+      "byteSize": 742742,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/squirrel.jpg"
+    },
+    {
+      "animalID": "starfish",
+      "fileName": "starfish.jpg",
+      "sourceRelativePath": "Content/images/starfish.jpg",
+      "sha256": "b90f3266695682a0639f05a2b45b143fd25d93928fc79b2ff9a1527c3f1fab9c",
+      "byteSize": 680632,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/starfish.jpg"
+    },
+    {
+      "animalID": "stick-insect",
+      "fileName": "stick-insect.jpg",
+      "sourceRelativePath": "Content/images/stick-insect.jpg",
+      "sha256": "5a61837ff2415405e5fd29f82b9bf56a008b77ec6f922eb7aea71350a2dd65c1",
+      "byteSize": 564112,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/stick-insect.jpg"
+    },
+    {
+      "animalID": "stork",
+      "fileName": "stork.jpg",
+      "sourceRelativePath": "Content/images/stork.jpg",
+      "sha256": "2a35a3ad40e6604d01574cb34149a8d56cf4e80a70517effbbba1f4ff7eb913f",
+      "byteSize": 161842,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/stork.jpg"
+    },
+    {
+      "animalID": "sun-bear",
+      "fileName": "sun-bear.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sun-bear.jpg",
+      "sha256": "1798f65a4e04beaf4535a06654f291d930b1c5aeaade55c604958cfc1b64979b",
+      "byteSize": 258529,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/sun-bear.jpg"
+    },
+    {
+      "animalID": "swan",
+      "fileName": "swan.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/swan.jpg",
+      "sha256": "0990410fa14a85e0e149614034dbcaacf1e80dfb96a11d19658969e73a303a91",
+      "byteSize": 147743,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/swan.jpg"
+    },
+    {
+      "animalID": "tapir",
+      "fileName": "tapir.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tapir.jpg",
+      "sha256": "eed26820de86b4d3e862760335936c2c55edbd1f1b3d2d24353a60d101e6245c",
+      "byteSize": 1453381,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/tapir.jpg"
+    },
+    {
+      "animalID": "tarantula",
+      "fileName": "tarantula.jpg",
+      "sourceRelativePath": "Content/images/tarantula.jpg",
+      "sha256": "f8991d28cc71c6941d242e5a8f3b8ddc952b69c260e3a2ef6871c43ead5bbb8f",
+      "byteSize": 119020,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/tarantula.jpg"
+    },
+    {
+      "animalID": "tasmanian-devil",
+      "fileName": "tasmanian-devil.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tasmanian-devil.jpg",
+      "sha256": "cd607c5771f190d3f8e547d87e7b76fe7fc22ddae7c7bcb8f745840b372f10e6",
+      "byteSize": 208276,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/tasmanian-devil.jpg"
+    },
+    {
+      "animalID": "tiger",
+      "fileName": "tiger.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tiger.jpg",
+      "sha256": "d356746fbfd036b3bf1255db5f05d21dcbf71005fd8e6040041223406953b1c0",
+      "byteSize": 283778,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/tiger.jpg"
+    },
+    {
+      "animalID": "toad",
+      "fileName": "toad.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/toad.jpg",
+      "sha256": "3e37f07b017369571015bb5102135c404ffc42d1d2e8f9b438eeb42a0a6069cc",
+      "byteSize": 94481,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/toad.jpg"
+    },
+    {
+      "animalID": "tortoise",
+      "fileName": "tortoise.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tortoise.jpg",
+      "sha256": "7a7381c3869f3d62217ceadf22d294e80305e68596548de4f824378f1b4a4ef1",
+      "byteSize": 198880,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/tortoise.jpg"
+    },
+    {
+      "animalID": "toucan",
+      "fileName": "toucan.jpg",
+      "sourceRelativePath": "Content/images/toucan.jpg",
+      "sha256": "d2dac15626d686a09d6d859560ccc565c543e3432a286f0d5dbc71a2ad0a083a",
+      "byteSize": 338574,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/toucan.jpg"
+    },
+    {
+      "animalID": "tree-frog",
+      "fileName": "tree-frog.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tree-frog.jpg",
+      "sha256": "a91132910c5decfac2cd7f93c6be33cd2fe2278b98a273637453f2103c7ef13e",
+      "byteSize": 206872,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/tree-frog.jpg"
+    },
+    {
+      "animalID": "turkey-bird",
+      "fileName": "turkey-bird.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/turkey-bird.jpg",
+      "sha256": "15c81113459f0515a737db6be1fbdd096272dd0263f7a8e0b1a01e8879edcd7b",
+      "byteSize": 249703,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/turkey-bird.jpg"
+    },
+    {
+      "animalID": "vulture",
+      "fileName": "vulture.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/vulture.jpg",
+      "sha256": "c52d21e33a648cfe2dd993097230ca7d247bb38db2bbf29099d01571c3c2cb89",
+      "byteSize": 219679,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/vulture.jpg"
+    },
+    {
+      "animalID": "wallaby",
+      "fileName": "wallaby.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wallaby.jpg",
+      "sha256": "e5429d916cdd3806dbddcfbe554431fedb2e11e09c3c187af55c0b32cd9428bd",
+      "byteSize": 426573,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/wallaby.jpg"
+    },
+    {
+      "animalID": "walrus",
+      "fileName": "walrus.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/walrus.jpg",
+      "sha256": "3bfd873d924787817a23350ac460cf0f906bc7201e03f9eff2ce41665d75be71",
+      "byteSize": 122440,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/walrus.jpg"
+    },
+    {
+      "animalID": "water-buffalo",
+      "fileName": "water-buffalo.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/water-buffalo.jpg",
+      "sha256": "0ae058b6a712275eefe3569cfddcfaee63cf401bb1fbd5abaf45a9dbad09abb7",
+      "byteSize": 263167,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/water-buffalo.jpg"
+    },
+    {
+      "animalID": "whale-shark",
+      "fileName": "whale-shark.jpg",
+      "sourceRelativePath": "Content/images/whale-shark.jpg",
+      "sha256": "329cc98a72bdfb0b857f56838dc5a3cd90800ea6082a34a56a4ee11b7b9b4091",
+      "byteSize": 733343,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/whale-shark.jpg"
+    },
+    {
+      "animalID": "wildebeest",
+      "fileName": "wildebeest.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wildebeest.jpg",
+      "sha256": "871cda959a5c937e27698c8678e28d264eb404e6f001b50d0340199a35b7384f",
+      "byteSize": 238065,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/wildebeest.jpg"
+    },
+    {
+      "animalID": "wolf",
+      "fileName": "wolf.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wolf.jpg",
+      "sha256": "097021d0d941ec245b62494e774ef2183d2945205aef963d4973bafc2b745ed7",
+      "byteSize": 133759,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/wolf.jpg"
+    },
+    {
+      "animalID": "wombat",
+      "fileName": "wombat.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wombat.jpg",
+      "sha256": "5c06d6773e5b48414b8b9e0469edc5c98ccf467adee438f48642fdc8f8afab35",
+      "byteSize": 216141,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/wombat.jpg"
+    },
+    {
+      "animalID": "woodpecker",
+      "fileName": "woodpecker.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/woodpecker.jpg",
+      "sha256": "b58daeeafe30a2df780e6933a23c34660a719dfd8dae4d4e103a58da278fd7bd",
+      "byteSize": 279872,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/woodpecker.jpg"
+    },
+    {
+      "animalID": "yak",
+      "fileName": "yak.jpg",
+      "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/yak.jpg",
+      "sha256": "aa5e404d977dd25f6f1571c8b9e98d232e0d75ec47b532d31370c682c16a5947",
+      "byteSize": 213194,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/yak.jpg"
+    },
+    {
+      "animalID": "zebra",
+      "fileName": "zebra.jpg",
+      "sourceRelativePath": "Content/images/zebra.jpg",
+      "sha256": "68ae834bea25832ee77b06b1c6d44eaa4e3de31604dcd5b9ba7ba48f6dd76f00",
+      "byteSize": 397344,
+      "contentType": "image/jpeg",
+      "remotePath": "assets/zebra.jpg"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "serval",
+  "name": "Serval",
+  "species": {
+    "displayName": "Serval",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Africa's high-jump champion hides in the tall grass.",
+    "shortDescription": "Servals have the longest legs of any cat relative to their body size, and they use those springs to rocket straight up and bat birds clean out of the air. Their enormous oval ears can rotate independently and pick up the rustle of a mouse moving underground — then the serval stamps a front paw right on the spot to flush it out. Fun fact: A serval's hunting strike is so fast it hits its target in under one tenth of a second."
+  },
+  "image": {
+    "primaryFileName": "serval.jpg",
+    "sourceRelativePath": "Content/images/serval.jpg",
+    "focalPoint": {
+      "x": 0.16,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Serval",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Serval"
+    },
+    "photo": {
+      "attributionName": "Diego Delso",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Servalcropped.png",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Servalcropped.png"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "serval",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

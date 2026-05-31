@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "finch",
+  "name": "Finch",
+  "species": {
+    "displayName": "Finch",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A tiny bundle of song, living its whole life in a few square meters of hedge.",
+    "shortDescription": "Finches have short, sturdy bills designed to crack seeds — the exact shape depends on the species and the seeds they specialize in. Darwin noticed that finches on different Galápagos islands had evolved different bill shapes for different food sources, which helped him understand how evolution works. Fun fact: Male finches often learn their songs by listening carefully to their father singing when they're very young."
+  },
+  "image": {
+    "primaryFileName": "finch.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/finch.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Finch",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Finch"
+    },
+    "photo": {
+      "attributionName": "Francis C. Franklin",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Pyrrhula_pyrrhula_female_2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pyrrhula_pyrrhula_female_2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "finch",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "sea-lion",
+  "name": "Sea lion",
+  "species": {
+    "displayName": "Sea lion",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The marine acrobat that can swim and — unlike most seals — actually walk.",
+    "shortDescription": "Sea lions are the athletes of the seal world. They rotate their back flippers forward to walk on all fours on land, and their powerful front flippers pull them through water at speeds that leave fish struggling to escape. They're noisy, playful, and love surfing waves for fun. Fun fact: Sea lions are one of the few animals known to keep a beat — they can bob their head in time with music."
+  },
+  "image": {
+    "primaryFileName": "sea-lion.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sea-lion.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Sea_lion",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Sea_lion"
+    },
+    "photo": {
+      "attributionName": "Rhododendrites",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "California_sea_lion_in_La_Jolla_(70568).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:California_sea_lion_in_La_Jolla_%2870568%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "sea-lion",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

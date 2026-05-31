@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "hippopotamus",
+  "name": "Hippopotamus",
+  "species": {
+    "displayName": "Hippopotamus",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The river's grumpiest, heaviest tenant.",
+    "shortDescription": "Hippos spend most of the day underwater to stay cool, surfacing every few minutes to breathe without even waking up. Their skin oozes a thick reddish oil that acts like sunscreen and kills bacteria in wounds. Fun fact: Despite their size, hippos are one of the most dangerous animals in Africa."
+  },
+  "image": {
+    "primaryFileName": "hippopotamus.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hippopotamus.jpg",
+    "focalPoint": {
+      "x": 0.23,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hippopotamus",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hippopotamus"
+    },
+    "photo": {
+      "attributionName": "Muhammad Mahdi Karim",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Portrait_Hippopotamus_in_the_water.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "giant"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hippopotamus",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

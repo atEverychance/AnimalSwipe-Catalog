@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "publishedAt": "2026-05-31T14:11:15Z",
+  "minAppVersion": "0.2.0",
+  "manifestURL": "catalog/catalog-v0001.json",
+  "manifestSHA256": "df62236edfaa59ae7b27f3d487ee8035d17acb548cae9a1551b6134821fc2d32",
+  "signatureAlgorithm": "P256.ECDSA.SHA256",
+  "signatureFormat": "base64-der",
+  "signature": "MEUCID4Bt/iXYFV/3wuuqotdmUTDpnv9Rxck+W5LqPrgXAU0AiEAhE2QermHFkGRDpAP/GzmrttunuNgSmBjm3QyZFOBndM=",
+  "stagingOnly": true,
+  "keyID": "catalog-p256-v1"
+}

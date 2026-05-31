@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "penguin",
+  "name": "Penguin",
+  "species": {
+    "displayName": "Penguin",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Awkward on land, breathtaking in the water — the tuxedo is excellent camouflage.",
+    "shortDescription": "Penguins can't fly through the air but they absolutely fly through the sea — wings turned into flippers, reaching speeds of thirty-five kilometers per hour underwater, corkscrewing through kelp and launching off ledges to explode back onto ice. Their black-and-white pattern is camouflage: dark from above so sea predators can't see them against the depths, pale from below so nothing looking up sees them against the bright surface. Fun fact: Penguins' feathers are packed so tightly — up to a hundred per square centimeter — that water barely touches their skin even on the deepest dives."
+  },
+  "image": {
+    "primaryFileName": "penguin.jpg",
+    "sourceRelativePath": "Content/images/penguin.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Penguin",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Penguin"
+    },
+    "photo": {
+      "attributionName": "Ian Duffy from UK",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "penguin",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

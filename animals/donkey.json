@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "donkey",
+  "name": "Donkey",
+  "species": {
+    "displayName": "Donkey",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Stubborn is just another word for thinking things through.",
+    "shortDescription": "Donkeys have a reputation for stubbornness, but they're actually being careful — they don't move when something feels wrong because they know they don't run as fast as a horse and can't risk a mistake. They have enormous ears that can swivel independently to catch sounds from far away. Donkeys form strong bonds and can become deeply sad if a companion they know is suddenly gone. Fun fact: A donkey's bray — the loud hee-haw — can carry over three kilometers in open country."
+  },
+  "image": {
+    "primaryFileName": "donkey.jpg",
+    "sourceRelativePath": "Content/images/donkey.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Donkey",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Donkey"
+    },
+    "photo": {
+      "attributionName": "Evelyn Simak",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Portrait of a donkey - geograph.org.uk - 1477916.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_donkey_-_geograph.org.uk_-_1477916.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "donkey",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

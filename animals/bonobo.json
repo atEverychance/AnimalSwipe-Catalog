@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "bonobo",
+  "name": "Bonobo",
+  "species": {
+    "displayName": "Bonobo",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The most peaceable of the great apes — and the peacemaking is very enthusiastic.",
+    "shortDescription": "Bonobos look almost identical to chimpanzees but they live south of the Congo River, which has separated their two lineages for two million years. Bonobo groups are led by females, and they resolve conflict and tension through social bonding rather than fighting — which keeps their communities remarkably calm compared to other apes. They are one of our two closest living relatives, tied with chimpanzees. Fun fact: Bonobos are the only great apes known to look directly into a stranger's eyes as a form of greeting rather than a threat."
+  },
+  "image": {
+    "primaryFileName": "bonobo.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bonobo.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bonobo",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bonobo"
+    },
+    "photo": {
+      "attributionName": "natataek",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Apeldoorn_Apenheul_zoo_Bonobo.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Apeldoorn_Apenheul_zoo_Bonobo.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bonobo",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

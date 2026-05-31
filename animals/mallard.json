@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "mallard",
+  "name": "Mallard",
+  "species": {
+    "displayName": "Mallard",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The green-headed duck that started most pet ducks you've ever seen.",
+    "shortDescription": "Male mallards have that famous shiny green head and a white ring around their neck, while females are a mottled brown — perfect camouflage when sitting on a nest. Almost every domestic duck breed in the world was bred from mallards over thousands of years. Fun fact: The quacking sound you imagine when you think of ducks? That's the female mallard — males make a softer, raspy sound."
+  },
+  "image": {
+    "primaryFileName": "mallard.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mallard.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Mallard",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Mallard"
+    },
+    "photo": {
+      "attributionName": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+      "licenseName": "CC BY-SA 2.5",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+      "commonsFile": "Anas_platyrhynchos_male_female_quadrat.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "mallard",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "zebra",
+  "name": "Zebra",
+  "species": {
+    "displayName": "Zebra",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Every zebra is wearing a one-of-a-kind outfit.",
+    "shortDescription": "Zebras live in big herds and stay close for a very good reason — when a herd bolts together, all those spinning black-and-white stripes create a dizzying pattern that makes it genuinely hard for a predator to lock onto any single animal. A zebra foal learns its mother's stripe pattern in its first hours of life and never forgets it. Fun fact: No two zebras have the same stripe pattern — you could tell every zebra apart the same way you tell faces apart."
+  },
+  "image": {
+    "primaryFileName": "zebra.jpg",
+    "sourceRelativePath": "Content/images/zebra.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Zebra",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Zebra"
+    },
+    "photo": {
+      "attributionName": "Muhammad Mahdi Karim",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "Plains_Zebra_Equus_quagga_cropped.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Plains_Zebra_Equus_quagga_cropped.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "stripes"
+    ],
+    "hookArchetypes": [
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "zebra",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "chipmunk",
+  "name": "Chipmunk",
+  "species": {
+    "displayName": "Chipmunk",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Two tiny grocery bags, built right into its cheeks.",
+    "shortDescription": "Chipmunks have cheek pouches that stretch out so wide when full they can make the chipmunk's head look three times its normal size. They stuff seeds, nuts, and berries in there, sprint back to their burrow, and empty the whole load into a secret underground pantry for winter. Fun fact: A chipmunk's underground burrow can have over a meter of tunnels and several separate storage rooms."
+  },
+  "image": {
+    "primaryFileName": "chipmunk.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/chipmunk.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Chipmunk",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Chipmunk"
+    },
+    "photo": {
+      "attributionName": "Rhododendrites",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Chipmunk_with_stuffed_cheeks_in_Prospect_Park_(05980).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "chipmunk",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

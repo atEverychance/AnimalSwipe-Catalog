@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "crow",
+  "name": "Crow",
+  "species": {
+    "displayName": "Crow",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Glossy black, watching you from the fence, definitely judging.",
+    "shortDescription": "Crows are among the most intelligent birds on the planet. They recognize individual human faces, hold grudges, drop nuts onto crosswalks for cars to crack open, and use sticks as tools to get food out of tight spaces. Fun fact: Crows have been observed leaving small gifts — buttons, shiny wrappers, bits of glass — for people who fed them regularly."
+  },
+  "image": {
+    "primaryFileName": "crow.jpg",
+    "sourceRelativePath": "Content/images/crow.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Crow",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Crow"
+    },
+    "photo": {
+      "attributionName": "Ian Kirk from Broadstone, Dorset, UK",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Corvus_corone_-near_Canford_Cliffs,_Poole,_England-8.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Corvus_corone_-near_Canford_Cliffs%2C_Poole%2C_England-8.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "crow",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

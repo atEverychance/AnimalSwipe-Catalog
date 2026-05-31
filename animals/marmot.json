@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "marmot",
+  "name": "Marmot",
+  "species": {
+    "displayName": "Marmot",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The mountain alarm system with a whistle loud enough to echo.",
+    "shortDescription": "Marmots are large, chubby ground squirrels that live in mountain meadows and use piercing whistles to warn the whole colony the moment they spot a hawk or fox. When the whistle goes, every marmot dives for a burrow entrance at once. Fun fact: Marmots hibernate for up to eight months of the year — the longest hibernation of any mammal their size."
+  },
+  "image": {
+    "primaryFileName": "marmot.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/marmot.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Marmot",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Marmot"
+    },
+    "photo": {
+      "attributionName": "Photography captured by Giles Laurent",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "marmot",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

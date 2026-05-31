@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "koala",
+  "name": "Koala",
+  "species": {
+    "displayName": "Koala",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Sleeping twenty-two hours a day in a eucalyptus tree — and perfectly content.",
+    "shortDescription": "Koalas sleep almost the entire day because eucalyptus leaves are tough, fibrous, mildly toxic, and nearly impossible to digest — it takes that much rest just to recover from a meal. They have two thumbs on each front paw for gripping branches, and they almost never come down to the ground. Fun fact: A koala's fingerprints are so close to human fingerprints that even forensic scientists have a hard time telling them apart under a microscope."
+  },
+  "image": {
+    "primaryFileName": "koala.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/koala.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Koala",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Koala"
+    },
+    "photo": {
+      "attributionName": "Diliff",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Koala_climbing_tree.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "cute"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "koala",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

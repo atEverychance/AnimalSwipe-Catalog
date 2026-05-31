@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "walrus",
+  "name": "Walrus",
+  "species": {
+    "displayName": "Walrus",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The tusked giant who uses its ivory hooks to haul onto sea ice.",
+    "shortDescription": "A walrus uses its long ivory tusks like ice picks, stabbing them into the ice edge and hauling its enormous bulk up out of the water. But tusks also come in handy for showing off — a walrus with the biggest tusks gets the best sunbathing spots in the colony. Those sensitive whiskers on its snout can feel clams buried in the dark mud of the sea floor. Fun fact: Walruses can slow their heartbeat to stay warmer in icy water, almost like turning down a radiator."
+  },
+  "image": {
+    "primaryFileName": "walrus.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/walrus.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Walrus",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Walrus"
+    },
+    "photo": {
+      "attributionName": "Nixette",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Walrus_in_the_Russian_Arctic_National_Park,_Novaya_Zemlya_2015-2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "walrus",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

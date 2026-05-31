@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "tasmanian-devil",
+  "name": "Tasmanian devil",
+  "species": {
+    "displayName": "Tasmanian devil",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The world's loudest eater, and extremely proud of it.",
+    "shortDescription": "Tasmanian devils are the size of a small dog but have the most powerful bite relative to body size of any living mammal — they're such thorough eaters that they can finish an entire meal, leaving almost nothing behind. They get their name from the blood-curdling screeches, growls, and screams they make while competing over food, which can be heard from a kilometre away at night. Fun fact: Tasmanian devils glow blue-green under ultraviolet light — nobody is completely sure why."
+  },
+  "image": {
+    "primaryFileName": "tasmanian-devil.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tasmanian-devil.jpg",
+    "focalPoint": {
+      "x": 0.23,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Tasmanian_devil",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Tasmanian_devil"
+    },
+    "photo": {
+      "attributionName": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Sarcophilus_harrisii_taranna.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "tasmanian-devil",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

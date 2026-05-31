@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "cow",
+  "name": "Cow",
+  "species": {
+    "displayName": "Cattle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Four stomachs, eight hours of chewing, and still totally calm.",
+    "shortDescription": "Cows have four stomach compartments that work like a slow, efficient recycling plant for grass. They swallow a mouthful, let it soften in the first stomach, then bring it back up to chew it again — a process called chewing the cud. Cows have best friends in their herd and get stressed when separated from them. Fun fact: Cows can sleep standing up but only dream when they lie down."
+  },
+  "image": {
+    "primaryFileName": "cow.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cow.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Cattle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Cattle"
+    },
+    "photo": {
+      "attributionName": "Kim Hansen",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "cow",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

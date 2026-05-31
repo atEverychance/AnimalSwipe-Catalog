@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "polar-bear",
+  "name": "Polar bear",
+  "species": {
+    "displayName": "Polar bear",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Built for ice, born to swim, perfectly at home in the cold.",
+    "shortDescription": "Polar bears are the world's biggest land predators and also surprisingly strong swimmers — they can paddle for hundreds of kilometers across open Arctic water without rest. Their fur looks white but is actually transparent, and their skin underneath is completely black to soak up every bit of sunlight. Fun fact: A polar bear can smell a seal hiding under a meter of snow from a full kilometer away."
+  },
+  "image": {
+    "primaryFileName": "polar-bear.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/polar-bear.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Polar_bear",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Polar_bear"
+    },
+    "photo": {
+      "attributionName": "Alan Wilson",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Polar_Bear_-_Alaska_(cropped).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_%28cropped%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Arctic/Antarctic"
+    ],
+    "traits": [
+      "large"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "polar-bear",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

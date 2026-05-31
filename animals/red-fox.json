@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "red-fox",
+  "name": "Red fox",
+  "species": {
+    "displayName": "Red fox",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Sharp ears, a twitchy nose, and a dive into the snow.",
+    "shortDescription": "Red foxes can hear a mouse moving under a thick layer of snow, then leap straight up and plunge headfirst to catch it. They live almost everywhere — forests, farms, cities, and arctic edges. Fun fact: Foxes use Earth's magnetic field like a compass to help them aim their pounce just right."
+  },
+  "image": {
+    "primaryFileName": "red-fox.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/red-fox.jpg",
+    "focalPoint": {
+      "x": 0.82,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Red_fox",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Red_fox"
+    },
+    "photo": {
+      "attributionName": "ClaudiaTen",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "fluffy"
+    ],
+    "hookArchetypes": [
+      "cute"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "red-fox",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

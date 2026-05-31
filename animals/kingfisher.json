@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "kingfisher",
+  "name": "Kingfisher",
+  "species": {
+    "displayName": "Kingfisher",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A flash of electric blue that's gone before you can blink.",
+    "shortDescription": "Kingfishers are so brightly colored they look almost fake — electric blue on top, rusty orange underneath. They hunt by perching over a stream, watching the water with their head tilted to correct for light refraction, then diving in bill-first to catch a fish they spotted before it could react. Fun fact: Kingfishers beat a caught fish against a branch to stun it and flip it head-first so it slides down smoothly."
+  },
+  "image": {
+    "primaryFileName": "kingfisher.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kingfisher.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Kingfisher",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Kingfisher"
+    },
+    "photo": {
+      "attributionName": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Alcedo_azurea_-_Julatten.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Alcedo_azurea_-_Julatten.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "kingfisher",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

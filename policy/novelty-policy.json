@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "dropCadenceDays": 21,
+  "recentDropWindow": 4,
+  "avoidRepeatingPrimaryHabitatWithinDrops": 2,
+  "avoidRepeatingHookWithinDrops": 3,
+  "hookArchetypes": [
+    "cute",
+    "weird",
+    "giant",
+    "tiny",
+    "speedy",
+    "camouflage",
+    "nocturnal",
+    "colorful",
+    "armored",
+    "excellent-parent"
+  ],
+  "packRules": {
+    "minHookArchetypesPerPack": 3,
+    "maxSameVisualTraitPerPack": 4,
+    "minNewToCatalogHabitatsPerQuarter": 2
+  }
+}

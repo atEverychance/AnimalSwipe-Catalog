@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "tree-frog",
+  "name": "Tree frog",
+  "species": {
+    "displayName": "Tree frog",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Tiny toes, giant stick — and it can leap from almost anywhere.",
+    "shortDescription": "Tree frogs can cling upside-down to glass without slipping, thanks to millions of tiny bumps on their toe pads that grip like a thousand little suction cups. They live in rainforests and gardens all over the world, calling out so loudly at night that they can drown out a conversation. Fun fact: Tree frogs don't drink water — they absorb it straight through their skin."
+  },
+  "image": {
+    "primaryFileName": "tree-frog.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tree-frog.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Tree_frog",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Tree_frog"
+    },
+    "photo": {
+      "attributionName": "Christoph Leeb",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Laubfrosch_cropped.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Laubfrosch_cropped.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "amphibian"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "tree-frog",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

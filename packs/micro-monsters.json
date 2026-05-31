@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "micro-monsters",
+  "name": "Micro Monsters",
+  "subtitle": "Tiny creepers of dusk and dirt",
+  "description": "Mini beasts, from eight-legged crawlers to night-flying nibblers.",
+  "kind": "theme",
+  "sortOrder": 140,
+  "coverAnimalID": "firefly",
+  "symbolName": "bolt.shield.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 3,
+    "weight": 2,
+    "group": "mini-beasts"
+  },
+  "animalIDs": [
+    "firefly",
+    "praying-mantis",
+    "stick-insect",
+    "caterpillar",
+    "snail",
+    "spider",
+    "tarantula",
+    "scorpion",
+    "mouse",
+    "bat"
+  ]
+}

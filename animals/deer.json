@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "deer",
+  "name": "Deer",
+  "species": {
+    "displayName": "Deer",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Still as a statue, then gone in a heartbeat.",
+    "shortDescription": "Deer are masters of disappearing — one second they're watching you with enormous dark eyes, the next they've vanished into the trees without a single snapped twig. When they flash the white underside of their tail as they run, it signals danger to every other deer nearby. Fun fact: A deer's eyes are set on the sides of its head, giving it nearly three hundred and sixty degrees of vision."
+  },
+  "image": {
+    "primaryFileName": "deer.jpg",
+    "sourceRelativePath": "Content/images/deer.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Deer",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Deer"
+    },
+    "photo": {
+      "attributionName": "Yellowstone National Park",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Mule deer buck and Roosevelt Arch portrait (26624826009).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mule_deer_buck_and_Roosevelt_Arch_portrait_%2826624826009%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "deer",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

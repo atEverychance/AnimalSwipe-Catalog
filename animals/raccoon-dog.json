@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "raccoon-dog",
+  "name": "Raccoon dog",
+  "species": {
+    "displayName": "Nyctereutes",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "It looks like a raccoon, acts like a fox, and naps like a bear.",
+    "shortDescription": "Raccoon dogs are the only wild dogs that hibernate — not deeply, but enough to sleep through the coldest winter weeks curled up in a den, living off their fat reserves. Their raccoon-like face mask is just a coincidence: they're actually canids, more closely related to foxes than to raccoons. Fun fact: Raccoon dogs are the only dog family members that regularly climb trees."
+  },
+  "image": {
+    "primaryFileName": "raccoon-dog.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/raccoon-dog.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Nyctereutes",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Nyctereutes"
+    },
+    "photo": {
+      "attributionName": "Доктор рукиноги KKPCW",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Nyctereutes.png",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Nyctereutes.png"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "raccoon-dog",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

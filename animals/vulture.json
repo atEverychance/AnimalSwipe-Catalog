@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "vulture",
+  "name": "Vulture",
+  "species": {
+    "displayName": "Vulture",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Riding thermals in lazy circles high above everything else.",
+    "shortDescription": "Vultures barely need to flap — they spread their huge wings and ride rising columns of warm air called thermals, circling for hours without breaking a sweat. They have bald heads because feathers would get very messy doing what vultures do for a living. Fun fact: A vulture's stomach acid is strong enough to destroy anthrax and botulism bacteria that would kill most other animals."
+  },
+  "image": {
+    "primaryFileName": "vulture.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/vulture.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Vulture",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Vulture"
+    },
+    "photo": {
+      "attributionName": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg: Jorge Láscar from Bogotá, Colombia derivative work: Snowmanradio (talk)",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "vulture",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

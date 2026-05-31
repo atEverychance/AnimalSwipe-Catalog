@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ibex",
+  "name": "Ibex",
+  "species": {
+    "displayName": "Ibex",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Curved horns, impossible cliffs, and total confidence.",
+    "shortDescription": "Ibex are wild mountain goats that walk on near-vertical cliff faces as casually as you'd stroll across a flat pavement. Their hooves have hard outer edges that grip rock and soft rubbery inner pads that grip smooth stone — essentially a built-in climbing shoe. Fun fact: Male ibex can grow curved horns over a metre long, and they use them to clash head-on in battles that can be heard echoing across whole valleys."
+  },
+  "image": {
+    "primaryFileName": "ibex.jpg",
+    "sourceRelativePath": "Content/images/ibex.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Ibex",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Ibex"
+    },
+    "photo": {
+      "attributionName": "T.Voekler",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Capra_ibex_ibex.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Capra_ibex_ibex.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "ibex",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

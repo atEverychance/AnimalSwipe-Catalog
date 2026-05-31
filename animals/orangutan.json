@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "orangutan",
+  "name": "Orangutan",
+  "species": {
+    "displayName": "Orangutan",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Building a fresh bedroom in the treetops every single night.",
+    "shortDescription": "Orangutans are the only great apes that live mostly alone instead of in groups, and they spend almost their entire lives up in the forest canopy. Every evening they build a new sleeping platform from bent branches and leaves — a fresh, comfortable nest ten to thirty meters off the ground. They have the longest childhood of any non-human animal, staying with and learning from their mothers for up to eight years. Fun fact: Orangutans have been observed making raincoats out of large leaves during downpours, holding them above their heads."
+  },
+  "image": {
+    "primaryFileName": "orangutan.jpg",
+    "sourceRelativePath": "Content/images/orangutan.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Orangutan",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Orangutan"
+    },
+    "photo": {
+      "attributionName": "Eleifert",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Orang_Utan,_Semenggok_Forest_Reserve,_Sarawak,_Borneo,_Malaysia.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "orangutan",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

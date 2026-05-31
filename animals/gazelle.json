@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "gazelle",
+  "name": "Gazelle",
+  "species": {
+    "displayName": "Gazelle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Springy, quick, and bouncing just to show off.",
+    "shortDescription": "Gazelles are the sprinters and acrobats of the African savanna, leaping high into the air even when there's nothing to jump over — a move called stotting. Scientists think it's a message to cheetahs and lions: I spotted you, I'm fast, don't bother. Fun fact: Thomson's gazelles can reach speeds of around eighty kilometers per hour."
+  },
+  "image": {
+    "primaryFileName": "gazelle.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/gazelle.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Gazelle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Gazelle"
+    },
+    "photo": {
+      "attributionName": "Mvshreeram",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Chinkara_-_Shreeram_M_V_-_Bikaner.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Chinkara_-_Shreeram_M_V_-_Bikaner.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "gazelle",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

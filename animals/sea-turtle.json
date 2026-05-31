@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "sea-turtle",
+  "name": "Sea turtle",
+  "species": {
+    "displayName": "Sea turtle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Ancient ocean traveler who always finds her way home.",
+    "shortDescription": "Sea turtles have existed almost unchanged for more than a hundred million years — they were swimming around when T. rex was still stomping about. Female sea turtles crawl back onto the exact same beach where they hatched to lay their own eggs, sometimes crossing entire oceans to get there. Fun fact: Sea turtles navigate using Earth's magnetic field like a living compass built into their brain."
+  },
+  "image": {
+    "primaryFileName": "sea-turtle.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sea-turtle.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Sea_turtle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Sea_turtle"
+    },
+    "photo": {
+      "attributionName": "Brocken Inaglory",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Chelonia_mydas_is_going_for_the_air_edit.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Chelonia_mydas_is_going_for_the_air_edit.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "shell",
+      "scales"
+    ],
+    "hookArchetypes": [
+      "armored"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "sea-turtle",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

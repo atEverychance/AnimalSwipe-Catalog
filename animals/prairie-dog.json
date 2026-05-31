@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "prairie-dog",
+  "name": "Prairie dog",
+  "species": {
+    "displayName": "Prairie dog",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The underground city builder with its own language.",
+    "shortDescription": "Prairie dogs are burrowing squirrels that build massive underground towns on the grasslands of North America — one historic 'town' stretched over twenty-five thousand square kilometres. They communicate with a series of barks and chirps that researchers think actually describe intruders in detail: size, colour, and how fast it's moving. Fun fact: Prairie dog towns support dozens of other species, from burrowing owls who move into empty tunnels to black-footed ferrets who hunt right through the corridors."
+  },
+  "image": {
+    "primaryFileName": "prairie-dog.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/prairie-dog.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Prairie_dog",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Prairie_dog"
+    },
+    "photo": {
+      "attributionName": "Joe Ravi",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Black-Tailed_Prairie_Dog.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Black-Tailed_Prairie_Dog.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "prairie-dog",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

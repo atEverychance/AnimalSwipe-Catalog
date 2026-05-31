@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "sloth",
+  "name": "Sloth",
+  "species": {
+    "displayName": "Sloth",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Hanging upside down, covered in algae, and perfectly content.",
+    "shortDescription": "Sloths move so slowly that green algae actually grows in their fur — which is a feature, not a bug, since it makes them look like part of the tree and nearly invisible to predators. They spend almost their entire lives upside down in the rainforest canopy. Fun fact: Sloths only come down to the ground about once a week — to use the bathroom."
+  },
+  "image": {
+    "primaryFileName": "sloth.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sloth.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Sloth",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Sloth"
+    },
+    "photo": {
+      "attributionName": "Daniella Maraschiello",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Bicho-preguiça_3.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a_3.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "sloth",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

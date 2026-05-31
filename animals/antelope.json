@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "antelope",
+  "name": "Antelope",
+  "species": {
+    "displayName": "Antelope",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Built like a running machine on Africa's open plains.",
+    "shortDescription": "Antelopes are a huge family of hoofed animals — there are nearly a hundred different species, from the tiny royal antelope no bigger than a rabbit to the giant eland as heavy as a horse. Most of them are built for one thing above everything else: speed. Fun fact: The pronghorn antelope of North America is the second-fastest land animal on Earth, after the cheetah."
+  },
+  "image": {
+    "primaryFileName": "antelope.jpg",
+    "sourceRelativePath": "Content/images/antelope.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Antelope",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Antelope"
+    },
+    "photo": {
+      "attributionName": "Timothy Akolamazima",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Impalas Portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Impalas_Portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "antelope",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

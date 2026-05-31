@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "praying-mantis",
+  "name": "Praying mantis",
+  "species": {
+    "displayName": "Mantis",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The patient ambush hunter that can look right at you.",
+    "shortDescription": "Praying mantises are the only insects that can turn their heads all the way around to look behind themselves — handy when you hunt by ambush and need to track fast-moving prey. They sit perfectly still for ages, then strike with their spiked front legs faster than you can blink. Fun fact: A mantis can strike and grab prey in under a hundredth of a second — too fast for the human eye to follow."
+  },
+  "image": {
+    "primaryFileName": "praying-mantis.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/praying-mantis.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Mantis",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Mantis"
+    },
+    "photo": {
+      "attributionName": "Mihai C. Popa",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Mantis_(European).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mantis_%28European%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "praying-mantis",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

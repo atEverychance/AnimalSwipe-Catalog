@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "camel",
+  "name": "Camel",
+  "species": {
+    "displayName": "Camel",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Desert crosser, hump carrier, champion of thirst.",
+    "shortDescription": "Camels can go weeks without water, and when they finally drink, they can swallow over a hundred liters in just minutes. Their humps are full of fat — not water — which their bodies slowly burn for energy when food is scarce. Fun fact: A camel's eyelashes are extra long and thick to keep out blowing sand."
+  },
+  "image": {
+    "primaryFileName": "camel.jpg",
+    "sourceRelativePath": "Content/images/camel.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Camel",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Camel"
+    },
+    "photo": {
+      "attributionName": "S. Taheri",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Camel portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Camel_portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "camel",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

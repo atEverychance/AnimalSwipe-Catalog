@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "lion",
+  "name": "Lion",
+  "species": {
+    "displayName": "Lion",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The king of the savanna has something to say — loudly.",
+    "shortDescription": "Lions are the only big cats that actually choose to live together. Their roar isn't just loud, it's a sound you feel in your chest, carrying for eight kilometers across open grassland. The lionesses do most of the hunting while the maned males guard the family, which is called a pride. Fun fact: A lion's roar is so powerful it can travel eight kilometers — farther than most kids walk to school and back."
+  },
+  "image": {
+    "primaryFileName": "lion.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/lion.jpg",
+    "focalPoint": {
+      "x": 0.39,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Lion",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Lion"
+    },
+    "photo": {
+      "attributionName": "Giles Laurent",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "lion",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

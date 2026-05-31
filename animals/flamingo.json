@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "flamingo",
+  "name": "Flamingo",
+  "species": {
+    "displayName": "Flamingo",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Pink from head to toe, eating upside-down, standing on one leg, and completely unbothered.",
+    "shortDescription": "Flamingos are pink because of pigments in the algae and shrimp they eat — a flamingo fed plain white food slowly turns white. They filter-feed with their curved bill held upside-down, tongue pumping water through comb-like plates that trap tiny creatures. The one-leg stance might help conserve body heat, or it might just be comfortable — flamingos seem entirely at peace with the question. Fun fact: Baby flamingos are born grey and white, and the famous pink colour builds up slowly over two years of eating the right food."
+  },
+  "image": {
+    "primaryFileName": "flamingo.jpg",
+    "sourceRelativePath": "Content/images/flamingo.jpg",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.4
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Flamingo",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Flamingo"
+    },
+    "photo": {
+      "attributionName": "Pia Parolin",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "commonsFile": "Portrait de flamant rose dans la réserve nationale de Camargue.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Portrait_de_flamant_rose_dans_la_r%C3%A9serve_nationale_de_Camargue.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "flamingo",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

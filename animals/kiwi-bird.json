@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "kiwi-bird",
+  "name": "Kiwi",
+  "species": {
+    "displayName": "Kiwi",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A bird that lost its wings and gained the most useful beak instead.",
+    "shortDescription": "The kiwi is a flightless bird from New Zealand that looks a bit like a furry brown rugby ball on legs. Its nostrils sit right at the tip of its long beak — unique among birds — so it sniffs the ground like a dog to find buried worms and grubs in the dark. Kiwi feathers are hair-like and loose, without the stiff interlocking barbs that make most bird feathers smooth. Fun fact: A kiwi egg is so enormous relative to the mother's body that it's roughly the same as a person giving birth to a six-year-old."
+  },
+  "image": {
+    "primaryFileName": "kiwi-bird.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/kiwi-bird.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Kiwi_%28bird%29",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Kiwi_%28bird%29"
+    },
+    "photo": {
+      "attributionName": "Maungatautari Ecological Island Trust",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "TeTuatahianui.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:TeTuatahianui.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "kiwi-bird",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "butterfly",
+  "name": "Butterfly",
+  "species": {
+    "displayName": "Butterfly",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Wings like stained glass, and feet that can taste.",
+    "shortDescription": "Butterflies taste flowers with sensors on their feet — so the moment they land on a petal, they already know if it's worth stopping for. Their wings are made of thousands of tiny overlapping scales that create color and pattern. Fun fact: A butterfly's whole tongue is built like a drinking straw that stays curled up under its face when it isn't using it."
+  },
+  "image": {
+    "primaryFileName": "butterfly.jpg",
+    "sourceRelativePath": "Content/images/butterfly.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Butterfly",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Butterfly"
+    },
+    "photo": {
+      "attributionName": "Matthias",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Butterfly Portrait (120780431).jpeg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Butterfly_Portrait_%28120780431%29.jpeg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "butterfly",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

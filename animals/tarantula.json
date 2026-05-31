@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "tarantula",
+  "name": "Tarantula",
+  "species": {
+    "displayName": "Tarantula",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Big, fuzzy, and calmer than you'd expect.",
+    "shortDescription": "Tarantulas are the largest spiders in the world, and despite their intimidating appearance, most species are slow-moving and relatively calm. Their real defense weapon isn't their fangs — it's the tiny barbed hairs on their abdomen that they flick at threats using their back legs, causing intense irritation. Fun fact: Some tarantulas live for over thirty years, making them one of the longest-lived invertebrates you could keep as a pet."
+  },
+  "image": {
+    "primaryFileName": "tarantula.jpg",
+    "sourceRelativePath": "Content/images/tarantula.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Tarantula",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Tarantula"
+    },
+    "photo": {
+      "attributionName": "HTO",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Lasiodora parahybana, eyes.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Lasiodora_parahybana%2C_eyes.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "tarantula",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "sourceAppRepo": "/Users/jadel.mcguire/Documents/AnimalSwipe",
+  "catalogRepo": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog",
+  "catalogVersion": 1,
+  "animalCount": 200,
+  "packCount": 20,
+  "newAnimalsAdded": 0,
+  "equivalence": {
+    "passed": true,
+    "failureCount": 0,
+    "warningCount": 0,
+    "failures": [],
+    "warnings": []
+  },
+  "generatedFiles": [
+    "animals/*.json",
+    "packs/*.json",
+    "rewards/rewards.json",
+    "encyclopedia/encyclopedia.json",
+    "indexes/duplicate-index.json",
+    "indexes/balance-baseline.json",
+    "dist/catalog-v0001.json",
+    "dist/latest.json"
+  ]
+}

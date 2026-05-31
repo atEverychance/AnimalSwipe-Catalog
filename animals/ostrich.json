@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ostrich",
+  "name": "Ostrich",
+  "species": {
+    "displayName": "Ostrich",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Can't fly, doesn't need to — nothing can catch this bird on the ground.",
+    "shortDescription": "Ostriches are the largest birds alive, and they can sprint at over seventy kilometers per hour — faster than a racehorse at full gallop. They only have two toes on each foot, with one enormous inner toe that acts like a hoof for pushing off the ground. Their long powerful legs can also deliver a kick that can kill a lion. Fun fact: Ostriches have eyes bigger than their brains — and those eyes are the largest of any land animal."
+  },
+  "image": {
+    "primaryFileName": "ostrich.jpg",
+    "sourceRelativePath": "Content/images/ostrich.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Ostrich",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Ostrich"
+    },
+    "photo": {
+      "attributionName": "William Warby",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Struthio camelus portrait Whipsnade Zoo.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_portrait_Whipsnade_Zoo.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "ostrich",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

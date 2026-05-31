@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "magpie",
+  "name": "Magpie",
+  "species": {
+    "displayName": "Magpie",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Black, white, and shot through with iridescent green — and extremely curious.",
+    "shortDescription": "Magpies are one of the few non-mammal animals that recognize themselves in a mirror — they look at their reflection, touch a mark placed on their own body, and understand what they're seeing. They're chatty, bold, and love to investigate anything shiny or unusual. Fun fact: Magpies build domed nests with a mud bowl inside and a thorny roof of sticks to keep predators out."
+  },
+  "image": {
+    "primaryFileName": "magpie.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/magpie.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Magpie",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Magpie"
+    },
+    "photo": {
+      "attributionName": "Pierre-Selim",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Pica_pica_-_Compans_Caffarelli_-_2012-03-16.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pica_pica_-_Compans_Caffarelli_-_2012-03-16.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "magpie",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

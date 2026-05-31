@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "yak",
+  "name": "Yak",
+  "species": {
+    "displayName": "Yak",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The high-altitude heavyweight built for air that's too thin to breathe.",
+    "shortDescription": "Yaks live higher than almost any other large mammal on Earth — up on the Tibetan plateau where the air is so thin that most animals would collapse. Their blood has extra-large red blood cells that soak up oxygen much more efficiently than ours do. Fun fact: Wild yaks can weigh as much as a small car — over a thousand kilograms."
+  },
+  "image": {
+    "primaryFileName": "yak.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/yak.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Yak",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Yak"
+    },
+    "photo": {
+      "attributionName": "Alexandr frolov",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Sarlyk_Yak2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Sarlyk_Yak2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "yak",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

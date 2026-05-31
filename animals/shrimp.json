@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "shrimp",
+  "name": "Shrimp",
+  "species": {
+    "displayName": "Shrimp",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Tiny, fast, and surprisingly good at cleaning up.",
+    "shortDescription": "Shrimp live in oceans, rivers, and lakes all over the world, and some of them run actual cleaning stations on coral reefs — fish line up and let the shrimp pick parasites right off them. When a shrimp wants to escape fast, it flips its tail hard and rockets backward in a blink. Fun fact: Some shrimp species can make a snapping sound with their claws loud enough to stun small prey — like a tiny underwater gunshot."
+  },
+  "image": {
+    "primaryFileName": "shrimp.jpg",
+    "sourceRelativePath": "Content/images/shrimp.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Shrimp",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Shrimp"
+    },
+    "photo": {
+      "attributionName": "Arturo de Frias Marques",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Sarasvati Comensal Shrimp AdF.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Sarasvati_Comensal_Shrimp_AdF.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "shrimp",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

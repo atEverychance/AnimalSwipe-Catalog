@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "peacock",
+  "name": "Peacock",
+  "species": {
+    "displayName": "Peafowl",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The bird with a tail full of shimmering eyes, fanned out like a living stage curtain.",
+    "shortDescription": "A peacock's tail — called a train — isn't actually its tail feathers. It grows from the peacock's back and can be over two meters long, fanned out into a spectacular wheel of iridescent blue and green eye-spots. The feathers don't reflect colour from pigment — the colour comes from tiny crystal-like structures that bend light, like soap bubbles. Fun fact: Peahens — the females — are brown and much less flashy, which helps them hide on a nest."
+  },
+  "image": {
+    "primaryFileName": "peacock.jpg",
+    "sourceRelativePath": "Content/images/peacock.jpg",
+    "focalPoint": {
+      "x": 0.51,
+      "y": 0.24
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Peafowl",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Peafowl"
+    },
+    "photo": {
+      "attributionName": "Jatin Sindhu",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Peacock_Plumage.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Peacock_Plumage.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "peacock",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

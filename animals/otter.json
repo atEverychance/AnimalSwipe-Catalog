@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "otter",
+  "name": "Otter",
+  "species": {
+    "displayName": "Otter",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The river's most enthusiastic tool user — and the hand-holdingest sleeper.",
+    "shortDescription": "Sea otters float on their backs in kelp forests, cracking open mussels and clams with a rock balanced on their chest like a tiny picnic table. They each have a favorite rock they tuck into a fold of loose skin under their arm, carrying it from meal to meal. Fun fact: Sea otters hold hands while they sleep so the current doesn't carry them apart — a group of sleeping otters is called a raft."
+  },
+  "image": {
+    "primaryFileName": "otter.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/otter.jpg",
+    "focalPoint": {
+      "x": 0.79,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Otter",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Otter"
+    },
+    "photo": {
+      "attributionName": "Bernard Landgraf",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Fischotter,_Lutra_Lutra.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Fischotter%2C_Lutra_Lutra.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "otter",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

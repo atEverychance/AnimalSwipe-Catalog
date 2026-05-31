@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "okapi",
+  "name": "Okapi",
+  "species": {
+    "displayName": "Okapi",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Part giraffe, part zebra, totally its own thing.",
+    "shortDescription": "The okapi looks like a zebra wore giraffe patches on its legs, but it's actually the giraffe's only living close relative. It lives deep in the rainforests of the Democratic Republic of Congo, so secretly that scientists didn't even know it existed until 1901. Fun fact: An okapi's tongue is long enough to lick its own ears clean."
+  },
+  "image": {
+    "primaryFileName": "okapi.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/okapi.jpg",
+    "focalPoint": {
+      "x": 0.24,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Okapi",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Okapi"
+    },
+    "photo": {
+      "attributionName": "Daniel Jolivet",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Saint-Aignan_(Loir-et-Cher)._Okapi.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "okapi",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

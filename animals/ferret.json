@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ferret",
+  "name": "Ferret",
+  "species": {
+    "displayName": "Ferret",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A tube of chaos doing the weasel war dance.",
+    "shortDescription": "When ferrets get excited, they do a wriggling, bouncing leap called the dook dance — all floppy limbs and happy surprise, completely impossible not to laugh at. They are natural tunnel explorers and will investigate every pipe, sleeve, and sofa gap they find. Ferrets sleep around sixteen hours a day in coiled-up piles, and when they wake up they are immediately full speed. Fun fact: A group of ferrets is called a business — which is fitting, because they are always very busy."
+  },
+  "image": {
+    "primaryFileName": "ferret.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ferret.jpg",
+    "focalPoint": {
+      "x": 0.84,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Ferret",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Ferret"
+    },
+    "photo": {
+      "attributionName": "Alfredo Gutiérrez",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Ferret_2008.png",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Ferret_2008.png"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "ferret",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

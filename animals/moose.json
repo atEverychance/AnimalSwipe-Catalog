@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "moose",
+  "name": "Moose",
+  "species": {
+    "displayName": "Moose",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Enormous, leggy, and completely unbothered.",
+    "shortDescription": "Moose are the biggest members of the deer family — a full-grown male can be two meters tall at the shoulder, taller than most ceilings inside a house. They wade happily into ponds and lakes to eat underwater plants, dunking their whole head below the surface. Fun fact: A male moose can grow a brand-new set of antlers every single year, adding up to a kilogram a day at peak growth."
+  },
+  "image": {
+    "primaryFileName": "moose.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/moose.jpg",
+    "focalPoint": {
+      "x": 0.83,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Moose",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Moose"
+    },
+    "photo": {
+      "attributionName": "Paxson Woelber",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Alaska_moose.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Alaska_moose.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "moose",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

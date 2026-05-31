@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "lynx",
+  "name": "Lynx",
+  "species": {
+    "displayName": "Lynx",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The silent snowshoer who never leaves a print you'd notice.",
+    "shortDescription": "Lynxes have chunky, oversized paws that spread wide and act like built-in snowshoes, letting them walk right across deep snow that a deer would sink into. Their short spotted tail has a black tip, and their cheek fur puffs out like a full beard in winter. Fun fact: A Canada lynx and the snowshoe hare it hunts go through population booms and crashes together — when hares crash, lynx numbers crash shortly after."
+  },
+  "image": {
+    "primaryFileName": "lynx.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/lynx.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Lynx",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Lynx"
+    },
+    "photo": {
+      "attributionName": "Jan Czeczotka (c)\"Programa de Conservación Ex-situ del Lince Ibérico www.lynxexsitu.es\" Denali National Park and Preserve Becker1999 (Paul and Cathy)",
+      "licenseName": "CC BY 2.5",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.5",
+      "commonsFile": "Lynx_heads_collage.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Lynx_heads_collage.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "lynx",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

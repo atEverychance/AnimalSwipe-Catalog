@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "salamander",
+  "name": "Salamander",
+  "species": {
+    "displayName": "Salamander",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The log-dweller with a superpower most animals only dream about.",
+    "shortDescription": "Salamanders look like a cross between a lizard and a frog — four legs, smooth damp skin, and a long tail. They hide under logs and rocks where the soil stays cool and wet, sneaking out at night to hunt worms and insects. Fun fact: Salamanders can regrow a lost leg, tail, parts of their heart, and even pieces of their brain."
+  },
+  "image": {
+    "primaryFileName": "salamander.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/salamander.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Salamander",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Salamander"
+    },
+    "photo": {
+      "attributionName": "Camazine at English Wikipedia) (Scott Camazine web.mac.com/camazine)",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "SpottedSalamander.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:SpottedSalamander.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "amphibian"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "salamander",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

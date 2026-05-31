@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "falcon",
+  "name": "Falcon",
+  "species": {
+    "displayName": "Falcon",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The fastest animal alive — a feathered missile with wings swept back like a fighter jet.",
+    "shortDescription": "The peregrine falcon is the fastest animal on Earth when it dives — hitting over three hundred and eighty kilometers per hour in a full stoop, which is faster than a race car at top speed. It has a special ridge inside its nostrils that slows the incoming air so it can breathe at those insane speeds. Falcons have been trained for hunting — falconry — for over four thousand years. Fun fact: A peregrine falcon blinks with its third eyelid to protect its eyes without breaking its diving vision."
+  },
+  "image": {
+    "primaryFileName": "falcon.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/falcon.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Falcon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Falcon"
+    },
+    "photo": {
+      "attributionName": "jjron",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Brown-Falcon,-Vic,-3.1.2008.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Brown-Falcon%2C-Vic%2C-3.1.2008.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "speedy"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "falcon",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

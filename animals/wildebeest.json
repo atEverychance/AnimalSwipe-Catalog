@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "wildebeest",
+  "name": "Wildebeest",
+  "species": {
+    "displayName": "Wildebeest",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "One and a half million animals moving like one enormous river.",
+    "shortDescription": "Every year, over a million wildebeest thunder across the Serengeti in one of the greatest migrations on Earth, following the rains to fresh grass. Crossing crocodile-filled rivers is the most dangerous part, but the herd plunges in anyway. Fun fact: Wildebeest calves can stand and run within minutes of being born — they have to."
+  },
+  "image": {
+    "primaryFileName": "wildebeest.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wildebeest.jpg",
+    "focalPoint": {
+      "x": 0.2,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Wildebeest",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Wildebeest"
+    },
+    "photo": {
+      "attributionName": "Muhammad Mahdi Karim",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "Blue_Wildebeest,_Ngorongoro.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Blue_Wildebeest%2C_Ngorongoro.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "wildebeest",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "alligator",
+  "name": "Alligator",
+  "species": {
+    "displayName": "Alligator",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The prehistoric lurker in the swamp who's actually a surprisingly good parent.",
+    "shortDescription": "American alligators are the top predator of the southeastern US swamps, but they're also devoted mothers — they guard their nest for months and carry their babies to water in their mouth without hurting them. The temperature of the nest decides whether eggs hatch into males or females. Fun fact: Alligators can go through three thousand teeth in a lifetime, growing new ones to replace old ones."
+  },
+  "image": {
+    "primaryFileName": "alligator.jpg",
+    "sourceRelativePath": "Content/images/alligator.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Alligator",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Alligator"
+    },
+    "photo": {
+      "attributionName": "Trish Hartmann from Tampa, Florida, USA",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Portrait of an Alligator - Flickr - trishhartmann.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_Alligator_-_Flickr_-_trishhartmann.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "alligator",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

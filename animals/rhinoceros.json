@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "rhinoceros",
+  "name": "Rhinoceros",
+  "species": {
+    "displayName": "Rhinoceros",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A tank with a horn on its nose.",
+    "shortDescription": "Rhinos are the second-largest land animals on Earth, and they can charge at nearly fifty kilometers per hour when they feel threatened. Their famous horn isn't bone — it's made of the same stuff as your fingernails, just packed into a massive spike. Fun fact: Rhinos have terrible eyesight but an incredible sense of smell."
+  },
+  "image": {
+    "primaryFileName": "rhinoceros.jpg",
+    "sourceRelativePath": "Content/images/rhinoceros.jpg",
+    "focalPoint": {
+      "x": 0.87,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Rhinoceros",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Rhinoceros"
+    },
+    "photo": {
+      "attributionName": "Krish Dulal",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "One horned Rhino.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:One_horned_Rhino.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "rhinoceros",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

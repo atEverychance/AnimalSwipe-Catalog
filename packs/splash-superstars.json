@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "splash-superstars",
+  "name": "Splash Superstars",
+  "subtitle": "Whales, whiskers, and water acrobats",
+  "description": "Aquatic mammals and semi-aquatic stars that thrive in water.",
+  "kind": "habitat",
+  "sortOrder": 50,
+  "coverAnimalID": "dolphin",
+  "symbolName": "drop.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 2,
+    "weight": 3,
+    "group": "marine-mammals"
+  },
+  "animalIDs": [
+    "dolphin",
+    "orca",
+    "blue-whale",
+    "humpback-whale",
+    "beluga-whale",
+    "manatee",
+    "walrus",
+    "sea-lion",
+    "otter",
+    "beaver"
+  ]
+}

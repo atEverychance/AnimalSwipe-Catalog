@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "bat",
+  "name": "Bat",
+  "species": {
+    "displayName": "Bat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Eyes closed, ears open — hunting in the dark with sound.",
+    "shortDescription": "Bats are the only mammals that can truly fly, and they do it at night using a secret superpower called echolocation — shouting sounds and listening for the echoes bouncing back from moths and walls. It works so well that a bat can catch a tiny insect in total darkness without ever looking at it. Fun fact: A single bat can catch over a thousand insects in one hour."
+  },
+  "image": {
+    "primaryFileName": "bat.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bat.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bat"
+    },
+    "photo": {
+      "attributionName": "PD-USGov, exact author unknown",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Big-eared-townsend-fledermaus.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bat",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "tapir",
+  "name": "Tapir",
+  "species": {
+    "displayName": "Tapir",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "An ancient nose on an ancient animal, snuffling through the jungle.",
+    "shortDescription": "Tapirs have a short, flexible snout that they use like a tiny elephant trunk — perfect for grabbing leaves and pulling fruit off branches. They look a bit like a pig crossed with a rhinoceros, but they're actually most closely related to horses and rhinos. Tapirs are excellent swimmers and love to wade in rivers and lakes to cool down and escape insects. Fun fact: Baby tapirs are born with spotted-and-striped coats that make them almost invisible on the dappled rainforest floor."
+  },
+  "image": {
+    "primaryFileName": "tapir.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tapir.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Tapir",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Tapir"
+    },
+    "photo": {
+      "attributionName": "蕭漫",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Tapiridae.png",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Tapiridae.png"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "tapir",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

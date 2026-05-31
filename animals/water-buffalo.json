@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "water-buffalo",
+  "name": "Water buffalo",
+  "species": {
+    "displayName": "Water buffalo",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Muddy, patient, and absolutely not to be underestimated.",
+    "shortDescription": "Water buffalo are among the strongest domestic animals on Earth — farmers in Asia and Africa have worked alongside them for thousands of years to plow fields and haul heavy loads. They love nothing more than a good wallow in a cool muddy pool, which keeps their skin from drying out in the heat. Fun fact: Water buffalo horns can span up to two meters from tip to tip."
+  },
+  "image": {
+    "primaryFileName": "water-buffalo.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/water-buffalo.jpg",
+    "focalPoint": {
+      "x": 0.78,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Water_buffalo",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Water_buffalo"
+    },
+    "photo": {
+      "attributionName": "Alexander Vasenin",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Water_buffalo_at_Rinca.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Water_buffalo_at_Rinca.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "water-buffalo",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

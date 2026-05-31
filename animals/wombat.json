@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "wombat",
+  "name": "Wombat",
+  "species": {
+    "displayName": "Wombat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Cube poop, rock-hard bottom, and an underground palace.",
+    "shortDescription": "Wombats are stocky, powerful Australian marsupials that dig elaborate burrow systems with their strong claws and flattened head. Their pouch opens backward — facing the tail rather than the head — so dirt doesn't pour in while they're digging. When a predator chases them into a burrow, wombats use their thick, tough bottom to block the entrance like a living trapdoor — the predator simply cannot get past. Fun fact: Wombats are the only animals in the world known to produce cube-shaped droppings."
+  },
+  "image": {
+    "primaryFileName": "wombat.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wombat.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Wombat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Wombat"
+    },
+    "photo": {
+      "attributionName": "JJ Harrison (jjharrison89@facebook.com)",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Vombatus_ursinus_-Maria_Island_National_Park.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Vombatus_ursinus_-Maria_Island_National_Park.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "wombat",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

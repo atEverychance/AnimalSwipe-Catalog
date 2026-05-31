@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "feathered-fashionistas",
+  "name": "Feathered Fashionistas",
+  "subtitle": "Color, flair, and wings",
+  "description": "Bright birds with standout style and stage presence.",
+  "kind": "theme",
+  "sortOrder": 60,
+  "coverAnimalID": "flamingo",
+  "symbolName": "bird.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 2,
+    "weight": 3,
+    "group": "showy-birds"
+  },
+  "animalIDs": [
+    "penguin",
+    "emperor-penguin",
+    "king-penguin",
+    "puffin",
+    "flamingo",
+    "peacock",
+    "parrot",
+    "macaw",
+    "toucan",
+    "owl"
+  ]
+}

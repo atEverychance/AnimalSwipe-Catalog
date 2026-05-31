@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wild-walkers",
+  "name": "Wild Walkers",
+  "subtitle": "Ground giants and primate pals",
+  "description": "Big striders and social climbers from distant lands.",
+  "kind": "habitat",
+  "sortOrder": 160,
+  "coverAnimalID": "cassowary",
+  "symbolName": "figure.walk",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 4,
+    "weight": 2,
+    "group": "primates-groundbirds"
+  },
+  "animalIDs": [
+    "cassowary",
+    "kiwi-bird",
+    "ostrich",
+    "emu",
+    "lemur",
+    "mandrill",
+    "baboon",
+    "orangutan",
+    "chimpanzee",
+    "bonobo"
+  ]
+}

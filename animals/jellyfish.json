@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "jellyfish",
+  "name": "Jellyfish",
+  "species": {
+    "displayName": "Jellyfish",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "No brain, no bones, no blood — and still one of the most successful animals in the sea.",
+    "shortDescription": "Jellyfish have drifted through the world's oceans for over five hundred million years, outlasting dinosaurs, ice ages, and every mass extinction so far. Their body is ninety-five percent water, they have no brain or heart, and yet they sting, hunt, and reproduce with quiet efficiency. Fun fact: One species of jellyfish, the immortal jellyfish, can revert to its juvenile form when stressed — essentially hitting a biological reset button."
+  },
+  "image": {
+    "primaryFileName": "jellyfish.jpg",
+    "sourceRelativePath": "Content/images/jellyfish.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Jellyfish",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Jellyfish"
+    },
+    "photo": {
+      "attributionName": "Dan Hershman https://www.flickr.com/photos/hershman/",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Largelionsmanejellyfish.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Largelionsmanejellyfish.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "jellyfish",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

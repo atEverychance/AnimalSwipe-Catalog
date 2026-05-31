@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "frost-and-fluff",
+  "name": "Fluff Patrol",
+  "subtitle": "Soft coats, big paws, wild places",
+  "description": "A furry world tour of cuddly-looking but mighty mammals.",
+  "kind": "habitat",
+  "sortOrder": 10,
+  "coverAnimalID": "polar-bear",
+  "symbolName": "snowflake",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 1,
+    "weight": 3,
+    "group": "cold-climate"
+  },
+  "animalIDs": [
+    "jaguar",
+    "snow-leopard",
+    "wolf",
+    "arctic-fox",
+    "brown-bear",
+    "polar-bear",
+    "giant-panda",
+    "koala",
+    "kangaroo",
+    "wallaby"
+  ]
+}

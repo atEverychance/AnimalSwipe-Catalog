@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "macaw",
+  "name": "Macaw",
+  "species": {
+    "displayName": "Macaw",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The biggest, loudest parrot in the jungle, coloured like a flying sunset.",
+    "shortDescription": "Macaws are the largest parrots in the world, with beaks so strong they can crack open a Brazil nut — one of the hardest seeds on Earth. They fly through the Amazon rainforest in noisy pairs, and their screaming calls carry for kilometres. Macaws visit clay riverbanks to eat mineral-rich mud — the minerals help neutralise toxins in the seeds they eat. Fun fact: Macaws often mate for life and spend almost all their time with the same partner."
+  },
+  "image": {
+    "primaryFileName": "macaw.jpg",
+    "sourceRelativePath": "Content/images/macaw.jpg",
+    "focalPoint": {
+      "x": 0.47,
+      "y": 0.27
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Macaw",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Macaw"
+    },
+    "photo": {
+      "attributionName": "Benjamint444",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "Blue-and-Yellow-Macaw.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Blue-and-Yellow-Macaw.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "macaw",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

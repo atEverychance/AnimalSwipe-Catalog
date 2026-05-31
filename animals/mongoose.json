@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "mongoose",
+  "name": "Mongoose",
+  "species": {
+    "displayName": "Mongoose",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The snake's worst nightmare in a tiny spotted package.",
+    "shortDescription": "Mongooses are famous for fighting cobras — and winning — because they're fast enough to dodge the strike and thick-furred enough that fangs often can't penetrate the skin. They have a partial resistance to snake venom, so even a bite isn't always a death sentence. Fun fact: Meerkats are a type of mongoose — the same fast-reflexed, sharp-eyed family."
+  },
+  "image": {
+    "primaryFileName": "mongoose.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mongoose.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Mongoose",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Mongoose"
+    },
+    "photo": {
+      "attributionName": "edit: Alborzagros",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Mongoose_collection.png",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mongoose_collection.png"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "mongoose",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

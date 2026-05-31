@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "starter",
+  "name": "Starter Pack",
+  "subtitle": "Your first 10 animal friends",
+  "description": "A playful opening deck for first launch and safe fallback.",
+  "kind": "starter",
+  "sortOrder": 0,
+  "coverAnimalID": "tiger",
+  "symbolName": "sparkles.rectangle.stack.fill",
+  "isStarter": true,
+  "defaultEnabledOnFirstRun": true,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "alwaysUnlocked"
+  },
+  "animalIDs": [
+    "tiger",
+    "lion",
+    "elephant",
+    "giraffe",
+    "red-panda",
+    "zebra",
+    "red-fox",
+    "gorilla",
+    "leopard",
+    "cheetah"
+  ]
+}

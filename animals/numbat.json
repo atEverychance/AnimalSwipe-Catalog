@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "numbat",
+  "name": "Numbat",
+  "species": {
+    "displayName": "Numbat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The stripey termite detective who works the day shift.",
+    "shortDescription": "Numbats are tiny marsupials from Western Australia with rust-coloured fur and white stripes across their backs — perfect for vanishing into dappled forest shadow. Unlike most marsupials, they're out in full daylight, nose-down in rotting logs hunting termites. Fun fact: A numbat can flick its long sticky tongue in and out of a termite tunnel up to a hundred times per minute."
+  },
+  "image": {
+    "primaryFileName": "numbat.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/numbat.jpg",
+    "focalPoint": {
+      "x": 0.83,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Numbat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Numbat"
+    },
+    "photo": {
+      "attributionName": "JJ Harrison",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Numbat,_Dryandra_Woodland,_Western_Australia.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "nocturnal"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "numbat",
+    "sourcePackIDs": [
+      "twilight-trackers"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "stork",
+  "name": "Stork",
+  "species": {
+    "displayName": "Stork",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Long legs, long bill, long flights — the stork does everything at full stretch.",
+    "shortDescription": "White storks migrate from Europe all the way to Africa and back every year, covering thousands of kilometers. They nest on chimneys, rooftops, and telephone poles, building huge stick nests that the same pair returns to season after season. Fun fact: Storks can't sing or call — they communicate by clattering their bills together, making a loud rattling sound."
+  },
+  "image": {
+    "primaryFileName": "stork.jpg",
+    "sourceRelativePath": "Content/images/stork.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Stork",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Stork"
+    },
+    "photo": {
+      "attributionName": "Soloneying",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Ringed_white_stork.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Ringed_white_stork.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "stork",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

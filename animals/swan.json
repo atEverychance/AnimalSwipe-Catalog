@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "swan",
+  "name": "Swan",
+  "species": {
+    "displayName": "Swan",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Gliding across the water like it owns every inch of it.",
+    "shortDescription": "Swans look perfectly calm on the surface, but underneath those feet are paddling hard and fast. They're powerful birds — heavy enough that a swan's wing can break a human arm if it really wants you gone. Pairs of swans often stay together for life, raising cygnets season after season. Fun fact: A swan has over twenty-five thousand feathers, more than almost any other bird."
+  },
+  "image": {
+    "primaryFileName": "swan.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/swan.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Swan",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Swan"
+    },
+    "photo": {
+      "attributionName": "Geni",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Mute_Swan_Emsworth2.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mute_Swan_Emsworth2.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "swan",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

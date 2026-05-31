@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "hawk",
+  "name": "Hawk",
+  "species": {
+    "displayName": "Hawk",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The sharp-taloned sprinter who uses rising air as a free elevator.",
+    "shortDescription": "Hawks are expert at riding thermals — columns of warm rising air — spiraling upward without flapping, saving energy for the burst of speed needed to strike. They hunt using eyesight four to eight times sharper than a human's, dropping on prey in a sudden angled stoop. There are dozens of hawk species across the world, from tiny sparrowhawks that chase songbirds through gardens to big red-tails that hunt rabbits on farmland. Fun fact: Hawks can see ultraviolet light, which makes rodent urine trails glow — like a glowing map leading straight to their next meal."
+  },
+  "image": {
+    "primaryFileName": "hawk.jpg",
+    "sourceRelativePath": "Content/images/hawk.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hawk",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hawk"
+    },
+    "photo": {
+      "attributionName": "Matthias",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Hawk Portrait (120774727).jpeg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Hawk_Portrait_%28120774727%29.jpeg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hawk",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

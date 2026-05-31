@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wetland-wings",
+  "name": "Wetland Wings",
+  "subtitle": "Lakeside flyers and park-song birds",
+  "description": "Birds you can spot around water, trees, and neighborhood skies.",
+  "kind": "habitat",
+  "sortOrder": 80,
+  "coverAnimalID": "duck",
+  "symbolName": "water.waves",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 2,
+    "weight": 2,
+    "group": "water-birds"
+  },
+  "animalIDs": [
+    "duck",
+    "mallard",
+    "pelican",
+    "heron",
+    "stork",
+    "kingfisher",
+    "woodpecker",
+    "hummingbird",
+    "blue-jay",
+    "northern-cardinal"
+  ]
+}

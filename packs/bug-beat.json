@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "bug-beat",
+  "name": "Bug Beat",
+  "subtitle": "Six legs, wings, and a whole lot of buzz",
+  "description": "Insects and mini-fliers that keep ecosystems humming.",
+  "kind": "theme",
+  "sortOrder": 130,
+  "coverAnimalID": "monarch-butterfly",
+  "symbolName": "ladybug.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 3,
+    "weight": 3,
+    "group": "insects"
+  },
+  "animalIDs": [
+    "monarch-butterfly",
+    "moth",
+    "dragonfly",
+    "ladybug",
+    "bee",
+    "bumblebee",
+    "ant",
+    "grasshopper",
+    "cricket",
+    "beetle"
+  ]
+}

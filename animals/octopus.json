@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "octopus",
+  "name": "Octopus",
+  "species": {
+    "displayName": "Octopus",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Eight arms, three hearts, blue blood, and a brain that doesn't stop.",
+    "shortDescription": "An octopus can change the colour and texture of its skin in under a second — not just for camouflage but to signal moods, scare predators, and even communicate. Each arm has its own cluster of neurons and can act almost independently, making decisions about what to grip or explore without asking the central brain first. Fun fact: Octopuses have three hearts — two pump blood to the gills, one pumps it to the rest of the body — and all three stop beating when they swim, which is why they prefer to crawl."
+  },
+  "image": {
+    "primaryFileName": "octopus.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/octopus.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Octopus",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Octopus"
+    },
+    "photo": {
+      "attributionName": "albert kok",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Octopus2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "weird",
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "weird",
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "octopus",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "parakeet",
+  "name": "Parakeet",
+  "species": {
+    "displayName": "Parakeet",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Small bird, very big opinions about what words sound like.",
+    "shortDescription": "Parakeets — sometimes called budgerigars or budgies — are small parrots from the dry grasslands of Australia that have been kept as pets for nearly two hundred years. They can mimic human speech, household sounds, and even ring tones, sometimes picking up words they hear only once. In the wild they fly in enormous flocks of thousands, banking and swirling together like a single living cloud. Fun fact: A parakeet named Puck holds the world record for the largest vocabulary of any bird — he knew over seventeen hundred words."
+  },
+  "image": {
+    "primaryFileName": "parakeet.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/parakeet.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Parakeet",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Parakeet"
+    },
+    "photo": {
+      "attributionName": "Karthik Easvur",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Male_and_female_parakeet_1.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Male_and_female_parakeet_1.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "parakeet",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

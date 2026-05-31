@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "cricket",
+  "name": "Cricket",
+  "species": {
+    "displayName": "Cricket",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The tiny musician who sings with its wings.",
+    "shortDescription": "Male crickets make their chirping song by scraping one wing against the other — there's a row of ridges on one wing and a scraper on the other, working like a tiny bow and string. They chirp to attract females, and females actually choose the ones they like best. Fun fact: You can roughly estimate the temperature outside by counting cricket chirps — the warmer it is, the faster they chirp."
+  },
+  "image": {
+    "primaryFileName": "cricket.jpg",
+    "sourceRelativePath": "Content/images/cricket.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Cricket_(insect)",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Cricket_(insect)"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Cone-headed_cricket_(Conocephalus_longipennis).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Cone-headed_cricket_%28Conocephalus_longipennis%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "cricket",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

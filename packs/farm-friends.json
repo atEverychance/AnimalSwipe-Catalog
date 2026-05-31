@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "farm-friends",
+  "name": "Farm Friends",
+  "subtitle": "Oink, moo, woof — the classic crew",
+  "description": "Classic farm animals mixed with cozy household pals.",
+  "kind": "theme",
+  "sortOrder": 150,
+  "coverAnimalID": "pig",
+  "symbolName": "house.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 4,
+    "weight": 3,
+    "group": "domestic"
+  },
+  "animalIDs": [
+    "pig",
+    "cow",
+    "horse",
+    "donkey",
+    "dog",
+    "cat",
+    "goat",
+    "sheep",
+    "guinea-pig",
+    "parakeet"
+  ]
+}

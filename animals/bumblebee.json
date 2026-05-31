@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "bumblebee",
+  "name": "Bumblebee",
+  "species": {
+    "displayName": "Bumblebee",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Fuzzy, loud, and built for cold weather.",
+    "shortDescription": "Bumblebees are chubbier and fuzzier than honeybees, and they can fly in cold, wet weather that would ground other bees. They buzz-pollinate flowers by vibrating their flight muscles so fast the pollen shakes loose — that vibration is what you feel if a bumblebee lands on your hand. Fun fact: Bumblebee queens hibernate alone underground all winter, then start a whole new colony by themselves in spring."
+  },
+  "image": {
+    "primaryFileName": "bumblebee.jpg",
+    "sourceRelativePath": "Content/images/bumblebee.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bumblebee",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bumblebee"
+    },
+    "photo": {
+      "attributionName": "MattysFlicks",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Bumblebee portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bumblebee_portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bumblebee",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

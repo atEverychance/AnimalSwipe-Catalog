@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ladybug",
+  "name": "Ladybug",
+  "species": {
+    "displayName": "Coccinellidae",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The garden's tiny spotted superhero.",
+    "shortDescription": "Ladybugs are beetles, and they're beloved by gardeners because they eat aphids — the sap-sucking pests that wreck plants. A single ladybug can eat hundreds of aphids in a day. Their bright red-and-black spots warn birds that they taste awful. Fun fact: When threatened, a ladybug leaks a little drop of bitter yellow liquid from its leg joints — a trick called reflex bleeding."
+  },
+  "image": {
+    "primaryFileName": "ladybug.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ladybug.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Coccinellidae",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Coccinellidae"
+    },
+    "photo": {
+      "attributionName": "Francisco Welter-Schultes",
+      "licenseName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "commonsFile": "Coccinella-septempunctata-15-fws.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Coccinella-septempunctata-15-fws.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "ladybug",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

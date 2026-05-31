@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "baboon",
+  "name": "Baboon",
+  "species": {
+    "displayName": "Baboon",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Climbing rocks, watching for trouble, keeping the troop together.",
+    "shortDescription": "Baboons live in complex family groups called troops that can number into the hundreds. They have a strict social order, and every baboon knows its rank — they keep track through grooming sessions that go on for hours. Baboons will mob and harass even large predators when working as a group, sometimes chasing off leopards. Fun fact: Baboons can walk up to twelve kilometers a day searching for food across open grasslands."
+  },
+  "image": {
+    "primaryFileName": "baboon.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/baboon.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Baboon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Baboon"
+    },
+    "photo": {
+      "attributionName": "Muhammad Mahdi Karim",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "Olive_baboon_Ngorongoro.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Olive_baboon_Ngorongoro.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "baboon",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

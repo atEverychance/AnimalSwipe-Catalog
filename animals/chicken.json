@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "chicken",
+  "name": "Chicken",
+  "species": {
+    "displayName": "Chicken",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Pecking the ground, keeping track of twelve things at once.",
+    "shortDescription": "Chickens have a complex social life — they maintain a strict pecking order, remember the faces of over a hundred other chickens, and feel empathy when their chicks are distressed. They communicate with around thirty distinct calls that mean different things. Fun fact: Chickens dream — they experience REM sleep, the same kind of sleep where humans dream."
+  },
+  "image": {
+    "primaryFileName": "chicken.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/chicken.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Chicken",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Chicken"
+    },
+    "photo": {
+      "attributionName": "Andrei Niemimäki from Turku, Finland",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Male_and_female_chicken_sitting_together.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "chicken",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

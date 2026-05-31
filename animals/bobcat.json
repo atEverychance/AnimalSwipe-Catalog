@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "bobcat",
+  "name": "Bobcat",
+  "species": {
+    "displayName": "Bobcat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Short tail, big attitude, master of the middle-of-nowhere.",
+    "shortDescription": "Bobcats are the most common wild cat in North America, but most people never see one — they're quiet, cautious, and very good at staying invisible in forests, swamps, and even the edges of towns. Their stubby 'bobbed' tail is where the name comes from. Fun fact: A bobcat can leap three metres in a single bound when it makes its final pounce."
+  },
+  "image": {
+    "primaryFileName": "bobcat.jpg",
+    "sourceRelativePath": "Content/images/bobcat.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bobcat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bobcat"
+    },
+    "photo": {
+      "attributionName": "Becker1999 (Paul and Cathy)",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Bobcat_at_Columbus_Zoo_Boo.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bobcat_at_Columbus_Zoo_Boo.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bobcat",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

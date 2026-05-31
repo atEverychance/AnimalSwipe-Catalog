@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "brown-bear",
+  "name": "Brown bear",
+  "species": {
+    "displayName": "Brown bear",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Big, hungry, and not to be rushed.",
+    "shortDescription": "Brown bears spend most of the summer eating — berries, fish, roots, insects — packing on fat so they can sleep through the whole winter without eating a single bite. A mother bear is one of the most protective parents in the animal world. Fun fact: Brown bears can smell food from over thirty kilometers away."
+  },
+  "image": {
+    "primaryFileName": "brown-bear.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/brown-bear.jpg",
+    "focalPoint": {
+      "x": 0.68,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Brown_bear",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Brown_bear"
+    },
+    "photo": {
+      "attributionName": "Yathin S Krishnappa",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "2010-kodiak-bear-1.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "large"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "brown-bear",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "mystery-mammals",
+  "name": "Mystery Mammals",
+  "subtitle": "Wait, these are real animals?!",
+  "description": "Wild mammals that look made-up but are totally real.",
+  "kind": "special",
+  "sortOrder": 190,
+  "coverAnimalID": "narwhal",
+  "symbolName": "sparkle.magnifyingglass",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 5,
+    "weight": 3,
+    "group": "rare-mammals"
+  },
+  "animalIDs": [
+    "cougar",
+    "mongoose",
+    "civet",
+    "dugong",
+    "narwhal",
+    "raccoon-dog",
+    "sun-bear",
+    "spectacled-bear",
+    "proboscis-monkey",
+    "howler-monkey"
+  ]
+}

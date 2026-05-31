@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "chinchilla",
+  "name": "Chinchilla",
+  "species": {
+    "displayName": "Chinchilla",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The fluffiest thing you'll ever almost catch.",
+    "shortDescription": "Chinchillas come from the cold rocky mountains of South America, where their fur is so thick and dense — about sixty hairs growing from a single follicle — that fleas and other parasites can't even get through it. They don't bathe in water; they roll in special volcanic dust that absorbs oils and keeps their coat perfectly clean. Chinchillas can jump nearly two meters from a standing start. Fun fact: Chinchilla fur is the densest of any land mammal — it's twenty times softer than human hair."
+  },
+  "image": {
+    "primaryFileName": "chinchilla.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/chinchilla.jpg",
+    "focalPoint": {
+      "x": 0.84,
+      "y": 0.35
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Chinchilla",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Chinchilla"
+    },
+    "photo": {
+      "attributionName": "Guérin Nicolas (messages)",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Chinchilla_lanigera_(Wroclaw_zoo)-2.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Chinchilla_lanigera_%28Wroclaw_zoo%29-2.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "chinchilla",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

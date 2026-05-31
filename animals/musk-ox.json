@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "musk-ox",
+  "name": "Musk ox",
+  "species": {
+    "displayName": "Muskox",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Arctic armour in a ring of horns.",
+    "shortDescription": "When wolves approach a musk ox herd, the adults don't run — they form a tight circle with calves in the centre, each adult facing outward with horns lowered, daring anything to try its luck. Their thick double-layered coats are so good at holding heat that the animals can stand perfectly still in blizzards. Fun fact: The soft undercoat of a musk ox, called qiviut, is one of the warmest natural fibres on Earth — warmer than sheep's wool by a factor of eight."
+  },
+  "image": {
+    "primaryFileName": "musk-ox.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/musk-ox.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Muskox",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Muskox"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Muskox_(Ovibos_moschatus)_male_Dovrefjell_4.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_4.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "musk-ox",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

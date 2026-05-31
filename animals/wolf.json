@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "wolf",
+  "name": "Wolf",
+  "species": {
+    "displayName": "Wolf",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "When the pack howls, the whole forest answers.",
+    "shortDescription": "Wolves live in tight family packs, and their howl is how they stay connected across wide, dark forests and open tundra — a way of saying 'I'm here, where are you?' Every wolf has a slightly different voice, and packmates recognize each other just by sound. Fun fact: A wolf's howl can carry up to sixteen kilometers on a still night, over hills, through trees, across frozen lakes."
+  },
+  "image": {
+    "primaryFileName": "wolf.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/wolf.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Wolf",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Wolf"
+    },
+    "photo": {
+      "attributionName": "User:Mas3cf",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Eurasian_wolf_2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "wolf",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

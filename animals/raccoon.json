@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "raccoon",
+  "name": "Raccoon",
+  "species": {
+    "displayName": "Raccoon",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Masked bandit with incredibly clever paws.",
+    "shortDescription": "Raccoons have front paws so sensitive and nimble they can feel objects under water, unlock latches, and figure out puzzle boxes. They live almost everywhere — forests, farms, and city alleys — and they eat almost everything. Fun fact: Raccoons can unlock and open containers that many humans find tricky without any practice."
+  },
+  "image": {
+    "primaryFileName": "raccoon.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/raccoon.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Raccoon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Raccoon"
+    },
+    "photo": {
+      "attributionName": "Rhododendrites",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Raccoon_in_Central_Park_(35264).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Raccoon_in_Central_Park_%2835264%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "raccoon",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

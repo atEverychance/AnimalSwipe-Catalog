@@ -1,0 +1,25 @@
+name = "animalswipe-catalog"
+main = "worker/src/index.js"
+compatibility_date = "2026-05-31"
+workers_dev = true
+preview_urls = false
+
+[observability]
+enabled = true
+
+[env.staging]
+name = "animalswipe-catalog-staging"
+workers_dev = true
+preview_urls = false
+
+[[env.staging.r2_buckets]]
+binding = "CATALOG_BUCKET"
+bucket_name = "animalswipe-catalog-staging"
+
+[env.production]
+name = "animalswipe-catalog"
+workers_dev = false
+
+[[env.production.r2_buckets]]
+binding = "CATALOG_BUCKET"
+bucket_name = "animalswipe-catalog-prod"

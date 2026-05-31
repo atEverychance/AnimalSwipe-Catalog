@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "hedgehog",
+  "name": "Hedgehog",
+  "species": {
+    "displayName": "Hedgehog",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Two thousand spines, one very good plan.",
+    "shortDescription": "Hedgehogs roll into a tight spiny ball when threatened — their muscles pull a skin-like hood over their whole body, leaving nothing but points facing outward. They're also surprisingly tough, snacking on beetles, slugs, frogs, and even baby snakes. Fun fact: Hedgehogs are immune to some snake venoms, including adder venom."
+  },
+  "image": {
+    "primaryFileName": "hedgehog.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hedgehog.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hedgehog",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hedgehog"
+    },
+    "photo": {
+      "attributionName": "Gibe",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Igel.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Igel.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hedgehog",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cheetah",
+  "name": "Cheetah",
+  "species": {
+    "displayName": "Cheetah",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Zero to full speed in about three seconds.",
+    "shortDescription": "The cheetah is the fastest land animal alive — reaching a hundred and twelve kilometers per hour in a run so explosive that the whole body leaves the ground twice per stride. Its claws don't fully retract, so they grip the ground like running spikes, and its flexible spine coils and springs with each bound. Fun fact: A cheetah's black facial streaks — like tear-marks running from eye to jaw — reduce sun glare and help it track fast-moving prey without losing focus."
+  },
+  "image": {
+    "primaryFileName": "cheetah.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cheetah.jpg",
+    "focalPoint": {
+      "x": 0.78,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Cheetah",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Cheetah"
+    },
+    "photo": {
+      "attributionName": "AfricanConservation",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Male_cheetah_facing_left_in_South_Africa.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Male_cheetah_facing_left_in_South_Africa.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "spots"
+    ],
+    "hookArchetypes": [
+      "colorful",
+      "speedy"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "cheetah",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "quail",
+  "name": "Quail",
+  "species": {
+    "displayName": "Quail",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A tiny, round bird running fast through the grass.",
+    "shortDescription": "Quail prefer to run rather than fly, sprinting through low cover on their quick little legs. A covey of quail sleeps in a tight circle facing outward, so if anything disturbs them they can all burst upward at once in every direction. Fun fact: Baby quail can run within hours of hatching and keep up with the whole group almost immediately."
+  },
+  "image": {
+    "primaryFileName": "quail.jpg",
+    "sourceRelativePath": "Content/images/quail.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Quail",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Quail"
+    },
+    "photo": {
+      "attributionName": "Duncan Wright",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Brown_Quail.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Brown_Quail.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "quail",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "firefly",
+  "name": "Firefly",
+  "species": {
+    "displayName": "Firefly",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A flying light-up signal in the summer dark.",
+    "shortDescription": "Fireflies make cold light inside their abdomens using a chemical reaction — it produces almost no heat, which is why it's called bioluminescence and why it's so efficient. Each firefly species has its own flashing pattern — a specific code that only their own kind can recognize. Fun fact: Female fireflies of one sneaky species can imitate other species' flash patterns to lure males in close — and then eat them."
+  },
+  "image": {
+    "primaryFileName": "firefly.jpg",
+    "sourceRelativePath": "Content/images/firefly.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Firefly",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Firefly"
+    },
+    "photo": {
+      "attributionName": "Judy Gallagher",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Firefly - Pterotus obscuripennis, Sierra City, California (cropped).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Firefly_-_Pterotus_obscuripennis%2C_Sierra_City%2C_California_%28cropped%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "firefly",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

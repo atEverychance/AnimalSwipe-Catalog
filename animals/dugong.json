@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "dugong",
+  "name": "Dugong",
+  "species": {
+    "displayName": "Dugong",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The real mermaid — gentle, grey, and munching seagrass.",
+    "shortDescription": "Dugongs are the sea cows of the Indian Ocean and Pacific, grazing on underwater meadows of seagrass the way a cow grazes on a field. Ancient sailors who spotted them from a distance thought they were mermaids — and you can sort of see why, from far away with bad eyesight. Fun fact: Dugongs are the only marine mammals that eat almost nothing but plants."
+  },
+  "image": {
+    "primaryFileName": "dugong.jpg",
+    "sourceRelativePath": "Content/images/dugong.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Dugong",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Dugong"
+    },
+    "photo": {
+      "attributionName": "Dugong_marsa_alam_egypt_2011.jpg: Camille Ménard derivative work: Jacek555",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "The head of Dugong dugon.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:The_head_of_Dugong_dugon.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "dugong",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

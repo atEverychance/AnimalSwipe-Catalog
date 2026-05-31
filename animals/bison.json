@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "bison",
+  "name": "Bison",
+  "species": {
+    "displayName": "Bison",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A shaggy mountain on legs, and it can sprint.",
+    "shortDescription": "Bison are the heaviest land animals in North America, with enormous furry heads they use to sweep snow aside and find grass buried underneath in winter. Despite their size, they can gallop at around sixty kilometers per hour — faster than most horses. Fun fact: Bison once roamed North America in herds so massive they took days to pass."
+  },
+  "image": {
+    "primaryFileName": "bison.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bison.jpg",
+    "focalPoint": {
+      "x": 0.78,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bison",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bison"
+    },
+    "photo": {
+      "attributionName": "Jack Dykinga",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "American_bison_k5680-1.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bison",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

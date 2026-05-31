@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "snail",
+  "name": "Snail",
+  "species": {
+    "displayName": "Snail",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Carrying its house on its back, leaving a silver trail.",
+    "shortDescription": "A snail's shell isn't just a home it carries around — the shell is actually part of its body, grown by a special organ and connected to its organs inside. It makes its own slime to glide on, and that slime is good enough to let a snail travel safely across a razor blade without being cut. Fun fact: Snails have thousands of tiny teeth arranged on a tongue-like ribbon called a radula, which they use to scrape food off surfaces."
+  },
+  "image": {
+    "primaryFileName": "snail.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/snail.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Snail",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Snail"
+    },
+    "photo": {
+      "attributionName": "Geierunited",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Snail.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Snail.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "snail",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

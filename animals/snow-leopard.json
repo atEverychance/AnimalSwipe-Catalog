@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "snow-leopard",
+  "name": "Snow leopard",
+  "species": {
+    "displayName": "Snow leopard",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The ghost of the mountains.",
+    "shortDescription": "Snow leopards live so high in the mountains, and move so silently, that most people who live nearby have never seen one. Their huge, furry paws work like natural snowshoes, and they wrap their long thick tail around their face to keep warm while they sleep. Fun fact: A snow leopard's tail is nearly as long as its entire body."
+  },
+  "image": {
+    "primaryFileName": "snow-leopard.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/snow-leopard.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Snow_leopard",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Snow_leopard"
+    },
+    "photo": {
+      "attributionName": "Irbis1983",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Irbis4.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Irbis4.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "spots"
+    ],
+    "hookArchetypes": [
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "snow-leopard",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

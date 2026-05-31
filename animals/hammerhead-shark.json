@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "hammerhead-shark",
+  "name": "Hammerhead shark",
+  "species": {
+    "displayName": "Hammerhead shark",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The hammer head actually does something really useful.",
+    "shortDescription": "The hammerhead shark's wide flat head works like a metal detector sweeping across the seafloor — it's packed with electrical sensors that can find a stingray buried under sand. Their eyes sit at opposite ends of the head, giving them almost 360-degree vision all around their body. Fun fact: Hammerheads can detect the electrical field of a heartbeat from animals hidden under the sand."
+  },
+  "image": {
+    "primaryFileName": "hammerhead-shark.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hammerhead-shark.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hammerhead_shark",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hammerhead_shark"
+    },
+    "photo": {
+      "attributionName": "Kris Mikael Krister",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Scalloped_Hammerhead_Shark_Sphyrna_Lewini_(226845659).jpeg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg"
+    }
+  },
+  "tags": {
+    "taxonomy": "fish",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hammerhead-shark",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

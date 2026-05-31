@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "progressEvent": "qualifiedForwardSwipe",
+  "stages": [
+    {
+      "throughChest": 2,
+      "gapMin": 8,
+      "gapMax": 12,
+      "hardPity": 14
+    },
+    {
+      "throughChest": 6,
+      "gapMin": 10,
+      "gapMax": 15,
+      "hardPity": 18
+    },
+    {
+      "throughChest": 999,
+      "gapMin": 13,
+      "gapMax": 20,
+      "hardPity": 24
+    }
+  ],
+  "selection": {
+    "recentGroupLookback": 2,
+    "preferLowestTierFirst": true
+  }
+}

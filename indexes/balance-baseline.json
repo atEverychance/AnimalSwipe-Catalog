@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "animalCount": 200,
+  "packCount": 20,
+  "taxonomyCounts": {
+    "mammal": 108,
+    "reptile": 11,
+    "invertebrate": 26,
+    "amphibian": 5,
+    "bird": 44,
+    "fish": 6
+  },
+  "habitatCounts": {
+    "forest": 100,
+    "nocturnal": 10,
+    "wetland": 40,
+    "desert": 20,
+    "grassland": 70,
+    "backyard": 30,
+    "polar": 20,
+    "mountain": 20,
+    "ocean": 43,
+    "farm": 20
+  },
+  "hookCounts": {
+    "nocturnal": 13,
+    "weird": 135,
+    "tiny": 26,
+    "cute": 7,
+    "giant": 10,
+    "camouflage": 2,
+    "colorful": 7,
+    "speedy": 2,
+    "armored": 3
+  },
+  "packSummaries": [
+    {
+      "id": "starter",
+      "name": "Starter Pack",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "forest": 10,
+        "grassland": 10
+      }
+    },
+    {
+      "id": "frost-and-fluff",
+      "name": "Fluff Patrol",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "polar": 10,
+        "forest": 10
+      }
+    },
+    {
+      "id": "hoofed-horizons",
+      "name": "Hoofed Horizons",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "grassland": 10,
+        "desert": 10
+      }
+    },
+    {
+      "id": "meadow-mischief",
+      "name": "Meadow Mischief",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "grassland": 10
+      }
+    },
+    {
+      "id": "tiny-trailblazers",
+      "name": "Tiny Trailblazers",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "forest": 10,
+        "grassland": 10
+      }
+    },
+    {
+      "id": "splash-superstars",
+      "name": "Splash Superstars",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "ocean": 10
+      }
+    },
+    {
+      "id": "feathered-fashionistas",
+      "name": "Feathered Fashionistas",
+      "animalCount": 10,
+      "taxonomy": {
+        "bird": 10
+      },
+      "habitats": {
+        "polar": 10,
+        "wetland": 10,
+        "ocean": 10
+      }
+    },
+    {
+      "id": "sky-sentinels",
+      "name": "Sky Sentinels",
+      "animalCount": 10,
+      "taxonomy": {
+        "bird": 10
+      },
+      "habitats": {
+        "mountain": 10,
+        "forest": 10
+      }
+    },
+    {
+      "id": "wetland-wings",
+      "name": "Wetland Wings",
+      "animalCount": 10,
+      "taxonomy": {
+        "bird": 10
+      },
+      "habitats": {
+        "wetland": 10
+      }
+    },
+    {
+      "id": "backyard-band",
+      "name": "Backyard Band",
+      "animalCount": 10,
+      "taxonomy": {
+        "bird": 9,
+        "invertebrate": 1
+      },
+      "habitats": {
+        "backyard": 10,
+        "farm": 10
+      }
+    },
+    {
+      "id": "scale-squad",
+      "name": "Scale Squad",
+      "animalCount": 10,
+      "taxonomy": {
+        "amphibian": 4,
+        "reptile": 6
+      },
+      "habitats": {
+        "wetland": 10,
+        "forest": 10
+      }
+    },
+    {
+      "id": "fin-frenzy",
+      "name": "Chomp Squad",
+      "animalCount": 10,
+      "taxonomy": {
+        "reptile": 5,
+        "fish": 3,
+        "mammal": 1,
+        "amphibian": 1
+      },
+      "habitats": {
+        "wetland": 10,
+        "forest": 10,
+        "desert": 10,
+        "ocean": 3
+      }
+    },
+    {
+      "id": "reef-rainbow",
+      "name": "Reef Rainbow",
+      "animalCount": 10,
+      "taxonomy": {
+        "fish": 3,
+        "invertebrate": 7
+      },
+      "habitats": {
+        "ocean": 10
+      }
+    },
+    {
+      "id": "bug-beat",
+      "name": "Bug Beat",
+      "animalCount": 10,
+      "taxonomy": {
+        "invertebrate": 10
+      },
+      "habitats": {
+        "backyard": 10,
+        "grassland": 10
+      }
+    },
+    {
+      "id": "micro-monsters",
+      "name": "Micro Monsters",
+      "animalCount": 10,
+      "taxonomy": {
+        "invertebrate": 8,
+        "mammal": 2
+      },
+      "habitats": {
+        "forest": 10,
+        "backyard": 10
+      }
+    },
+    {
+      "id": "farm-friends",
+      "name": "Farm Friends",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 9,
+        "bird": 1
+      },
+      "habitats": {
+        "farm": 10
+      }
+    },
+    {
+      "id": "wild-walkers",
+      "name": "Wild Walkers",
+      "animalCount": 10,
+      "taxonomy": {
+        "bird": 4,
+        "mammal": 6
+      },
+      "habitats": {
+        "forest": 10,
+        "grassland": 10
+      }
+    },
+    {
+      "id": "twilight-trackers",
+      "name": "Twilight Trackers",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "forest": 10,
+        "nocturnal": 10
+      }
+    },
+    {
+      "id": "mountain-mob",
+      "name": "Mountain Mob",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "mountain": 10,
+        "grassland": 10
+      }
+    },
+    {
+      "id": "mystery-mammals",
+      "name": "Mystery Mammals",
+      "animalCount": 10,
+      "taxonomy": {
+        "mammal": 10
+      },
+      "habitats": {
+        "forest": 10,
+        "ocean": 10
+      }
+    }
+  ]
+}

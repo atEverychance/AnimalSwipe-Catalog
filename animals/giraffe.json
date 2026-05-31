@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "giraffe",
+  "name": "Giraffe",
+  "species": {
+    "displayName": "Giraffe",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The tallest animal alive — and it still has to stretch.",
+    "shortDescription": "A giraffe's neck is nearly two meters long, but getting a drink of water still means spreading those long legs wide and lowering all that height toward a puddle, which is one of the most awkward and beautiful things in nature. Their tongue is dark purplish-blue and long enough to wrap around a branch. Fun fact: Giraffes only sleep around thirty minutes a day — in short naps of a few minutes each, standing up."
+  },
+  "image": {
+    "primaryFileName": "giraffe.jpg",
+    "sourceRelativePath": "Content/images/giraffe.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Giraffe",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Giraffe"
+    },
+    "photo": {
+      "attributionName": "Giles Laurent",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "006 Giraffe portrait in the Lake Manyara National Park Photo by Giles Laurent.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:006_Giraffe_portrait_in_the_Lake_Manyara_National_Park_Photo_by_Giles_Laurent.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "spots"
+    ],
+    "hookArchetypes": [
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "giraffe",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

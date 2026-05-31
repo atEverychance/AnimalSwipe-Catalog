@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "eagle",
+  "name": "Eagle",
+  "species": {
+    "displayName": "Eagle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The sky's sharpest eyes, riding thermals with barely a wingbeat.",
+    "shortDescription": "Eagles can spot a rabbit from three kilometres up in the air — their eyes have two focal points instead of one, giving them roughly eight times sharper vision than a human. They soar on rising columns of warm air called thermals, barely moving their wings, saving energy for the sudden dive. Fun fact: Eagle eyes are so large they take up most of the skull and cannot move in their sockets, so eagles must turn their whole head to look around."
+  },
+  "image": {
+    "primaryFileName": "eagle.jpg",
+    "sourceRelativePath": "Content/images/eagle.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Eagle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Eagle"
+    },
+    "photo": {
+      "attributionName": "Saffron Blaze",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Bald Eagle Portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "eagle",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "dog",
+  "name": "Dog",
+  "species": {
+    "displayName": "Dog",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Reading the world one sniff at a time.",
+    "shortDescription": "A dog's nose has up to three hundred million scent receptors — humans have about six million. Dogs can smell fear, illness, and even changes in blood sugar. They use their wet nose to capture scent molecules more effectively, like a tiny chemical collector. Fun fact: Dogs can sniff in and out at the same time, so their nose never takes a break from information-gathering."
+  },
+  "image": {
+    "primaryFileName": "dog.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/dog.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Dog",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Dog"
+    },
+    "photo": {
+      "attributionName": "M. Rehemtulla",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Huskiesatrest.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "dog",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

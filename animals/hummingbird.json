@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "hummingbird",
+  "name": "Hummingbird",
+  "species": {
+    "displayName": "Hummingbird",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Wings a blur, heart hammering, hovering at a flower that barely moves.",
+    "shortDescription": "Hummingbirds beat their wings up to eighty times per second — so fast the wings become invisible and just look like a buzzing smear. They're the only birds that can fly backward, upside down, and perfectly still. Every day they visit hundreds of flowers and eat more than their body weight in nectar. Fun fact: A hummingbird's heart beats over a thousand times per minute during flight."
+  },
+  "image": {
+    "primaryFileName": "hummingbird.jpg",
+    "sourceRelativePath": "Content/images/hummingbird.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hummingbird",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hummingbird"
+    },
+    "photo": {
+      "attributionName": "Joe Schneid, Louisville, Kentucky",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Archilochus colubris (Male).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Archilochus_colubris_%28Male%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hummingbird",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

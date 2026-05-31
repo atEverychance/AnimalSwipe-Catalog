@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "pelican",
+  "name": "Pelican",
+  "species": {
+    "displayName": "Pelican",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Diving from height with that enormous stretchy pouch ready to catch.",
+    "shortDescription": "Pelicans have the biggest bill of any bird, and underneath it hangs a stretchy pouch that can hold three times more than their stomach. Brown pelicans dive from up to ten meters in the air, hitting the water headfirst to scoop up fish — and they evolved special air sacs under their skin to cushion the impact. Fun fact: A pelican's pouch can hold around eleven liters of water and fish at once."
+  },
+  "image": {
+    "primaryFileName": "pelican.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/pelican.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Pelican",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Pelican"
+    },
+    "photo": {
+      "attributionName": "Rui Ornelas from Lisboa, Portugal",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Pelikan_Walvis_Bay.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pelikan_Walvis_Bay.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "pelican",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

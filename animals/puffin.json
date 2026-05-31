@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "puffin",
+  "name": "Puffin",
+  "species": {
+    "displayName": "Puffin",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The seabird with a rainbow beak who can carry a dozen fish at once.",
+    "shortDescription": "A puffin can carry up to sixty-two small fish in its beak at one time — holding one fish crossways while catching more, thanks to backward-pointing spines on its tongue and the roof of its mouth that grip the catch in place. Puffins are excellent divers and flyers, but they flap their stubby wings so fast — up to four hundred times per minute — that flying looks like an exhausting business. Fun fact: Puffins spend most of their lives out at sea and only come to land to breed."
+  },
+  "image": {
+    "primaryFileName": "puffin.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/puffin.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Puffin",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Puffin"
+    },
+    "photo": {
+      "attributionName": "Richard Bartz",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Papageitaucher_Fratercula_arctica.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Papageitaucher_Fratercula_arctica.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "puffin",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

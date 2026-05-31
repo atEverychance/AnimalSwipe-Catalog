@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "howler-monkey",
+  "name": "Howler monkey",
+  "species": {
+    "displayName": "Howler monkey",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The loudest land animal in the Americas wakes the whole forest.",
+    "shortDescription": "Howler monkeys start every morning with a chorus of deep, rolling roars that carry through the rainforest for up to five kilometres — long before the sun has cleared the treetops. They live in family troops and roar together to tell neighbouring groups where they are, so everyone stays out of each other's way. Fun fact: Howler monkeys have a specially enlarged hyoid bone in their throat — a hollow resonating chamber that turns a medium-sized monkey into a sound system."
+  },
+  "image": {
+    "primaryFileName": "howler-monkey.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/howler-monkey.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Howler_monkey",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Howler_monkey"
+    },
+    "photo": {
+      "attributionName": "Rhododendrites",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Mantled_howler_monkey_and_baby_(81337)2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mantled_howler_monkey_and_baby_%2881337%292.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "nocturnal"
+    ],
+    "hookArchetypes": [
+      "nocturnal"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "howler-monkey",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

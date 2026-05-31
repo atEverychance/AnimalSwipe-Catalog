@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "horse",
+  "name": "Horse",
+  "species": {
+    "displayName": "Horse",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Galloping on four hooves at full speed — and then napping standing up.",
+    "shortDescription": "Horses can lock the tendons in their legs so they can snooze upright without falling over. This is useful when you need to run from a predator in a split second — lying down takes too long to get up from. Horses talk with their ears: pinned back means 'back off,' pointed forward means 'I see something interesting.' Fun fact: A horse's hoof is actually one giant toenail — the whole thing is a single modified toe."
+  },
+  "image": {
+    "primaryFileName": "horse.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/horse.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Horse",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Horse"
+    },
+    "photo": {
+      "attributionName": "Nokota_Horses.jpg: François Marchal derivative work: Dana boomer (talk)",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Nokota_Horses_cropped.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "horse",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

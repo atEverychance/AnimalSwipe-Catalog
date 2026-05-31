@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ocelot",
+  "name": "Ocelot",
+  "species": {
+    "displayName": "Ocelot",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Nighttime's most beautifully spotted hunter.",
+    "shortDescription": "Ocelots are medium-sized wild cats with coats covered in gorgeous dark-edged rosettes and streaks — each animal's pattern is totally unique. They live in the forests of Central and South America and are almost entirely nocturnal, slipping through the dark so smoothly that local people call them 'little jaguars.' Fun fact: Ocelots have rough tongues powerful enough to strip feathers and fur clean off their prey."
+  },
+  "image": {
+    "primaryFileName": "ocelot.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/ocelot.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Ocelot",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Ocelot"
+    },
+    "photo": {
+      "attributionName": "Giles Laurent",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "016_Ocelot_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "ocelot",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

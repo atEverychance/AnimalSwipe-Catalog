@@ -1,0 +1,2605 @@
+{
+  "schemaVersion": 1,
+  "byID": {
+    "aardvark": "aardvark",
+    "alligator": "alligator",
+    "alpaca": "alpaca",
+    "ant": "ant",
+    "anteater": "anteater",
+    "antelope": "antelope",
+    "arctic-fox": "arctic-fox",
+    "armadillo": "armadillo",
+    "axolotl": "axolotl",
+    "baboon": "baboon",
+    "bald-eagle": "bald-eagle",
+    "bat": "bat",
+    "beaver": "beaver",
+    "bee": "bee",
+    "beetle": "beetle",
+    "beluga-whale": "beluga-whale",
+    "bison": "bison",
+    "blue-jay": "blue-jay",
+    "blue-whale": "blue-whale",
+    "bobcat": "bobcat",
+    "bonobo": "bonobo",
+    "brown-bear": "brown-bear",
+    "bumblebee": "bumblebee",
+    "butterfly": "butterfly",
+    "camel": "camel",
+    "capybara": "capybara",
+    "caracal": "caracal",
+    "cassowary": "cassowary",
+    "cat": "cat",
+    "caterpillar": "caterpillar",
+    "chameleon": "chameleon",
+    "cheetah": "cheetah",
+    "chicken": "chicken",
+    "chimpanzee": "chimpanzee",
+    "chinchilla": "chinchilla",
+    "chipmunk": "chipmunk",
+    "civet": "civet",
+    "clownfish": "clownfish",
+    "condor": "condor",
+    "cougar": "cougar",
+    "cow": "cow",
+    "crab": "crab",
+    "cricket": "cricket",
+    "crocodile": "crocodile",
+    "crow": "crow",
+    "deer": "deer",
+    "dog": "dog",
+    "dolphin": "dolphin",
+    "donkey": "donkey",
+    "dragonfly": "dragonfly",
+    "duck": "duck",
+    "dugong": "dugong",
+    "eagle": "eagle",
+    "eel": "eel",
+    "elephant": "elephant",
+    "elk": "elk",
+    "emperor-penguin": "emperor-penguin",
+    "emu": "emu",
+    "falcon": "falcon",
+    "fennec-fox": "fennec-fox",
+    "ferret": "ferret",
+    "finch": "finch",
+    "firefly": "firefly",
+    "flamingo": "flamingo",
+    "frog": "frog",
+    "gazelle": "gazelle",
+    "gecko": "gecko",
+    "giant-panda": "giant-panda",
+    "gibbon": "gibbon",
+    "giraffe": "giraffe",
+    "goat": "goat",
+    "golden-eagle": "golden-eagle",
+    "goose": "goose",
+    "gorilla": "gorilla",
+    "grasshopper": "grasshopper",
+    "great-white-shark": "great-white-shark",
+    "guinea-pig": "guinea-pig",
+    "hammerhead-shark": "hammerhead-shark",
+    "hamster": "hamster",
+    "hare": "hare",
+    "hawk": "hawk",
+    "hedgehog": "hedgehog",
+    "heron": "heron",
+    "hippopotamus": "hippopotamus",
+    "horse": "horse",
+    "howler-monkey": "howler-monkey",
+    "hummingbird": "hummingbird",
+    "humpback-whale": "humpback-whale",
+    "hyena": "hyena",
+    "ibex": "ibex",
+    "iguana": "iguana",
+    "jaguar": "jaguar",
+    "jellyfish": "jellyfish",
+    "kangaroo": "kangaroo",
+    "kestrel": "kestrel",
+    "king-cobra": "king-cobra",
+    "king-penguin": "king-penguin",
+    "kingfisher": "kingfisher",
+    "kiwi-bird": "kiwi-bird",
+    "koala": "koala",
+    "komodo-dragon": "komodo-dragon",
+    "ladybug": "ladybug",
+    "lemur": "lemur",
+    "leopard": "leopard",
+    "lion": "lion",
+    "llama": "llama",
+    "lobster": "lobster",
+    "lynx": "lynx",
+    "macaw": "macaw",
+    "magpie": "magpie",
+    "mallard": "mallard",
+    "manatee": "manatee",
+    "mandrill": "mandrill",
+    "manta-ray": "manta-ray",
+    "marmot": "marmot",
+    "meerkat": "meerkat",
+    "monarch-butterfly": "monarch-butterfly",
+    "mongoose": "mongoose",
+    "moose": "moose",
+    "moth": "moth",
+    "mountain-goat": "mountain-goat",
+    "mouse": "mouse",
+    "musk-ox": "musk-ox",
+    "narwhal": "narwhal",
+    "northern-cardinal": "northern-cardinal",
+    "numbat": "numbat",
+    "ocelot": "ocelot",
+    "octopus": "octopus",
+    "okapi": "okapi",
+    "orangutan": "orangutan",
+    "orca": "orca",
+    "ostrich": "ostrich",
+    "otter": "otter",
+    "owl": "owl",
+    "parakeet": "parakeet",
+    "parrot": "parrot",
+    "peacock": "peacock",
+    "pelican": "pelican",
+    "penguin": "penguin",
+    "pheasant": "pheasant",
+    "pig": "pig",
+    "polar-bear": "polar-bear",
+    "porcupine": "porcupine",
+    "prairie-dog": "prairie-dog",
+    "praying-mantis": "praying-mantis",
+    "proboscis-monkey": "proboscis-monkey",
+    "puffin": "puffin",
+    "python-genus": "python-genus",
+    "quail": "quail",
+    "rabbit": "rabbit",
+    "raccoon": "raccoon",
+    "raccoon-dog": "raccoon-dog",
+    "rattlesnake": "rattlesnake",
+    "raven": "raven",
+    "red-fox": "red-fox",
+    "red-panda": "red-panda",
+    "reindeer": "reindeer",
+    "rhinoceros": "rhinoceros",
+    "rooster": "rooster",
+    "saiga-antelope": "saiga-antelope",
+    "salamander": "salamander",
+    "scorpion": "scorpion",
+    "sea-lion": "sea-lion",
+    "sea-turtle": "sea-turtle",
+    "seahorse": "seahorse",
+    "serval": "serval",
+    "sheep": "sheep",
+    "shrimp": "shrimp",
+    "sloth": "sloth",
+    "snail": "snail",
+    "snow-leopard": "snow-leopard",
+    "spectacled-bear": "spectacled-bear",
+    "spider": "spider",
+    "squid": "squid",
+    "squirrel": "squirrel",
+    "starfish": "starfish",
+    "stick-insect": "stick-insect",
+    "stork": "stork",
+    "sun-bear": "sun-bear",
+    "swan": "swan",
+    "tapir": "tapir",
+    "tarantula": "tarantula",
+    "tasmanian-devil": "tasmanian-devil",
+    "tiger": "tiger",
+    "toad": "toad",
+    "tortoise": "tortoise",
+    "toucan": "toucan",
+    "tree-frog": "tree-frog",
+    "turkey-bird": "turkey-bird",
+    "vulture": "vulture",
+    "wallaby": "wallaby",
+    "walrus": "walrus",
+    "water-buffalo": "water-buffalo",
+    "whale-shark": "whale-shark",
+    "wildebeest": "wildebeest",
+    "wolf": "wolf",
+    "wombat": "wombat",
+    "woodpecker": "woodpecker",
+    "yak": "yak",
+    "zebra": "zebra"
+  },
+  "byName": {
+    "aardvark": [
+      "aardvark"
+    ],
+    "alligator": [
+      "alligator"
+    ],
+    "alpaca": [
+      "alpaca"
+    ],
+    "ant": [
+      "ant"
+    ],
+    "anteater": [
+      "anteater"
+    ],
+    "antelope": [
+      "antelope"
+    ],
+    "arctic-fox": [
+      "arctic-fox"
+    ],
+    "armadillo": [
+      "armadillo"
+    ],
+    "axolotl": [
+      "axolotl"
+    ],
+    "baboon": [
+      "baboon"
+    ],
+    "bald-eagle": [
+      "bald-eagle"
+    ],
+    "bat": [
+      "bat"
+    ],
+    "beaver": [
+      "beaver"
+    ],
+    "bee": [
+      "bee"
+    ],
+    "beetle": [
+      "beetle"
+    ],
+    "beluga-whale": [
+      "beluga-whale"
+    ],
+    "bison": [
+      "bison"
+    ],
+    "blue-jay": [
+      "blue-jay"
+    ],
+    "blue-whale": [
+      "blue-whale"
+    ],
+    "bobcat": [
+      "bobcat"
+    ],
+    "bonobo": [
+      "bonobo"
+    ],
+    "brown-bear": [
+      "brown-bear"
+    ],
+    "bumblebee": [
+      "bumblebee"
+    ],
+    "butterfly": [
+      "butterfly"
+    ],
+    "camel": [
+      "camel"
+    ],
+    "capybara": [
+      "capybara"
+    ],
+    "caracal": [
+      "caracal"
+    ],
+    "cassowary": [
+      "cassowary"
+    ],
+    "cat": [
+      "cat"
+    ],
+    "caterpillar": [
+      "caterpillar"
+    ],
+    "chameleon": [
+      "chameleon"
+    ],
+    "cheetah": [
+      "cheetah"
+    ],
+    "chicken": [
+      "chicken"
+    ],
+    "chimpanzee": [
+      "chimpanzee"
+    ],
+    "chinchilla": [
+      "chinchilla"
+    ],
+    "chipmunk": [
+      "chipmunk"
+    ],
+    "civet": [
+      "civet"
+    ],
+    "clownfish": [
+      "clownfish"
+    ],
+    "condor": [
+      "condor"
+    ],
+    "cougar": [
+      "cougar"
+    ],
+    "cow": [
+      "cow"
+    ],
+    "crab": [
+      "crab"
+    ],
+    "cricket": [
+      "cricket"
+    ],
+    "crocodile": [
+      "crocodile"
+    ],
+    "crow": [
+      "crow"
+    ],
+    "deer": [
+      "deer"
+    ],
+    "dog": [
+      "dog"
+    ],
+    "dolphin": [
+      "dolphin"
+    ],
+    "donkey": [
+      "donkey"
+    ],
+    "dragonfly": [
+      "dragonfly"
+    ],
+    "duck": [
+      "duck"
+    ],
+    "dugong": [
+      "dugong"
+    ],
+    "eagle": [
+      "eagle"
+    ],
+    "eel": [
+      "eel"
+    ],
+    "elephant": [
+      "elephant"
+    ],
+    "elk": [
+      "elk"
+    ],
+    "emperor-penguin": [
+      "emperor-penguin"
+    ],
+    "emu": [
+      "emu"
+    ],
+    "falcon": [
+      "falcon"
+    ],
+    "fennec-fox": [
+      "fennec-fox"
+    ],
+    "ferret": [
+      "ferret"
+    ],
+    "finch": [
+      "finch"
+    ],
+    "firefly": [
+      "firefly"
+    ],
+    "flamingo": [
+      "flamingo"
+    ],
+    "frog": [
+      "frog"
+    ],
+    "gazelle": [
+      "gazelle"
+    ],
+    "gecko": [
+      "gecko"
+    ],
+    "giant-panda": [
+      "giant-panda"
+    ],
+    "gibbon": [
+      "gibbon"
+    ],
+    "giraffe": [
+      "giraffe"
+    ],
+    "goat": [
+      "goat"
+    ],
+    "golden-eagle": [
+      "golden-eagle"
+    ],
+    "goose": [
+      "goose"
+    ],
+    "gorilla": [
+      "gorilla"
+    ],
+    "grasshopper": [
+      "grasshopper"
+    ],
+    "great-white-shark": [
+      "great-white-shark"
+    ],
+    "guinea-pig": [
+      "guinea-pig"
+    ],
+    "hammerhead-shark": [
+      "hammerhead-shark"
+    ],
+    "hamster": [
+      "hamster"
+    ],
+    "hare": [
+      "hare"
+    ],
+    "hawk": [
+      "hawk"
+    ],
+    "hedgehog": [
+      "hedgehog"
+    ],
+    "heron": [
+      "heron"
+    ],
+    "hippopotamus": [
+      "hippopotamus"
+    ],
+    "horse": [
+      "horse"
+    ],
+    "howler-monkey": [
+      "howler-monkey"
+    ],
+    "hummingbird": [
+      "hummingbird"
+    ],
+    "humpback-whale": [
+      "humpback-whale"
+    ],
+    "hyena": [
+      "hyena"
+    ],
+    "ibex": [
+      "ibex"
+    ],
+    "iguana": [
+      "iguana"
+    ],
+    "jaguar": [
+      "jaguar"
+    ],
+    "jellyfish": [
+      "jellyfish"
+    ],
+    "kangaroo": [
+      "kangaroo"
+    ],
+    "kestrel": [
+      "kestrel"
+    ],
+    "king-cobra": [
+      "king-cobra"
+    ],
+    "king-penguin": [
+      "king-penguin"
+    ],
+    "kingfisher": [
+      "kingfisher"
+    ],
+    "kiwi": [
+      "kiwi-bird"
+    ],
+    "koala": [
+      "koala"
+    ],
+    "komodo-dragon": [
+      "komodo-dragon"
+    ],
+    "ladybug": [
+      "ladybug"
+    ],
+    "lemur": [
+      "lemur"
+    ],
+    "leopard": [
+      "leopard"
+    ],
+    "lion": [
+      "lion"
+    ],
+    "llama": [
+      "llama"
+    ],
+    "lobster": [
+      "lobster"
+    ],
+    "lynx": [
+      "lynx"
+    ],
+    "macaw": [
+      "macaw"
+    ],
+    "magpie": [
+      "magpie"
+    ],
+    "mallard": [
+      "mallard"
+    ],
+    "manatee": [
+      "manatee"
+    ],
+    "mandrill": [
+      "mandrill"
+    ],
+    "manta-ray": [
+      "manta-ray"
+    ],
+    "marmot": [
+      "marmot"
+    ],
+    "meerkat": [
+      "meerkat"
+    ],
+    "monarch-butterfly": [
+      "monarch-butterfly"
+    ],
+    "mongoose": [
+      "mongoose"
+    ],
+    "moose": [
+      "moose"
+    ],
+    "moth": [
+      "moth"
+    ],
+    "mountain-goat": [
+      "mountain-goat"
+    ],
+    "mouse": [
+      "mouse"
+    ],
+    "musk-ox": [
+      "musk-ox"
+    ],
+    "narwhal": [
+      "narwhal"
+    ],
+    "northern-cardinal": [
+      "northern-cardinal"
+    ],
+    "numbat": [
+      "numbat"
+    ],
+    "ocelot": [
+      "ocelot"
+    ],
+    "octopus": [
+      "octopus"
+    ],
+    "okapi": [
+      "okapi"
+    ],
+    "orangutan": [
+      "orangutan"
+    ],
+    "orca": [
+      "orca"
+    ],
+    "ostrich": [
+      "ostrich"
+    ],
+    "otter": [
+      "otter"
+    ],
+    "owl": [
+      "owl"
+    ],
+    "parakeet": [
+      "parakeet"
+    ],
+    "parrot": [
+      "parrot"
+    ],
+    "peacock": [
+      "peacock"
+    ],
+    "pelican": [
+      "pelican"
+    ],
+    "penguin": [
+      "penguin"
+    ],
+    "pheasant": [
+      "pheasant"
+    ],
+    "pig": [
+      "pig"
+    ],
+    "polar-bear": [
+      "polar-bear"
+    ],
+    "porcupine": [
+      "porcupine"
+    ],
+    "prairie-dog": [
+      "prairie-dog"
+    ],
+    "praying-mantis": [
+      "praying-mantis"
+    ],
+    "proboscis-monkey": [
+      "proboscis-monkey"
+    ],
+    "puffin": [
+      "puffin"
+    ],
+    "python": [
+      "python-genus"
+    ],
+    "quail": [
+      "quail"
+    ],
+    "rabbit": [
+      "rabbit"
+    ],
+    "raccoon": [
+      "raccoon"
+    ],
+    "raccoon-dog": [
+      "raccoon-dog"
+    ],
+    "rattlesnake": [
+      "rattlesnake"
+    ],
+    "raven": [
+      "raven"
+    ],
+    "red-fox": [
+      "red-fox"
+    ],
+    "red-panda": [
+      "red-panda"
+    ],
+    "reindeer": [
+      "reindeer"
+    ],
+    "rhinoceros": [
+      "rhinoceros"
+    ],
+    "rooster": [
+      "rooster"
+    ],
+    "saiga-antelope": [
+      "saiga-antelope"
+    ],
+    "salamander": [
+      "salamander"
+    ],
+    "scorpion": [
+      "scorpion"
+    ],
+    "sea-lion": [
+      "sea-lion"
+    ],
+    "sea-turtle": [
+      "sea-turtle"
+    ],
+    "seahorse": [
+      "seahorse"
+    ],
+    "serval": [
+      "serval"
+    ],
+    "sheep": [
+      "sheep"
+    ],
+    "shrimp": [
+      "shrimp"
+    ],
+    "sloth": [
+      "sloth"
+    ],
+    "snail": [
+      "snail"
+    ],
+    "snow-leopard": [
+      "snow-leopard"
+    ],
+    "spectacled-bear": [
+      "spectacled-bear"
+    ],
+    "spider": [
+      "spider"
+    ],
+    "squid": [
+      "squid"
+    ],
+    "squirrel": [
+      "squirrel"
+    ],
+    "starfish": [
+      "starfish"
+    ],
+    "stick-insect": [
+      "stick-insect"
+    ],
+    "stork": [
+      "stork"
+    ],
+    "sun-bear": [
+      "sun-bear"
+    ],
+    "swan": [
+      "swan"
+    ],
+    "tapir": [
+      "tapir"
+    ],
+    "tarantula": [
+      "tarantula"
+    ],
+    "tasmanian-devil": [
+      "tasmanian-devil"
+    ],
+    "tiger": [
+      "tiger"
+    ],
+    "toad": [
+      "toad"
+    ],
+    "tortoise": [
+      "tortoise"
+    ],
+    "toucan": [
+      "toucan"
+    ],
+    "tree-frog": [
+      "tree-frog"
+    ],
+    "turkey": [
+      "turkey-bird"
+    ],
+    "vulture": [
+      "vulture"
+    ],
+    "wallaby": [
+      "wallaby"
+    ],
+    "walrus": [
+      "walrus"
+    ],
+    "water-buffalo": [
+      "water-buffalo"
+    ],
+    "whale-shark": [
+      "whale-shark"
+    ],
+    "wildebeest": [
+      "wildebeest"
+    ],
+    "wolf": [
+      "wolf"
+    ],
+    "wombat": [
+      "wombat"
+    ],
+    "woodpecker": [
+      "woodpecker"
+    ],
+    "yak": [
+      "yak"
+    ],
+    "zebra": [
+      "zebra"
+    ]
+  },
+  "bySpecies": {
+    "aardvark": [
+      "aardvark"
+    ],
+    "alligator": [
+      "alligator"
+    ],
+    "alpaca": [
+      "alpaca"
+    ],
+    "ant": [
+      "ant"
+    ],
+    "anteater": [
+      "anteater"
+    ],
+    "antelope": [
+      "antelope"
+    ],
+    "arctic-fox": [
+      "arctic-fox"
+    ],
+    "armadillo": [
+      "armadillo"
+    ],
+    "axolotl": [
+      "axolotl"
+    ],
+    "baboon": [
+      "baboon"
+    ],
+    "bald-eagle": [
+      "bald-eagle"
+    ],
+    "bat": [
+      "bat"
+    ],
+    "beaver": [
+      "beaver"
+    ],
+    "bee": [
+      "bee"
+    ],
+    "beetle": [
+      "beetle"
+    ],
+    "beluga-whale": [
+      "beluga-whale"
+    ],
+    "bison": [
+      "bison"
+    ],
+    "blue-jay": [
+      "blue-jay"
+    ],
+    "blue-whale": [
+      "blue-whale"
+    ],
+    "bobcat": [
+      "bobcat"
+    ],
+    "bonobo": [
+      "bonobo"
+    ],
+    "brown-bear": [
+      "brown-bear"
+    ],
+    "bumblebee": [
+      "bumblebee"
+    ],
+    "butterfly": [
+      "butterfly"
+    ],
+    "camel": [
+      "camel"
+    ],
+    "capybara": [
+      "capybara"
+    ],
+    "caracal": [
+      "caracal"
+    ],
+    "cassowary": [
+      "cassowary"
+    ],
+    "cat": [
+      "cat"
+    ],
+    "caterpillar": [
+      "caterpillar"
+    ],
+    "chameleon": [
+      "chameleon"
+    ],
+    "cheetah": [
+      "cheetah"
+    ],
+    "chicken": [
+      "chicken",
+      "rooster"
+    ],
+    "chimpanzee": [
+      "chimpanzee"
+    ],
+    "chinchilla": [
+      "chinchilla"
+    ],
+    "chipmunk": [
+      "chipmunk"
+    ],
+    "civet": [
+      "civet"
+    ],
+    "clownfish": [
+      "clownfish"
+    ],
+    "condor": [
+      "condor"
+    ],
+    "cougar": [
+      "cougar"
+    ],
+    "cattle": [
+      "cow"
+    ],
+    "crab": [
+      "crab"
+    ],
+    "cricket": [
+      "cricket"
+    ],
+    "crocodile": [
+      "crocodile"
+    ],
+    "crow": [
+      "crow"
+    ],
+    "deer": [
+      "deer"
+    ],
+    "dog": [
+      "dog"
+    ],
+    "dolphin": [
+      "dolphin"
+    ],
+    "donkey": [
+      "donkey"
+    ],
+    "dragonfly": [
+      "dragonfly"
+    ],
+    "duck": [
+      "duck"
+    ],
+    "dugong": [
+      "dugong"
+    ],
+    "eagle": [
+      "eagle"
+    ],
+    "eel": [
+      "eel"
+    ],
+    "elephant": [
+      "elephant"
+    ],
+    "elk": [
+      "elk"
+    ],
+    "emperor-penguin": [
+      "emperor-penguin"
+    ],
+    "emu": [
+      "emu"
+    ],
+    "falcon": [
+      "falcon"
+    ],
+    "fennec-fox": [
+      "fennec-fox"
+    ],
+    "ferret": [
+      "ferret"
+    ],
+    "finch": [
+      "finch"
+    ],
+    "firefly": [
+      "firefly"
+    ],
+    "flamingo": [
+      "flamingo"
+    ],
+    "frog": [
+      "frog"
+    ],
+    "gazelle": [
+      "gazelle"
+    ],
+    "gecko": [
+      "gecko"
+    ],
+    "giant-panda": [
+      "giant-panda"
+    ],
+    "gibbon": [
+      "gibbon"
+    ],
+    "giraffe": [
+      "giraffe"
+    ],
+    "goat": [
+      "goat"
+    ],
+    "golden-eagle": [
+      "golden-eagle"
+    ],
+    "goose": [
+      "goose"
+    ],
+    "gorilla": [
+      "gorilla"
+    ],
+    "grasshopper": [
+      "grasshopper"
+    ],
+    "great-white-shark": [
+      "great-white-shark"
+    ],
+    "guinea-pig": [
+      "guinea-pig"
+    ],
+    "hammerhead-shark": [
+      "hammerhead-shark"
+    ],
+    "hamster": [
+      "hamster"
+    ],
+    "hare": [
+      "hare"
+    ],
+    "hawk": [
+      "hawk"
+    ],
+    "hedgehog": [
+      "hedgehog"
+    ],
+    "heron": [
+      "heron"
+    ],
+    "hippopotamus": [
+      "hippopotamus"
+    ],
+    "horse": [
+      "horse"
+    ],
+    "howler-monkey": [
+      "howler-monkey"
+    ],
+    "hummingbird": [
+      "hummingbird"
+    ],
+    "humpback-whale": [
+      "humpback-whale"
+    ],
+    "hyena": [
+      "hyena"
+    ],
+    "ibex": [
+      "ibex"
+    ],
+    "iguana": [
+      "iguana"
+    ],
+    "jaguar": [
+      "jaguar"
+    ],
+    "jellyfish": [
+      "jellyfish"
+    ],
+    "kangaroo": [
+      "kangaroo"
+    ],
+    "kestrel": [
+      "kestrel"
+    ],
+    "king-cobra": [
+      "king-cobra"
+    ],
+    "king-penguin": [
+      "king-penguin"
+    ],
+    "kingfisher": [
+      "kingfisher"
+    ],
+    "kiwi": [
+      "kiwi-bird"
+    ],
+    "koala": [
+      "koala"
+    ],
+    "komodo-dragon": [
+      "komodo-dragon"
+    ],
+    "coccinellidae": [
+      "ladybug"
+    ],
+    "lemur": [
+      "lemur"
+    ],
+    "leopard": [
+      "leopard"
+    ],
+    "lion": [
+      "lion"
+    ],
+    "llama": [
+      "llama"
+    ],
+    "lobster": [
+      "lobster"
+    ],
+    "lynx": [
+      "lynx"
+    ],
+    "macaw": [
+      "macaw"
+    ],
+    "magpie": [
+      "magpie"
+    ],
+    "mallard": [
+      "mallard"
+    ],
+    "manatee": [
+      "manatee"
+    ],
+    "mandrill": [
+      "mandrill"
+    ],
+    "manta-ray": [
+      "manta-ray"
+    ],
+    "marmot": [
+      "marmot"
+    ],
+    "meerkat": [
+      "meerkat"
+    ],
+    "monarch-butterfly": [
+      "monarch-butterfly"
+    ],
+    "mongoose": [
+      "mongoose"
+    ],
+    "moose": [
+      "moose"
+    ],
+    "moth": [
+      "moth"
+    ],
+    "mountain-goat": [
+      "mountain-goat"
+    ],
+    "mouse": [
+      "mouse"
+    ],
+    "muskox": [
+      "musk-ox"
+    ],
+    "narwhal": [
+      "narwhal"
+    ],
+    "northern-cardinal": [
+      "northern-cardinal"
+    ],
+    "numbat": [
+      "numbat"
+    ],
+    "ocelot": [
+      "ocelot"
+    ],
+    "octopus": [
+      "octopus"
+    ],
+    "okapi": [
+      "okapi"
+    ],
+    "orangutan": [
+      "orangutan"
+    ],
+    "orca": [
+      "orca"
+    ],
+    "ostrich": [
+      "ostrich"
+    ],
+    "otter": [
+      "otter"
+    ],
+    "owl": [
+      "owl"
+    ],
+    "parakeet": [
+      "parakeet"
+    ],
+    "parrot": [
+      "parrot"
+    ],
+    "peafowl": [
+      "peacock"
+    ],
+    "pelican": [
+      "pelican"
+    ],
+    "penguin": [
+      "penguin"
+    ],
+    "pheasant": [
+      "pheasant"
+    ],
+    "pig": [
+      "pig"
+    ],
+    "polar-bear": [
+      "polar-bear"
+    ],
+    "porcupine": [
+      "porcupine"
+    ],
+    "prairie-dog": [
+      "prairie-dog"
+    ],
+    "mantis": [
+      "praying-mantis"
+    ],
+    "proboscis-monkey": [
+      "proboscis-monkey"
+    ],
+    "puffin": [
+      "puffin"
+    ],
+    "python": [
+      "python-genus"
+    ],
+    "quail": [
+      "quail"
+    ],
+    "rabbit": [
+      "rabbit"
+    ],
+    "raccoon": [
+      "raccoon"
+    ],
+    "nyctereutes": [
+      "raccoon-dog"
+    ],
+    "rattlesnake": [
+      "rattlesnake"
+    ],
+    "raven": [
+      "raven"
+    ],
+    "red-fox": [
+      "red-fox"
+    ],
+    "red-panda": [
+      "red-panda"
+    ],
+    "reindeer": [
+      "reindeer"
+    ],
+    "rhinoceros": [
+      "rhinoceros"
+    ],
+    "saiga-antelope": [
+      "saiga-antelope"
+    ],
+    "salamander": [
+      "salamander"
+    ],
+    "scorpion": [
+      "scorpion"
+    ],
+    "sea-lion": [
+      "sea-lion"
+    ],
+    "sea-turtle": [
+      "sea-turtle"
+    ],
+    "seahorse": [
+      "seahorse"
+    ],
+    "serval": [
+      "serval"
+    ],
+    "sheep": [
+      "sheep"
+    ],
+    "shrimp": [
+      "shrimp"
+    ],
+    "sloth": [
+      "sloth"
+    ],
+    "snail": [
+      "snail"
+    ],
+    "snow-leopard": [
+      "snow-leopard"
+    ],
+    "spectacled-bear": [
+      "spectacled-bear"
+    ],
+    "spider": [
+      "spider"
+    ],
+    "squid": [
+      "squid"
+    ],
+    "squirrel": [
+      "squirrel"
+    ],
+    "starfish": [
+      "starfish"
+    ],
+    "phasmatodea": [
+      "stick-insect"
+    ],
+    "stork": [
+      "stork"
+    ],
+    "sun-bear": [
+      "sun-bear"
+    ],
+    "swan": [
+      "swan"
+    ],
+    "tapir": [
+      "tapir"
+    ],
+    "tarantula": [
+      "tarantula"
+    ],
+    "tasmanian-devil": [
+      "tasmanian-devil"
+    ],
+    "tiger": [
+      "tiger"
+    ],
+    "toad": [
+      "toad"
+    ],
+    "tortoise": [
+      "tortoise"
+    ],
+    "toucan": [
+      "toucan"
+    ],
+    "tree-frog": [
+      "tree-frog"
+    ],
+    "turkey": [
+      "turkey-bird"
+    ],
+    "vulture": [
+      "vulture"
+    ],
+    "wallaby": [
+      "wallaby"
+    ],
+    "walrus": [
+      "walrus"
+    ],
+    "water-buffalo": [
+      "water-buffalo"
+    ],
+    "whale-shark": [
+      "whale-shark"
+    ],
+    "wildebeest": [
+      "wildebeest"
+    ],
+    "wolf": [
+      "wolf"
+    ],
+    "wombat": [
+      "wombat"
+    ],
+    "woodpecker": [
+      "woodpecker"
+    ],
+    "yak": [
+      "yak"
+    ],
+    "zebra": [
+      "zebra"
+    ]
+  },
+  "bySourceURL": {
+    "https://en.wikipedia.org/wiki/Aardvark": [
+      "aardvark"
+    ],
+    "https://en.wikipedia.org/wiki/Alligator": [
+      "alligator"
+    ],
+    "https://en.wikipedia.org/wiki/Alpaca": [
+      "alpaca"
+    ],
+    "https://en.wikipedia.org/wiki/Ant": [
+      "ant"
+    ],
+    "https://en.wikipedia.org/wiki/Anteater": [
+      "anteater"
+    ],
+    "https://en.wikipedia.org/wiki/Antelope": [
+      "antelope"
+    ],
+    "https://en.wikipedia.org/wiki/Arctic_fox": [
+      "arctic-fox"
+    ],
+    "https://en.wikipedia.org/wiki/Armadillo": [
+      "armadillo"
+    ],
+    "https://en.wikipedia.org/wiki/Axolotl": [
+      "axolotl"
+    ],
+    "https://en.wikipedia.org/wiki/Baboon": [
+      "baboon"
+    ],
+    "https://en.wikipedia.org/wiki/Bald_eagle": [
+      "bald-eagle"
+    ],
+    "https://en.wikipedia.org/wiki/Bat": [
+      "bat"
+    ],
+    "https://en.wikipedia.org/wiki/Beaver": [
+      "beaver"
+    ],
+    "https://en.wikipedia.org/wiki/Bee": [
+      "bee"
+    ],
+    "https://en.wikipedia.org/wiki/Beetle": [
+      "beetle"
+    ],
+    "https://en.wikipedia.org/wiki/Beluga_whale": [
+      "beluga-whale"
+    ],
+    "https://en.wikipedia.org/wiki/Bison": [
+      "bison"
+    ],
+    "https://en.wikipedia.org/wiki/Blue_jay": [
+      "blue-jay"
+    ],
+    "https://en.wikipedia.org/wiki/Blue_whale": [
+      "blue-whale"
+    ],
+    "https://en.wikipedia.org/wiki/Bobcat": [
+      "bobcat"
+    ],
+    "https://en.wikipedia.org/wiki/Bonobo": [
+      "bonobo"
+    ],
+    "https://en.wikipedia.org/wiki/Brown_bear": [
+      "brown-bear"
+    ],
+    "https://en.wikipedia.org/wiki/Bumblebee": [
+      "bumblebee"
+    ],
+    "https://en.wikipedia.org/wiki/Butterfly": [
+      "butterfly"
+    ],
+    "https://en.wikipedia.org/wiki/Camel": [
+      "camel"
+    ],
+    "https://en.wikipedia.org/wiki/Capybara": [
+      "capybara"
+    ],
+    "https://en.wikipedia.org/wiki/Caracal": [
+      "caracal"
+    ],
+    "https://en.wikipedia.org/wiki/Cassowary": [
+      "cassowary"
+    ],
+    "https://en.wikipedia.org/wiki/Cat": [
+      "cat"
+    ],
+    "https://en.wikipedia.org/wiki/Caterpillar": [
+      "caterpillar"
+    ],
+    "https://en.wikipedia.org/wiki/Chameleon": [
+      "chameleon"
+    ],
+    "https://en.wikipedia.org/wiki/Cheetah": [
+      "cheetah"
+    ],
+    "https://en.wikipedia.org/wiki/Chicken": [
+      "chicken",
+      "rooster"
+    ],
+    "https://en.wikipedia.org/wiki/Chimpanzee": [
+      "chimpanzee"
+    ],
+    "https://en.wikipedia.org/wiki/Chinchilla": [
+      "chinchilla"
+    ],
+    "https://en.wikipedia.org/wiki/Chipmunk": [
+      "chipmunk"
+    ],
+    "https://en.wikipedia.org/wiki/Civet": [
+      "civet"
+    ],
+    "https://en.wikipedia.org/wiki/Clownfish": [
+      "clownfish"
+    ],
+    "https://en.wikipedia.org/wiki/Condor": [
+      "condor"
+    ],
+    "https://en.wikipedia.org/wiki/Cougar": [
+      "cougar"
+    ],
+    "https://en.wikipedia.org/wiki/Cattle": [
+      "cow"
+    ],
+    "https://en.wikipedia.org/wiki/Crab": [
+      "crab"
+    ],
+    "https://en.wikipedia.org/wiki/Cricket_(insect)": [
+      "cricket"
+    ],
+    "https://en.wikipedia.org/wiki/Crocodile": [
+      "crocodile"
+    ],
+    "https://en.wikipedia.org/wiki/Crow": [
+      "crow"
+    ],
+    "https://en.wikipedia.org/wiki/Deer": [
+      "deer"
+    ],
+    "https://en.wikipedia.org/wiki/Dog": [
+      "dog"
+    ],
+    "https://en.wikipedia.org/wiki/Dolphin": [
+      "dolphin"
+    ],
+    "https://en.wikipedia.org/wiki/Donkey": [
+      "donkey"
+    ],
+    "https://en.wikipedia.org/wiki/Dragonfly": [
+      "dragonfly"
+    ],
+    "https://en.wikipedia.org/wiki/Duck": [
+      "duck"
+    ],
+    "https://en.wikipedia.org/wiki/Dugong": [
+      "dugong"
+    ],
+    "https://en.wikipedia.org/wiki/Eagle": [
+      "eagle"
+    ],
+    "https://en.wikipedia.org/wiki/Eel": [
+      "eel"
+    ],
+    "https://en.wikipedia.org/wiki/Elephant": [
+      "elephant"
+    ],
+    "https://en.wikipedia.org/wiki/Elk": [
+      "elk"
+    ],
+    "https://en.wikipedia.org/wiki/Emperor_penguin": [
+      "emperor-penguin"
+    ],
+    "https://en.wikipedia.org/wiki/Emu": [
+      "emu"
+    ],
+    "https://en.wikipedia.org/wiki/Falcon": [
+      "falcon"
+    ],
+    "https://en.wikipedia.org/wiki/Fennec_fox": [
+      "fennec-fox"
+    ],
+    "https://en.wikipedia.org/wiki/Ferret": [
+      "ferret"
+    ],
+    "https://en.wikipedia.org/wiki/Finch": [
+      "finch"
+    ],
+    "https://en.wikipedia.org/wiki/Firefly": [
+      "firefly"
+    ],
+    "https://en.wikipedia.org/wiki/Flamingo": [
+      "flamingo"
+    ],
+    "https://en.wikipedia.org/wiki/Frog": [
+      "frog"
+    ],
+    "https://en.wikipedia.org/wiki/Gazelle": [
+      "gazelle"
+    ],
+    "https://en.wikipedia.org/wiki/Gecko": [
+      "gecko"
+    ],
+    "https://en.wikipedia.org/wiki/Giant_panda": [
+      "giant-panda"
+    ],
+    "https://en.wikipedia.org/wiki/Gibbon": [
+      "gibbon"
+    ],
+    "https://en.wikipedia.org/wiki/Giraffe": [
+      "giraffe"
+    ],
+    "https://en.wikipedia.org/wiki/Goat": [
+      "goat"
+    ],
+    "https://en.wikipedia.org/wiki/Golden_eagle": [
+      "golden-eagle"
+    ],
+    "https://en.wikipedia.org/wiki/Goose": [
+      "goose"
+    ],
+    "https://en.wikipedia.org/wiki/Gorilla": [
+      "gorilla"
+    ],
+    "https://en.wikipedia.org/wiki/Grasshopper": [
+      "grasshopper"
+    ],
+    "https://en.wikipedia.org/wiki/Great_white_shark": [
+      "great-white-shark"
+    ],
+    "https://en.wikipedia.org/wiki/Guinea_pig": [
+      "guinea-pig"
+    ],
+    "https://en.wikipedia.org/wiki/Hammerhead_shark": [
+      "hammerhead-shark"
+    ],
+    "https://en.wikipedia.org/wiki/Hamster": [
+      "hamster"
+    ],
+    "https://en.wikipedia.org/wiki/Hare": [
+      "hare"
+    ],
+    "https://en.wikipedia.org/wiki/Hawk": [
+      "hawk"
+    ],
+    "https://en.wikipedia.org/wiki/Hedgehog": [
+      "hedgehog"
+    ],
+    "https://en.wikipedia.org/wiki/Heron": [
+      "heron"
+    ],
+    "https://en.wikipedia.org/wiki/Hippopotamus": [
+      "hippopotamus"
+    ],
+    "https://en.wikipedia.org/wiki/Horse": [
+      "horse"
+    ],
+    "https://en.wikipedia.org/wiki/Howler_monkey": [
+      "howler-monkey"
+    ],
+    "https://en.wikipedia.org/wiki/Hummingbird": [
+      "hummingbird"
+    ],
+    "https://en.wikipedia.org/wiki/Humpback_whale": [
+      "humpback-whale"
+    ],
+    "https://en.wikipedia.org/wiki/Hyena": [
+      "hyena"
+    ],
+    "https://en.wikipedia.org/wiki/Ibex": [
+      "ibex"
+    ],
+    "https://en.wikipedia.org/wiki/Iguana": [
+      "iguana"
+    ],
+    "https://en.wikipedia.org/wiki/Jaguar": [
+      "jaguar"
+    ],
+    "https://en.wikipedia.org/wiki/Jellyfish": [
+      "jellyfish"
+    ],
+    "https://en.wikipedia.org/wiki/Kangaroo": [
+      "kangaroo"
+    ],
+    "https://en.wikipedia.org/wiki/Kestrel": [
+      "kestrel"
+    ],
+    "https://en.wikipedia.org/wiki/King_cobra": [
+      "king-cobra"
+    ],
+    "https://en.wikipedia.org/wiki/King_penguin": [
+      "king-penguin"
+    ],
+    "https://en.wikipedia.org/wiki/Kingfisher": [
+      "kingfisher"
+    ],
+    "https://en.wikipedia.org/wiki/Kiwi_%28bird%29": [
+      "kiwi-bird"
+    ],
+    "https://en.wikipedia.org/wiki/Koala": [
+      "koala"
+    ],
+    "https://en.wikipedia.org/wiki/Komodo_dragon": [
+      "komodo-dragon"
+    ],
+    "https://en.wikipedia.org/wiki/Coccinellidae": [
+      "ladybug"
+    ],
+    "https://en.wikipedia.org/wiki/Lemur": [
+      "lemur"
+    ],
+    "https://en.wikipedia.org/wiki/Leopard": [
+      "leopard"
+    ],
+    "https://en.wikipedia.org/wiki/Lion": [
+      "lion"
+    ],
+    "https://en.wikipedia.org/wiki/Llama": [
+      "llama"
+    ],
+    "https://en.wikipedia.org/wiki/Lobster": [
+      "lobster"
+    ],
+    "https://en.wikipedia.org/wiki/Lynx": [
+      "lynx"
+    ],
+    "https://en.wikipedia.org/wiki/Macaw": [
+      "macaw"
+    ],
+    "https://en.wikipedia.org/wiki/Magpie": [
+      "magpie"
+    ],
+    "https://en.wikipedia.org/wiki/Mallard": [
+      "mallard"
+    ],
+    "https://en.wikipedia.org/wiki/Manatee": [
+      "manatee"
+    ],
+    "https://en.wikipedia.org/wiki/Mandrill": [
+      "mandrill"
+    ],
+    "https://en.wikipedia.org/wiki/Manta_ray": [
+      "manta-ray"
+    ],
+    "https://en.wikipedia.org/wiki/Marmot": [
+      "marmot"
+    ],
+    "https://en.wikipedia.org/wiki/Meerkat": [
+      "meerkat"
+    ],
+    "https://en.wikipedia.org/wiki/Monarch_butterfly": [
+      "monarch-butterfly"
+    ],
+    "https://en.wikipedia.org/wiki/Mongoose": [
+      "mongoose"
+    ],
+    "https://en.wikipedia.org/wiki/Moose": [
+      "moose"
+    ],
+    "https://en.wikipedia.org/wiki/Moth": [
+      "moth"
+    ],
+    "https://en.wikipedia.org/wiki/Mountain_goat": [
+      "mountain-goat"
+    ],
+    "https://en.wikipedia.org/wiki/Mouse": [
+      "mouse"
+    ],
+    "https://en.wikipedia.org/wiki/Muskox": [
+      "musk-ox"
+    ],
+    "https://en.wikipedia.org/wiki/Narwhal": [
+      "narwhal"
+    ],
+    "https://en.wikipedia.org/wiki/Northern_cardinal": [
+      "northern-cardinal"
+    ],
+    "https://en.wikipedia.org/wiki/Numbat": [
+      "numbat"
+    ],
+    "https://en.wikipedia.org/wiki/Ocelot": [
+      "ocelot"
+    ],
+    "https://en.wikipedia.org/wiki/Octopus": [
+      "octopus"
+    ],
+    "https://en.wikipedia.org/wiki/Okapi": [
+      "okapi"
+    ],
+    "https://en.wikipedia.org/wiki/Orangutan": [
+      "orangutan"
+    ],
+    "https://en.wikipedia.org/wiki/Orca": [
+      "orca"
+    ],
+    "https://en.wikipedia.org/wiki/Ostrich": [
+      "ostrich"
+    ],
+    "https://en.wikipedia.org/wiki/Otter": [
+      "otter"
+    ],
+    "https://en.wikipedia.org/wiki/Owl": [
+      "owl"
+    ],
+    "https://en.wikipedia.org/wiki/Parakeet": [
+      "parakeet"
+    ],
+    "https://en.wikipedia.org/wiki/Parrot": [
+      "parrot"
+    ],
+    "https://en.wikipedia.org/wiki/Peafowl": [
+      "peacock"
+    ],
+    "https://en.wikipedia.org/wiki/Pelican": [
+      "pelican"
+    ],
+    "https://en.wikipedia.org/wiki/Penguin": [
+      "penguin"
+    ],
+    "https://en.wikipedia.org/wiki/Pheasant": [
+      "pheasant"
+    ],
+    "https://en.wikipedia.org/wiki/Pig": [
+      "pig"
+    ],
+    "https://en.wikipedia.org/wiki/Polar_bear": [
+      "polar-bear"
+    ],
+    "https://en.wikipedia.org/wiki/Porcupine": [
+      "porcupine"
+    ],
+    "https://en.wikipedia.org/wiki/Prairie_dog": [
+      "prairie-dog"
+    ],
+    "https://en.wikipedia.org/wiki/Mantis": [
+      "praying-mantis"
+    ],
+    "https://en.wikipedia.org/wiki/Proboscis_monkey": [
+      "proboscis-monkey"
+    ],
+    "https://en.wikipedia.org/wiki/Puffin": [
+      "puffin"
+    ],
+    "https://en.wikipedia.org/wiki/Python_%28genus%29": [
+      "python-genus"
+    ],
+    "https://en.wikipedia.org/wiki/Quail": [
+      "quail"
+    ],
+    "https://en.wikipedia.org/wiki/Rabbit": [
+      "rabbit"
+    ],
+    "https://en.wikipedia.org/wiki/Raccoon": [
+      "raccoon"
+    ],
+    "https://en.wikipedia.org/wiki/Nyctereutes": [
+      "raccoon-dog"
+    ],
+    "https://en.wikipedia.org/wiki/Rattlesnake": [
+      "rattlesnake"
+    ],
+    "https://en.wikipedia.org/wiki/Raven": [
+      "raven"
+    ],
+    "https://en.wikipedia.org/wiki/Red_fox": [
+      "red-fox"
+    ],
+    "https://en.wikipedia.org/wiki/Red_panda": [
+      "red-panda"
+    ],
+    "https://en.wikipedia.org/wiki/Reindeer": [
+      "reindeer"
+    ],
+    "https://en.wikipedia.org/wiki/Rhinoceros": [
+      "rhinoceros"
+    ],
+    "https://en.wikipedia.org/wiki/Saiga_antelope": [
+      "saiga-antelope"
+    ],
+    "https://en.wikipedia.org/wiki/Salamander": [
+      "salamander"
+    ],
+    "https://en.wikipedia.org/wiki/Scorpion": [
+      "scorpion"
+    ],
+    "https://en.wikipedia.org/wiki/Sea_lion": [
+      "sea-lion"
+    ],
+    "https://en.wikipedia.org/wiki/Sea_turtle": [
+      "sea-turtle"
+    ],
+    "https://en.wikipedia.org/wiki/Seahorse": [
+      "seahorse"
+    ],
+    "https://en.wikipedia.org/wiki/Serval": [
+      "serval"
+    ],
+    "https://en.wikipedia.org/wiki/Sheep": [
+      "sheep"
+    ],
+    "https://en.wikipedia.org/wiki/Shrimp": [
+      "shrimp"
+    ],
+    "https://en.wikipedia.org/wiki/Sloth": [
+      "sloth"
+    ],
+    "https://en.wikipedia.org/wiki/Snail": [
+      "snail"
+    ],
+    "https://en.wikipedia.org/wiki/Snow_leopard": [
+      "snow-leopard"
+    ],
+    "https://en.wikipedia.org/wiki/Spectacled_bear": [
+      "spectacled-bear"
+    ],
+    "https://en.wikipedia.org/wiki/Spider": [
+      "spider"
+    ],
+    "https://en.wikipedia.org/wiki/Squid": [
+      "squid"
+    ],
+    "https://en.wikipedia.org/wiki/Squirrel": [
+      "squirrel"
+    ],
+    "https://en.wikipedia.org/wiki/Starfish": [
+      "starfish"
+    ],
+    "https://en.wikipedia.org/wiki/Phasmatodea": [
+      "stick-insect"
+    ],
+    "https://en.wikipedia.org/wiki/Stork": [
+      "stork"
+    ],
+    "https://en.wikipedia.org/wiki/Sun_bear": [
+      "sun-bear"
+    ],
+    "https://en.wikipedia.org/wiki/Swan": [
+      "swan"
+    ],
+    "https://en.wikipedia.org/wiki/Tapir": [
+      "tapir"
+    ],
+    "https://en.wikipedia.org/wiki/Tarantula": [
+      "tarantula"
+    ],
+    "https://en.wikipedia.org/wiki/Tasmanian_devil": [
+      "tasmanian-devil"
+    ],
+    "https://en.wikipedia.org/wiki/Tiger": [
+      "tiger"
+    ],
+    "https://en.wikipedia.org/wiki/Toad": [
+      "toad"
+    ],
+    "https://en.wikipedia.org/wiki/Tortoise": [
+      "tortoise"
+    ],
+    "https://en.wikipedia.org/wiki/Toucan": [
+      "toucan"
+    ],
+    "https://en.wikipedia.org/wiki/Tree_frog": [
+      "tree-frog"
+    ],
+    "https://en.wikipedia.org/wiki/Turkey_%28bird%29": [
+      "turkey-bird"
+    ],
+    "https://en.wikipedia.org/wiki/Vulture": [
+      "vulture"
+    ],
+    "https://en.wikipedia.org/wiki/Wallaby": [
+      "wallaby"
+    ],
+    "https://en.wikipedia.org/wiki/Walrus": [
+      "walrus"
+    ],
+    "https://en.wikipedia.org/wiki/Water_buffalo": [
+      "water-buffalo"
+    ],
+    "https://en.wikipedia.org/wiki/Whale_shark": [
+      "whale-shark"
+    ],
+    "https://en.wikipedia.org/wiki/Wildebeest": [
+      "wildebeest"
+    ],
+    "https://en.wikipedia.org/wiki/Wolf": [
+      "wolf"
+    ],
+    "https://en.wikipedia.org/wiki/Wombat": [
+      "wombat"
+    ],
+    "https://en.wikipedia.org/wiki/Woodpecker": [
+      "woodpecker"
+    ],
+    "https://en.wikipedia.org/wiki/Yak": [
+      "yak"
+    ],
+    "https://en.wikipedia.org/wiki/Zebra": [
+      "zebra"
+    ]
+  },
+  "byCommonsFile": {
+    "Orycteropus_afer_175359469.jpg": [
+      "aardvark"
+    ],
+    "Portrait of an Alligator - Flickr - trishhartmann.jpg": [
+      "alligator"
+    ],
+    "Alpaca_in_Higashiyama_Zoo_-_1.jpg": [
+      "alpaca"
+    ],
+    "Red_Ant_-_March_2025.jpg": [
+      "ant"
+    ],
+    "Tamanduá-bandeira_no_Parque_Nacional_da_Serra_da_Canastra_(cropped).jpg": [
+      "anteater"
+    ],
+    "Impalas Portrait.jpg": [
+      "antelope"
+    ],
+    "Vulpes_lagopus_in_Iceland_(cropped_3).jpg": [
+      "arctic-fox"
+    ],
+    "Nine-banded_Armadillo.jpg": [
+      "armadillo"
+    ],
+    "Axolotl_ganz.jpg": [
+      "axolotl"
+    ],
+    "Olive_baboon_Ngorongoro.jpg": [
+      "baboon"
+    ],
+    "Bald_eagle_about_to_fly_in_Alaska_(2016).jpg": [
+      "bald-eagle"
+    ],
+    "Big-eared-townsend-fledermaus.jpg": [
+      "bat"
+    ],
+    "American_Beaver.jpg": [
+      "beaver"
+    ],
+    "Tetragonula_carbonaria_(14521993792).jpg": [
+      "bee"
+    ],
+    "Lady-beetle-close-up.jpg": [
+      "beetle"
+    ],
+    "Oceanogràfic_29102004.jpg": [
+      "beluga-whale"
+    ],
+    "American_bison_k5680-1.jpg": [
+      "bison"
+    ],
+    "Blue_jay_in_PP_(30960).jpg": [
+      "blue-jay"
+    ],
+    "Bluewhale1 noaa crop.jpg": [
+      "blue-whale"
+    ],
+    "Bobcat_at_Columbus_Zoo_Boo.jpg": [
+      "bobcat"
+    ],
+    "Apeldoorn_Apenheul_zoo_Bonobo.jpg": [
+      "bonobo"
+    ],
+    "2010-kodiak-bear-1.jpg": [
+      "brown-bear"
+    ],
+    "Bumblebee portrait.jpg": [
+      "bumblebee"
+    ],
+    "Butterfly Portrait (120780431).jpeg": [
+      "butterfly"
+    ],
+    "Camel portrait.jpg": [
+      "camel"
+    ],
+    "Capybaracropped.jpg": [
+      "capybara"
+    ],
+    "Caracal Portrait (7476164046).jpg": [
+      "caracal"
+    ],
+    "Cassowary_Diversity.jpg": [
+      "cassowary"
+    ],
+    "Cat_August_2010-4.jpg": [
+      "cat"
+    ],
+    "Pasture day moth caterpillar closeup.jpg": [
+      "caterpillar"
+    ],
+    "Chameleon closeup shot.jpg": [
+      "chameleon"
+    ],
+    "Male_cheetah_facing_left_in_South_Africa.jpg": [
+      "cheetah"
+    ],
+    "Male_and_female_chicken_sitting_together.jpg": [
+      "chicken",
+      "rooster"
+    ],
+    "015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg": [
+      "chimpanzee"
+    ],
+    "Chinchilla_lanigera_(Wroclaw_zoo)-2.JPG": [
+      "chinchilla"
+    ],
+    "Chipmunk_with_stuffed_cheeks_in_Prospect_Park_(05980).jpg": [
+      "chipmunk"
+    ],
+    "Civettictis_civetta_12.jpg": [
+      "civet"
+    ],
+    "Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg": [
+      "clownfish"
+    ],
+    "Vultur gryphus head (Linnaeus, 1758).jpg": [
+      "condor"
+    ],
+    "Mountain_Lion_in_Glacier_National_Park.jpg": [
+      "cougar"
+    ],
+    "Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg": [
+      "cow"
+    ],
+    "Dungeness crab face closeup.jpg": [
+      "crab"
+    ],
+    "Cone-headed_cricket_(Conocephalus_longipennis).jpg": [
+      "cricket"
+    ],
+    "Nile_crocodile_head.jpg": [
+      "crocodile"
+    ],
+    "Corvus_corone_-near_Canford_Cliffs,_Poole,_England-8.jpg": [
+      "crow"
+    ],
+    "Mule deer buck and Roosevelt Arch portrait (26624826009).jpg": [
+      "deer"
+    ],
+    "Huskiesatrest.jpg": [
+      "dog"
+    ],
+    "Tursiops_truncatus_01.jpg": [
+      "dolphin"
+    ],
+    "Portrait of a donkey - geograph.org.uk - 1477916.jpg": [
+      "donkey"
+    ],
+    "Gemeine_Heidelibelle_(Sympetrum_vulgatum)_4.jpg": [
+      "dragonfly"
+    ],
+    "Bucephala-albeola-010.jpg": [
+      "duck"
+    ],
+    "The head of Dugong dugon.jpg": [
+      "dugong"
+    ],
+    "Bald Eagle Portrait.jpg": [
+      "eagle"
+    ],
+    "Giant Moray Eel Gymnothorax Javanicus (223119739).jpeg": [
+      "eel"
+    ],
+    "African_Bush_Elephant.jpg": [
+      "elephant"
+    ],
+    "Jasper.Wapiti-Hirsch.P1033401.jpg": [
+      "elk"
+    ],
+    "Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg": [
+      "emperor-penguin",
+      "penguin"
+    ],
+    "Emu_1_-_Tidbinbilla.jpg": [
+      "emu"
+    ],
+    "Brown-Falcon,-Vic,-3.1.2008.jpg": [
+      "falcon"
+    ],
+    "Fennec_Fox_Vulpes_zerda.jpg": [
+      "fennec-fox"
+    ],
+    "Ferret_2008.png": [
+      "ferret"
+    ],
+    "Pyrrhula_pyrrhula_female_2.jpg": [
+      "finch"
+    ],
+    "Firefly - Pterotus obscuripennis, Sierra City, California (cropped).jpg": [
+      "firefly"
+    ],
+    "Portrait de flamant rose dans la réserve nationale de Camargue.jpg": [
+      "flamingo"
+    ],
+    "Red-eyed_Leaf_Frog_(49661076226).jpg": [
+      "frog"
+    ],
+    "Chinkara_-_Shreeram_M_V_-_Bikaner.jpg": [
+      "gazelle"
+    ],
+    "Dwarf yellow-headed gecko portrait.jpg": [
+      "gecko"
+    ],
+    "Grosser_Panda.JPG": [
+      "giant-panda"
+    ],
+    "Hylobates_lar_-_Kaeng_Krachan_WB.jpg": [
+      "gibbon"
+    ],
+    "006 Giraffe portrait in the Lake Manyara National Park Photo by Giles Laurent.jpg": [
+      "giraffe"
+    ],
+    "Hausziege_04.jpg": [
+      "goat"
+    ],
+    "Steinadler Aquila chrysaetos closeup2 Richard Bartz.jpg": [
+      "golden-eagle"
+    ],
+    "Anser_anser_1_(Piotr_Kuczynski)_(cropped).jpg": [
+      "goose"
+    ],
+    "Gorille_des_plaines_de_l'ouest_à_l'Espace_Zoologique.jpg": [
+      "gorilla"
+    ],
+    "American_Bird_Grasshopper.jpg": [
+      "grasshopper"
+    ],
+    "White_shark.jpg": [
+      "great-white-shark"
+    ],
+    "George_the_amazing_guinea_pig.jpg": [
+      "guinea-pig"
+    ],
+    "Scalloped_Hammerhead_Shark_Sphyrna_Lewini_(226845659).jpeg": [
+      "hammerhead-shark"
+    ],
+    "European_hamster_(Cricetus_cricetus)_Meidling.jpg": [
+      "hamster"
+    ],
+    "Scrub_Hare_(Lepus_saxatilis)_close-up_(30544290256)_(2).jpg": [
+      "hare"
+    ],
+    "Hawk Portrait (120774727).jpeg": [
+      "hawk"
+    ],
+    "Igel.JPG": [
+      "hedgehog"
+    ],
+    "White Heron Closeup.jpg": [
+      "heron"
+    ],
+    "Portrait_Hippopotamus_in_the_water.jpg": [
+      "hippopotamus"
+    ],
+    "Nokota_Horses_cropped.jpg": [
+      "horse"
+    ],
+    "Mantled_howler_monkey_and_baby_(81337)2.jpg": [
+      "howler-monkey"
+    ],
+    "Archilochus colubris (Male).jpg": [
+      "hummingbird"
+    ],
+    "Humpback Whale, blowholes.jpg": [
+      "humpback-whale"
+    ],
+    "Hyaenidae_Diversity.jpg": [
+      "hyena"
+    ],
+    "Capra_ibex_ibex.jpg": [
+      "ibex"
+    ],
+    "Green Iguana Portrait (120776875).jpeg": [
+      "iguana"
+    ],
+    "Standing_jaguar.jpg": [
+      "jaguar"
+    ],
+    "Largelionsmanejellyfish.jpg": [
+      "jellyfish"
+    ],
+    "Forester_kangaroo_(Macropus_giganteus_tasmaniensis)_juvenile_hopping_Esk_Valley.jpg": [
+      "kangaroo"
+    ],
+    "American_kestrel_(Falco_sparverius_cinnamominus)_male_Leona_Amarga.jpg": [
+      "kestrel"
+    ],
+    "12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg": [
+      "king-cobra"
+    ],
+    "SGI-2016-South_Georgia_(Fortuna_Bay)–King_penguin_(Aptenodytes_patagonicus)_04.jpg": [
+      "king-penguin"
+    ],
+    "Alcedo_azurea_-_Julatten.jpg": [
+      "kingfisher"
+    ],
+    "TeTuatahianui.jpg": [
+      "kiwi-bird"
+    ],
+    "Koala_climbing_tree.jpg": [
+      "koala"
+    ],
+    "202306_Varanus_komodoensis.jpg": [
+      "komodo-dragon"
+    ],
+    "Coccinella-septempunctata-15-fws.jpg": [
+      "ladybug"
+    ],
+    "Lemuroidea.jpg": [
+      "lemur"
+    ],
+    "African_leopard_male_(cropped).jpg": [
+      "leopard"
+    ],
+    "020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg": [
+      "lion"
+    ],
+    "Black Llama.jpg": [
+      "llama"
+    ],
+    "Lobster Portrait.jpg": [
+      "lobster"
+    ],
+    "Lynx_heads_collage.jpg": [
+      "lynx"
+    ],
+    "Blue-and-Yellow-Macaw.jpg": [
+      "macaw"
+    ],
+    "Pica_pica_-_Compans_Caffarelli_-_2012-03-16.jpg": [
+      "magpie"
+    ],
+    "Anas_platyrhynchos_male_female_quadrat.jpg": [
+      "mallard"
+    ],
+    "Underwater_photography_on_endangered_mammal_manatee.jpg": [
+      "manatee"
+    ],
+    "Mandrill_Albert_September_2015_Zoo_Berlin_(2).jpg": [
+      "mandrill"
+    ],
+    "Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG": [
+      "manta-ray"
+    ],
+    "071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg": [
+      "marmot"
+    ],
+    "Meerkat_(Suricata_suricatta)_Tswalu.jpg": [
+      "meerkat"
+    ],
+    "Danaus plexippus portrait.jpg": [
+      "monarch-butterfly"
+    ],
+    "Mongoose_collection.png": [
+      "mongoose"
+    ],
+    "Alaska_moose.jpg": [
+      "moose"
+    ],
+    "Autographa_gamma_en_Trachelospermum_jasminoides_-_02.jpg": [
+      "moth"
+    ],
+    "Mountain_Goat,_Enchantments_Basin.jpg": [
+      "mountain-goat"
+    ],
+    "Мышь_2.jpg": [
+      "mouse"
+    ],
+    "Muskox_(Ovibos_moschatus)_male_Dovrefjell_4.jpg": [
+      "musk-ox"
+    ],
+    "Pod Monodon monoceros.jpg": [
+      "narwhal"
+    ],
+    "Male_northern_cardinal_in_Central_Park_(52612).jpg": [
+      "northern-cardinal"
+    ],
+    "Numbat,_Dryandra_Woodland,_Western_Australia.jpg": [
+      "numbat"
+    ],
+    "016_Ocelot_in_Encontro_das_Águas_State_Park_Photo_by_Giles_Laurent.jpg": [
+      "ocelot"
+    ],
+    "Octopus2.jpg": [
+      "octopus"
+    ],
+    "Saint-Aignan_(Loir-et-Cher)._Okapi.jpg": [
+      "okapi"
+    ],
+    "Orang_Utan,_Semenggok_Forest_Reserve,_Sarawak,_Borneo,_Malaysia.JPG": [
+      "orangutan"
+    ],
+    "Orca with iceball cropped.JPG": [
+      "orca"
+    ],
+    "Struthio camelus portrait Whipsnade Zoo.jpg": [
+      "ostrich"
+    ],
+    "Fischotter,_Lutra_Lutra.JPG": [
+      "otter"
+    ],
+    "Bubo_bubo_sibiricus_-_01.JPG": [
+      "owl"
+    ],
+    "Male_and_female_parakeet_1.jpg": [
+      "parakeet"
+    ],
+    "Rainbow_lorikeet_(Trichoglossus_moluccanus_moluccanus)_Sydney.jpg": [
+      "parrot"
+    ],
+    "Peacock_Plumage.jpg": [
+      "peacock"
+    ],
+    "Pelikan_Walvis_Bay.jpg": [
+      "pelican"
+    ],
+    "Pheasant.jpg": [
+      "pheasant"
+    ],
+    "Pig_farm_Vampula_1.jpg": [
+      "pig"
+    ],
+    "Polar_Bear_-_Alaska_(cropped).jpg": [
+      "polar-bear"
+    ],
+    "MainePorcupine.JPG": [
+      "porcupine"
+    ],
+    "Black-Tailed_Prairie_Dog.jpg": [
+      "prairie-dog"
+    ],
+    "Mantis_(European).jpg": [
+      "praying-mantis"
+    ],
+    "Proboscis_Monkey_in_Borneo.jpg": [
+      "proboscis-monkey"
+    ],
+    "Papageitaucher_Fratercula_arctica.jpg": [
+      "puffin"
+    ],
+    "Python molurus molurus-Portrait.jpg": [
+      "python-genus"
+    ],
+    "Brown_Quail.jpg": [
+      "quail"
+    ],
+    "Oryctolagus_cuniculus_Rcdo.jpg": [
+      "rabbit"
+    ],
+    "Raccoon_in_Central_Park_(35264).jpg": [
+      "raccoon"
+    ],
+    "Nyctereutes.png": [
+      "raccoon-dog"
+    ],
+    "Crotalus_cerastes_mesquite_springs_CA-2.jpg": [
+      "rattlesnake"
+    ],
+    "Raven Portrait by Viola Ware, Mt Baker Snoqualmie National Forest (32106499325).jpg": [
+      "raven"
+    ],
+    "Portrait_of_a_red_fox_in_Rautas_fjällurskog_(cropped).jpg": [
+      "red-fox"
+    ],
+    "Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg": [
+      "red-panda"
+    ],
+    "Reinbukken_på_frisk_grønt_beite._-_panoramio.jpg": [
+      "reindeer"
+    ],
+    "One horned Rhino.jpg": [
+      "rhinoceros"
+    ],
+    "Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg": [
+      "saiga-antelope"
+    ],
+    "SpottedSalamander.jpg": [
+      "salamander"
+    ],
+    "Scorpion_Photograph_By_Shantanu_Kuveskar.jpg": [
+      "scorpion"
+    ],
+    "California_sea_lion_in_La_Jolla_(70568).jpg": [
+      "sea-lion"
+    ],
+    "Chelonia_mydas_is_going_for_the_air_edit.jpg": [
+      "sea-turtle"
+    ],
+    "Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg": [
+      "seahorse"
+    ],
+    "Servalcropped.png": [
+      "serval"
+    ],
+    "Flock_of_sheep.jpg": [
+      "sheep"
+    ],
+    "Sarasvati Comensal Shrimp AdF.jpg": [
+      "shrimp"
+    ],
+    "Bicho-preguiça_3.jpg": [
+      "sloth"
+    ],
+    "Snail.jpg": [
+      "snail"
+    ],
+    "Irbis4.JPG": [
+      "snow-leopard"
+    ],
+    "Tremarctos_ornatus_in_Jardim_Zoológico_de_Curitiba.jpg": [
+      "spectacled-bear"
+    ],
+    "Jumping-spider-WA-eyes.jpg": [
+      "spider"
+    ],
+    "Sepioteuthis_sepioidea_(Caribbean_Reef_Squid).jpg": [
+      "squid"
+    ],
+    "Fox Squirrel Portrait (51841081329).jpg": [
+      "squirrel"
+    ],
+    "Starfishmussel.jpg": [
+      "starfish"
+    ],
+    "Australian Leaf Insect, portrait - Flickr - backpackphotography.jpg": [
+      "stick-insect"
+    ],
+    "Ringed_white_stork.jpg": [
+      "stork"
+    ],
+    "Sun-bear.jpg": [
+      "sun-bear"
+    ],
+    "Mute_Swan_Emsworth2.JPG": [
+      "swan"
+    ],
+    "Tapiridae.png": [
+      "tapir"
+    ],
+    "Lasiodora parahybana, eyes.JPG": [
+      "tarantula"
+    ],
+    "Sarcophilus_harrisii_taranna.jpg": [
+      "tasmanian-devil"
+    ],
+    "Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg": [
+      "tiger"
+    ],
+    "Bombina_bombina_1_(Marek_Szczepanek).jpg": [
+      "toad"
+    ],
+    "A._gigantea_Aldabra_Giant_Tortoise.jpg": [
+      "tortoise"
+    ],
+    "PortraitOfAToucan.jpg": [
+      "toucan"
+    ],
+    "Laubfrosch_cropped.jpg": [
+      "tree-frog"
+    ],
+    "Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg": [
+      "turkey-bird"
+    ],
+    "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg": [
+      "vulture"
+    ],
+    "Red_necked_wallaby444.jpg": [
+      "wallaby"
+    ],
+    "Walrus_in_the_Russian_Arctic_National_Park,_Novaya_Zemlya_2015-2.jpg": [
+      "walrus"
+    ],
+    "Water_buffalo_at_Rinca.jpg": [
+      "water-buffalo"
+    ],
+    "Whale Shark (Rhincodon typus) with open mouth in La Paz, Mexico.jpg": [
+      "whale-shark"
+    ],
+    "Blue_Wildebeest,_Ngorongoro.jpg": [
+      "wildebeest"
+    ],
+    "Eurasian_wolf_2.jpg": [
+      "wolf"
+    ],
+    "Vombatus_ursinus_-Maria_Island_National_Park.jpg": [
+      "wombat"
+    ],
+    "PileatedWoodpeckerFeedingonTree,_crop.jpg": [
+      "woodpecker"
+    ],
+    "Sarlyk_Yak2.jpg": [
+      "yak"
+    ],
+    "Plains_Zebra_Equus_quagga_cropped.jpg": [
+      "zebra"
+    ]
+  }
+}

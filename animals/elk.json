@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "elk",
+  "name": "Elk",
+  "species": {
+    "displayName": "Elk",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The bugle call that echoes through the whole mountain valley.",
+    "shortDescription": "Elk are huge — males can weigh as much as four hundred and fifty kilograms and carry a rack of antlers wider than a person is tall. In autumn, males let out a haunting, echoing bugle call to challenge rivals and impress females. It's one of the most dramatic sounds in any forest. Fun fact: A male elk's antlers can grow as long as one and a half meters and weigh up to eighteen kilograms."
+  },
+  "image": {
+    "primaryFileName": "elk.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/elk.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Elk",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Elk"
+    },
+    "photo": {
+      "attributionName": "Membeth",
+      "licenseName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "commonsFile": "Jasper.Wapiti-Hirsch.P1033401.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Jasper.Wapiti-Hirsch.P1033401.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "elk",
+    "sourcePackIDs": [
+      "meadow-mischief"
+    ]
+  }
+}

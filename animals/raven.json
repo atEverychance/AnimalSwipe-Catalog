@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "raven",
+  "name": "Raven",
+  "species": {
+    "displayName": "Raven",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The big, clever cousin of the crow with a much deeper voice.",
+    "shortDescription": "Ravens are huge — nearly twice the size of a crow — and they're famous for solving puzzles that even some primates struggle with. They plan ahead, deceive each other, and seem to understand what other ravens know and don't know, which is a surprisingly rare mental ability. Fun fact: Ravens have been documented playing — sliding down snowy slopes just for the fun of it."
+  },
+  "image": {
+    "primaryFileName": "raven.jpg",
+    "sourceRelativePath": "Content/images/raven.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Raven",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Raven"
+    },
+    "photo": {
+      "attributionName": "U.S. Forest Service- Pacific Northwest Region",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Raven Portrait by Viola Ware, Mt Baker Snoqualmie National Forest (32106499325).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Raven_Portrait_by_Viola_Ware%2C_Mt_Baker_Snoqualmie_National_Forest_%2832106499325%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "raven",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

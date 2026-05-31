@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "heron",
+  "name": "Heron",
+  "species": {
+    "displayName": "Heron",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Standing completely still at the water's edge, like a statue with patience.",
+    "shortDescription": "Herons are ambush hunters — they stand in shallow water without moving for so long that fish forget they're there, then strike with a lightning-fast stab of their dagger bill. They can stand on one leg in a stream for thirty minutes without twitching. Fun fact: Herons have special neck vertebrae that let them fold their neck into a tight S-shape for a faster, more powerful strike."
+  },
+  "image": {
+    "primaryFileName": "heron.jpg",
+    "sourceRelativePath": "Content/images/heron.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Heron",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Heron"
+    },
+    "photo": {
+      "attributionName": "Urdelusional",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "White Heron Closeup.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:White_Heron_Closeup.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "heron",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

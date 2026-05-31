@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "spectacled-bear",
+  "name": "Spectacled bear",
+  "species": {
+    "displayName": "Spectacled bear",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "South America's only bear, and it lives in the clouds.",
+    "shortDescription": "Spectacled bears are the only bears native to South America, living in the misty cloud forests of the Andes. They get their name from the pale rings of fur around their eyes that look like spectacles — no two bears have the same pattern. Fun fact: Spectacled bears are the real-life inspiration for Paddington Bear, who comes from 'darkest Peru.'"
+  },
+  "image": {
+    "primaryFileName": "spectacled-bear.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/spectacled-bear.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Spectacled_bear",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Spectacled_bear"
+    },
+    "photo": {
+      "attributionName": "Wilfredor",
+      "licenseName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "commonsFile": "Tremarctos_ornatus_in_Jardim_Zoológico_de_Curitiba.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Tremarctos_ornatus_in_Jardim_Zool%C3%B3gico_de_Curitiba.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "large"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "spectacled-bear",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "pheasant",
+  "name": "Pheasant",
+  "species": {
+    "displayName": "Pheasant",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Bursting out of the undergrowth with a heart-stopping clatter of wings.",
+    "shortDescription": "Pheasants spend almost all their time on the ground, scratching through leaves for seeds and beetles, but when startled they launch almost vertically into the air with an explosive wingbeat clatter. Males are spectacular — copper, green, and red with a long striped tail — while females are a quiet speckled brown. Fun fact: A male pheasant's tail can be as long as its whole body."
+  },
+  "image": {
+    "primaryFileName": "pheasant.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/pheasant.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Pheasant",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Pheasant"
+    },
+    "photo": {
+      "attributionName": "gary noon",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Pheasant.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pheasant.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "backyard",
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "pheasant",
+    "sourcePackIDs": [
+      "backyard-band"
+    ]
+  }
+}

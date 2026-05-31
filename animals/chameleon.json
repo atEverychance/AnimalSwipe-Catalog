@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "chameleon",
+  "name": "Chameleon",
+  "species": {
+    "displayName": "Chameleon",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Two eyes pointing different directions and a tongue faster than a sneeze.",
+    "shortDescription": "Chameleons are famous for changing color, but it's not really about camouflage — they shift colors to show their mood, temperature, and what they think of the chameleon next to them. Each eye swivels around completely on its own, so a chameleon can watch the sky for danger while also tracking an insect below. Fun fact: A chameleon's tongue can shoot out in under a hundredth of a second — faster than a human eye can follow."
+  },
+  "image": {
+    "primaryFileName": "chameleon.jpg",
+    "sourceRelativePath": "Content/images/chameleon.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Chameleon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Chameleon"
+    },
+    "photo": {
+      "attributionName": "Shreesha Sharma",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Chameleon closeup shot.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Chameleon_closeup_shot.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "camouflage",
+      "scales"
+    ],
+    "hookArchetypes": [
+      "camouflage"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "chameleon",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

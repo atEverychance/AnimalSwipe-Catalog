@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "komodo-dragon",
+  "name": "Komodo dragon",
+  "species": {
+    "displayName": "Komodo dragon",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The biggest lizard alive — and it doesn't share.",
+    "shortDescription": "Komodo dragons are the world's largest lizards, reaching nearly three meters long and weighing as much as a big dog. They flick their long forked tongue constantly, tasting the air for the scent of food up to ten kilometers away. Fun fact: Komodo dragons can reproduce without a male — females can lay fertile eggs entirely on their own."
+  },
+  "image": {
+    "primaryFileName": "komodo-dragon.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/komodo-dragon.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Komodo_dragon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Komodo_dragon"
+    },
+    "photo": {
+      "attributionName": "James Jolokia (james1203)",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "commonsFile": "202306_Varanus_komodoensis.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:202306_Varanus_komodoensis.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "komodo-dragon",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

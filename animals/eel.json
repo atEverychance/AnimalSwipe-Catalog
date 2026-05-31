@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "eel",
+  "name": "Eel",
+  "species": {
+    "displayName": "Eel",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Slippery, long, and full of surprises.",
+    "shortDescription": "Eels look like snakes but they're fish — they have gills, fins, and scales, though the scales are tiny and embedded in the skin. They slip through cracks in coral and rock that nothing bigger could squeeze through. Fun fact: Electric eels aren't true eels at all, but the ones that are can still give a pretty serious zap — moray eels have a second set of hidden jaws that shoot forward to drag prey deeper into their throat."
+  },
+  "image": {
+    "primaryFileName": "eel.jpg",
+    "sourceRelativePath": "Content/images/eel.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Eel",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Eel"
+    },
+    "photo": {
+      "attributionName": "Kris Mikael Krister",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Giant Moray Eel Gymnothorax Javanicus (223119739).jpeg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Giant_Moray_Eel_Gymnothorax_Javanicus_%28223119739%29.jpeg"
+    }
+  },
+  "tags": {
+    "taxonomy": "fish",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "eel",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "crab",
+  "name": "Crab",
+  "species": {
+    "displayName": "Crab",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Ten legs, two claws, and a habit of going sideways.",
+    "shortDescription": "Crabs walk sideways because of the way their legs are hinged — forward just isn't an option for them. They use their big front claws for fighting, digging, and cracking open food. Fun fact: A crab's shell doesn't grow with it, so it has to wriggle out of the old one and wait for a soft new one to harden around its bigger body."
+  },
+  "image": {
+    "primaryFileName": "crab.jpg",
+    "sourceRelativePath": "Content/images/crab.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Crab",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Crab"
+    },
+    "photo": {
+      "attributionName": "Kevin Cole from Pacific Coast, USA (en:User:Kevinlcole)",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Dungeness crab face closeup.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Dungeness_crab_face_closeup.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "claws",
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "crab",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

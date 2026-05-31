@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "reindeer",
+  "name": "Reindeer",
+  "species": {
+    "displayName": "Reindeer",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Every single one of them can grow antlers. Even the moms.",
+    "shortDescription": "Reindeer are the only deer species where both males and females grow antlers. Their big hollow hooves work like shovels to dig through snow and find the lichen and moss hidden underneath. They make long journeys — migrations — covering thousands of kilometers each year between summer and winter grounds. Fun fact: Reindeer eyes change color from gold in summer to deep blue in winter to help them see in the low Arctic light."
+  },
+  "image": {
+    "primaryFileName": "reindeer.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/reindeer.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Reindeer",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Reindeer"
+    },
+    "photo": {
+      "attributionName": "Are G Nilsen",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Reinbukken_på_frisk_grønt_beite._-_panoramio.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "reindeer",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

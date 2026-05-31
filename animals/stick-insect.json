@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "stick-insect",
+  "name": "Stick insect",
+  "species": {
+    "displayName": "Phasmatodea",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "It's right there on that twig. No, really, look closer.",
+    "shortDescription": "Stick insects are masters of disguise — they look so much like twigs that even when you're staring right at one, your brain keeps telling you it's just part of the plant. They even sway gently in place to mimic a branch moving in the breeze. Fun fact: Some stick insect females can produce eggs without ever mating — and all the babies will be female too."
+  },
+  "image": {
+    "primaryFileName": "stick-insect.jpg",
+    "sourceRelativePath": "Content/images/stick-insect.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Phasmatodea",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Phasmatodea"
+    },
+    "photo": {
+      "attributionName": "Bradley Davis from Kilcullen, Ireland",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Australian Leaf Insect, portrait - Flickr - backpackphotography.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Australian_Leaf_Insect%2C_portrait_-_Flickr_-_backpackphotography.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "camouflage",
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "camouflage",
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "stick-insect",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

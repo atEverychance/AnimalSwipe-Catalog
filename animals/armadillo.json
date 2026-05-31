@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "armadillo",
+  "name": "Armadillo",
+  "species": {
+    "displayName": "Armadillo",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The little tank that curls into a perfect ball.",
+    "shortDescription": "Armadillos are the only mammals with a shell made of bony plates covered in tough skin — natural armor they can roll up tight into a ball so no soft belly shows. They're also champion diggers, able to disappear into the ground in seconds when threatened. Fun fact: Nine-banded armadillos almost always give birth to identical quadruplets — four babies that are perfect copies of each other."
+  },
+  "image": {
+    "primaryFileName": "armadillo.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/armadillo.jpg",
+    "focalPoint": {
+      "x": 0.15,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Armadillo",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Armadillo"
+    },
+    "photo": {
+      "attributionName": "http://www.birdphotos.com",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Nine-banded_Armadillo.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Nine-banded_Armadillo.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "armadillo",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

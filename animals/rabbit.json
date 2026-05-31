@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "rabbit",
+  "name": "Rabbit",
+  "species": {
+    "displayName": "Rabbit",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A binky means the rabbit is so happy it can't hold still.",
+    "shortDescription": "When a rabbit is really, truly happy, it leaps into the air, twists its body mid-jump, and kicks its feet out — a move called a binky. Rabbits also thump their powerful back feet on the ground to send a warning vibration through the earth to other rabbits nearby. Fun fact: Rabbits can rotate their long ears up to two hundred and seventy degrees to aim them at any sound."
+  },
+  "image": {
+    "primaryFileName": "rabbit.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/rabbit.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Rabbit",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Rabbit"
+    },
+    "photo": {
+      "attributionName": "JM Ligero Loarte",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Oryctolagus_cuniculus_Rcdo.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Rcdo.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "cute"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "rabbit",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

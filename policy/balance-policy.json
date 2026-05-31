@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "packSize": 10,
+  "globalTargets": {
+    "taxonomy": {
+      "mammal": 0.35,
+      "bird": 0.20,
+      "reptile": 0.12,
+      "amphibian": 0.08,
+      "fish": 0.10,
+      "invertebrate": 0.15
+    },
+    "habitat": {
+      "forest": 0.18,
+      "ocean": 0.16,
+      "wetland": 0.12,
+      "grassland": 0.14,
+      "desert": 0.10,
+      "mountain": 0.10,
+      "polar": 0.08,
+      "backyard": 0.06,
+      "farm": 0.06
+    }
+  },
+  "packRules": {
+    "maxSameHabitatPerPack": 4,
+    "maxSameTaxonomyPerPack": 5,
+    "minRecognizableAnimalsPerPack": 3,
+    "minSurpriseAnimalsPerPack": 2
+  }
+}

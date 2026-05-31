@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "alpaca",
+  "name": "Alpaca",
+  "species": {
+    "displayName": "Alpaca",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Walking cloud with excellent opinions about being touched.",
+    "shortDescription": "Alpacas live high in the Andes mountains, where it's cold enough to need a serious coat — and their wool is one of the warmest, softest materials on Earth. They come in nearly twenty natural colors, from snowy white to deep chocolate brown. Fun fact: Alpacas hum to each other constantly — it's how they check in with the herd."
+  },
+  "image": {
+    "primaryFileName": "alpaca.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/alpaca.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Alpaca",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Alpaca"
+    },
+    "photo": {
+      "attributionName": "KKPCW",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Alpaca_in_Higashiyama_Zoo_-_1.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Alpaca_in_Higashiyama_Zoo_-_1.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "grassland",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "alpaca",
+    "sourcePackIDs": [
+      "hoofed-horizons"
+    ]
+  }
+}

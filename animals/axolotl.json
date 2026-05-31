@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "axolotl",
+  "name": "Axolotl",
+  "species": {
+    "displayName": "Axolotl",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The water dragon that never quite grows up.",
+    "shortDescription": "Axolotls keep their feathery pink gills on the outside of their heads for their whole lives, waving gently in the water like tiny fluttering fans. Most amphibians go through a tadpole stage and then transform into adults, but axolotls stay in their larval form forever — in the wild they only live in one lake in Mexico. Fun fact: An axolotl can regrow a lost limb, gill, eye, and even chunks of its own heart and brain."
+  },
+  "image": {
+    "primaryFileName": "axolotl.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/axolotl.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Axolotl",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Axolotl"
+    },
+    "photo": {
+      "attributionName": "LoKiLeCh",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Axolotl_ganz.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "weird"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "axolotl",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

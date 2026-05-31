@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "meadow-mischief",
+  "name": "Meadow Mischief",
+  "subtitle": "Sprinters, sniffers, and sneaky scamps",
+  "description": "Fast grazers and crafty land mammals from fields and forests.",
+  "kind": "theme",
+  "sortOrder": 30,
+  "coverAnimalID": "deer",
+  "symbolName": "leaf.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 1,
+    "weight": 2,
+    "group": "forest-floor"
+  },
+  "animalIDs": [
+    "deer",
+    "elk",
+    "antelope",
+    "gazelle",
+    "wildebeest",
+    "hyena",
+    "meerkat",
+    "ferret",
+    "chinchilla",
+    "raccoon"
+  ]
+}

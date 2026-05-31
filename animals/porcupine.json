@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "porcupine",
+  "name": "Porcupine",
+  "species": {
+    "displayName": "Porcupine",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Every single one of those thirty thousand quills is a warning.",
+    "shortDescription": "Porcupines are covered in up to thirty thousand quills that sit loosely in their skin — when a predator gets too close, the quills detach on contact and are nearly impossible to pull out because they have tiny backward-facing barbs. Porcupines can't throw them, but they don't have to. Fun fact: A porcupine rattles its quills together to make a loud warning buzz before any quills are needed."
+  },
+  "image": {
+    "primaryFileName": "porcupine.jpg",
+    "sourceRelativePath": "Content/images/porcupine.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Porcupine",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Porcupine"
+    },
+    "photo": {
+      "attributionName": "Needsmoreritalin (talk)",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "MainePorcupine.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:MainePorcupine.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "porcupine",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

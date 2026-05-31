@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "whale-shark",
+  "name": "Whale shark",
+  "species": {
+    "displayName": "Whale shark",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The bus-sized fish that eats like a whale and harms nothing.",
+    "shortDescription": "Whale sharks are the largest fish in the ocean — they can grow longer than a school bus — but they feed by swimming slowly with their enormous mouth open, filtering tiny plankton and fish eggs out of the water. Despite their size, they're gentle enough that divers sometimes hitch a ride. Fun fact: Each whale shark has a unique pattern of spots, like a fingerprint — scientists use photo ID to track individuals around the world."
+  },
+  "image": {
+    "primaryFileName": "whale-shark.jpg",
+    "sourceRelativePath": "Content/images/whale-shark.jpg",
+    "focalPoint": {
+      "x": 0.18,
+      "y": 0.4
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Whale_shark",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Whale_shark"
+    },
+    "photo": {
+      "attributionName": "Matthew T Rader",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Whale Shark (Rhincodon typus) with open mouth in La Paz, Mexico.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Whale_Shark_%28Rhincodon_typus%29_with_open_mouth_in_La_Paz%2C_Mexico.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "giant"
+    ],
+    "hookArchetypes": [
+      "giant"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "whale-shark",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

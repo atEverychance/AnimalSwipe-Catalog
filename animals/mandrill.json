@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "mandrill",
+  "name": "Mandrill",
+  "species": {
+    "displayName": "Mandrill",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The most colourful face in the whole primate family.",
+    "shortDescription": "Mandrills are the world's largest monkeys, and the males have brilliant blue-and-red skin on their face and matching coloured patches on their bottom — not paint, just actual skin. The brighter and more intense the colours, the higher that male's rank in the group. They live in huge groups called hordes in Central African rainforests, sometimes with over six hundred individuals moving together through the trees. Fun fact: A mandrill's cheek pouches can hold almost as much food as its stomach."
+  },
+  "image": {
+    "primaryFileName": "mandrill.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mandrill.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Mandrill",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Mandrill"
+    },
+    "photo": {
+      "attributionName": "Katma0601",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Mandrill_Albert_September_2015_Zoo_Berlin_(2).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "mandrill",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

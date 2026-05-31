@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "moth",
+  "name": "Moth",
+  "species": {
+    "displayName": "Moth",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Night flier with a nose better than any dog's.",
+    "shortDescription": "Moths are mostly nocturnal, doing their flying after dark while butterflies work the daytime shift. Male moths have spectacular feathery antennae that can detect a single molecule of a female's scent from many kilometers away. Fun fact: Some moth caterpillars are the source of silk — a single silkworm cocoon can be unwound into a thread nearly a kilometer long."
+  },
+  "image": {
+    "primaryFileName": "moth.jpg",
+    "sourceRelativePath": "Content/images/moth.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Moth",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Moth"
+    },
+    "photo": {
+      "attributionName": "Carlos Delgado",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Autographa_gamma_en_Trachelospermum_jasminoides_-_02.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Autographa_gamma_en_Trachelospermum_jasminoides_-_02.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "moth",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

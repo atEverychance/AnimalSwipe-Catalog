@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "manta-ray",
+  "name": "Manta ray",
+  "species": {
+    "displayName": "Manta ray",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Flying through water on wings wider than a car.",
+    "shortDescription": "Manta rays glide through the ocean by flapping their huge triangular fins like wings — they look more like they're flying than swimming. Their wingspan can reach seven meters, and they sometimes leap completely out of the water and crash back in with an enormous splash. Fun fact: Manta rays have the largest brain of any fish — they can recognize themselves in a mirror, a sign of rare self-awareness."
+  },
+  "image": {
+    "primaryFileName": "manta-ray.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/manta-ray.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Manta_ray",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Manta_ray"
+    },
+    "photo": {
+      "attributionName": "Shiyam ElkCloner",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG"
+    }
+  },
+  "tags": {
+    "taxonomy": "fish",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "manta-ray",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

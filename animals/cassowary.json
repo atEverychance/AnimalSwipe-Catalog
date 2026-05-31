@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "cassowary",
+  "name": "Cassowary",
+  "species": {
+    "displayName": "Cassowary",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A living dinosaur that really does not want to be bothered.",
+    "shortDescription": "Cassowaries are the third-tallest birds on Earth and they wear a bony helmet called a casque on top of their head. Nobody is completely sure what it's for — it might help push through thick undergrowth, or amplify the low booming calls they use in the forest. What everyone agrees on is that their middle toe carries a dagger-like claw almost as long as your hand. Fun fact: The cassowary is considered the world's most dangerous bird — it can kick with enough force to break bones."
+  },
+  "image": {
+    "primaryFileName": "cassowary.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/cassowary.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Cassowary",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Cassowary"
+    },
+    "photo": {
+      "attributionName": "PaleoNeolitic (montage creator) BS Thurner Hof Kora27 Martin Sordilla",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Cassowary_Diversity.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Cassowary_Diversity.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Oceania"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "cassowary",
+    "sourcePackIDs": [
+      "wild-walkers"
+    ]
+  }
+}

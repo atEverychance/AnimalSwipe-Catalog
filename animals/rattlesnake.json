@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "rattlesnake",
+  "name": "Rattlesnake",
+  "species": {
+    "displayName": "Rattlesnake",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The shaker that's really just asking you to back off.",
+    "shortDescription": "Rattlesnakes shake the rattle at the end of their tail as a warning — they'd much rather scare you away than bite you, because biting wastes precious venom. Their rattle is made of interlocked hollow keratin rings that click against each other when shaken. Fun fact: A new rattle segment grows every time the rattlesnake sheds its skin — but the rattle breaks off over time, so you can't count the rings to find the age."
+  },
+  "image": {
+    "primaryFileName": "rattlesnake.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/rattlesnake.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Rattlesnake",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Rattlesnake"
+    },
+    "photo": {
+      "attributionName": "derivative work: Victorrocha (talk · contribs) Crotalus_cerastes_mesquite_springs_CA.JPG: Tigerhawkvok (talk · contribs)",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Crotalus_cerastes_mesquite_springs_CA-2.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Crotalus_cerastes_mesquite_springs_CA-2.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "rattlesnake",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

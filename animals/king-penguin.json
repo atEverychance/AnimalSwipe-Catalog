@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "king-penguin",
+  "name": "King penguin",
+  "species": {
+    "displayName": "King penguin",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Tall, orange-patched, and able to dive deeper than a skyscraper is tall.",
+    "shortDescription": "King penguins are the second-tallest penguins, with bright orange and yellow patches on their necks like a painted scarf. They dive incredibly deep — down to three hundred meters — hunting fish and squid in the cold Southern Ocean. A king penguin chick spends almost a whole year growing in its brown fluffy coat before it's old enough to swim. Fun fact: King penguins can dive deeper than most submarines go."
+  },
+  "image": {
+    "primaryFileName": "king-penguin.jpg",
+    "sourceRelativePath": "Content/images/king-penguin.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/King_penguin",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/King_penguin"
+    },
+    "photo": {
+      "attributionName": "Godot13",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "SGI-2016-South_Georgia_(Fortuna_Bay)–King_penguin_(Aptenodytes_patagonicus)_04.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "polar",
+      "wetland",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "king-penguin",
+    "sourcePackIDs": [
+      "feathered-fashionistas"
+    ]
+  }
+}

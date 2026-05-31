@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "grasshopper",
+  "name": "Grasshopper",
+  "species": {
+    "displayName": "Grasshopper",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Spring-loaded legs and a song in its knees.",
+    "shortDescription": "Grasshoppers don't have ears on their heads — they hear through thin membranes on their abdomens, right near their hind legs. Those hind legs work like loaded springs, letting them jump twenty times their own body length in an instant. Fun fact: Grasshoppers make their chirping sound by rubbing a row of tiny pegs on their back leg against the edge of a wing, like a fingernail running along a comb."
+  },
+  "image": {
+    "primaryFileName": "grasshopper.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/grasshopper.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Grasshopper",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Grasshopper"
+    },
+    "photo": {
+      "attributionName": "http://www.birdphotos.com",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "American_Bird_Grasshopper.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:American_Bird_Grasshopper.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "backyard",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "grasshopper",
+    "sourcePackIDs": [
+      "bug-beat"
+    ]
+  }
+}

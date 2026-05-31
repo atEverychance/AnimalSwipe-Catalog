@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "capybara",
+  "name": "Capybara",
+  "species": {
+    "displayName": "Capybara",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The world's biggest rodent, and everyone's favourite chill friend.",
+    "shortDescription": "Capybaras are the largest rodents on Earth — basically a guinea pig the size of a Labrador — and they are so calm and sociable that birds, monkeys, and even caimans have been photographed sitting on them unbothered. They love water, spend most hot afternoons half-submerged, and can hold their breath for five minutes. Fun fact: Capybaras have slightly webbed feet that make them surprisingly fast swimmers."
+  },
+  "image": {
+    "primaryFileName": "capybara.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/capybara.jpg",
+    "focalPoint": {
+      "x": 0.26,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Capybara",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Capybara"
+    },
+    "photo": {
+      "attributionName": "Giles Laurent",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Capybaracropped.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Capybaracropped.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "capybara",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "condor",
+  "name": "Condor",
+  "species": {
+    "displayName": "Condor",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The biggest flying bird in North America, and it soars for hours.",
+    "shortDescription": "California condors have a wingspan wider than a doorway — nearly three meters — and they glide on air currents so efficiently they can travel hundreds of kilometers without flapping once. They almost went extinct, but people worked very hard to bring them back. Fun fact: Condors can live for sixty years, making them one of the longest-lived birds on Earth."
+  },
+  "image": {
+    "primaryFileName": "condor.jpg",
+    "sourceRelativePath": "Content/images/condor.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Condor",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Condor"
+    },
+    "photo": {
+      "attributionName": "Michael Gäbler",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Vultur gryphus head (Linnaeus, 1758).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Vultur_gryphus_head_%28Linnaeus%2C_1758%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "condor",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

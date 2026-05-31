@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "bald-eagle",
+  "name": "Bald eagle",
+  "species": {
+    "displayName": "Bald eagle",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The white-headed fish hawk of North America who isn't actually bald at all.",
+    "shortDescription": "The bald eagle's name comes from an old English word meaning white-headed — piebald — not from having no feathers. Juveniles are brown all over and don't grow that striking white head and tail until they're about five years old. Bald eagles are spectacular fishers, swooping low and snatching fish from the water with their talons while barely getting their feathers wet. Fun fact: A bald eagle's nest can weigh over a tonne after years of added sticks, moss, and grass."
+  },
+  "image": {
+    "primaryFileName": "bald-eagle.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/bald-eagle.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Bald_eagle",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Bald_eagle"
+    },
+    "photo": {
+      "attributionName": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "bald-eagle",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

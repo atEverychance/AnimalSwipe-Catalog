@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "leopard",
+  "name": "Leopard",
+  "species": {
+    "displayName": "Leopard",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The spotted climber who hides dinner in a tree.",
+    "shortDescription": "Leopards are incredibly strong — strong enough to drag an animal bigger than themselves straight up a tree trunk. They do this to keep other scavengers like hyenas and lions from stealing their meal. Fun fact: A leopard's spots aren't solid circles — they're clusters of smaller dots called rosettes."
+  },
+  "image": {
+    "primaryFileName": "leopard.jpg",
+    "sourceRelativePath": "Content/images/leopard.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Leopard",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Leopard"
+    },
+    "photo": {
+      "attributionName": "Sumeet Moghe",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "African_leopard_male_(cropped).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:African_leopard_male_%28cropped%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "spots"
+    ],
+    "hookArchetypes": [
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "leopard",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "sheep",
+  "name": "Sheep",
+  "species": {
+    "displayName": "Sheep",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Woolly, sharp-eyed, and surprisingly good at recognizing faces.",
+    "shortDescription": "Sheep can recognize up to fifty different sheep faces — and remember them for years. They also recognize human faces and can tell when someone looks happy versus grumpy from a photograph. Their wool grows continuously and must be shorn, or it can grow so heavy it makes it hard for them to move. Fun fact: Sheep have excellent peripheral vision and can see nearly all the way around their head without turning — but they have a blind spot directly behind them."
+  },
+  "image": {
+    "primaryFileName": "sheep.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/sheep.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Sheep",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Sheep"
+    },
+    "photo": {
+      "attributionName": "Keith Weller",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Flock_of_sheep.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "sheep",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "fin-frenzy",
+  "name": "Chomp Squad",
+  "subtitle": "Crocs, sharks, and seriously big teeth",
+  "description": "Snappy hunters from swamp to sea.",
+  "kind": "habitat",
+  "sortOrder": 110,
+  "coverAnimalID": "crocodile",
+  "symbolName": "fish.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 3,
+    "weight": 3,
+    "group": "sharks-rays"
+  },
+  "animalIDs": [
+    "crocodile",
+    "alligator",
+    "king-cobra",
+    "python-genus",
+    "rattlesnake",
+    "great-white-shark",
+    "hammerhead-shark",
+    "whale-shark",
+    "manta-ray",
+    "frog"
+  ]
+}

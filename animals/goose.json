@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "goose",
+  "name": "Goose",
+  "species": {
+    "displayName": "Goose",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Honking loudly and not apologizing about it.",
+    "shortDescription": "Geese are loud, confident, and surprisingly brave — they'll stand their ground against animals much bigger than themselves if they think their family is threatened. When geese fly long distances together, they take turns at the front of the V-shape because the leader works the hardest and needs a rest. Fun fact: Flying in V-formation saves every goose behind the leader about seventy percent of its energy."
+  },
+  "image": {
+    "primaryFileName": "goose.jpg",
+    "sourceRelativePath": "Content/images/goose.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Goose",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Goose"
+    },
+    "photo": {
+      "attributionName": "Piotr Kuczynski",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Anser_anser_1_(Piotr_Kuczynski)_(cropped).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Anser_anser_1_%28Piotr_Kuczynski%29_%28cropped%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "mountain",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "goose",
+    "sourcePackIDs": [
+      "sky-sentinels"
+    ]
+  }
+}

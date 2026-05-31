@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "caterpillar",
+  "name": "Caterpillar",
+  "species": {
+    "displayName": "Caterpillar",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A tiny leaf-eating machine with a wild transformation ahead.",
+    "shortDescription": "Caterpillars have one job: eat. They chew through leaves almost constantly, growing so fast they might shed their skin several times before becoming a butterfly or moth. Inside the chrysalis, their entire body literally dissolves into a kind of living soup before rebuilding itself completely. Fun fact: Some caterpillars have fake eyespots on their bodies to look like much bigger, scarier animals to frighten away birds."
+  },
+  "image": {
+    "primaryFileName": "caterpillar.jpg",
+    "sourceRelativePath": "Content/images/caterpillar.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Caterpillar",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Caterpillar"
+    },
+    "photo": {
+      "attributionName": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "Pasture day moth caterpillar closeup.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pasture_day_moth_caterpillar_closeup.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "invertebrate",
+    "habitats": [
+      "forest",
+      "backyard"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "tiny"
+    ],
+    "hookArchetypes": [
+      "tiny"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "caterpillar",
+    "sourcePackIDs": [
+      "micro-monsters"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "iguana",
+  "name": "Iguana",
+  "species": {
+    "displayName": "Iguana",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A real-life dragon sunbathing in the treetops.",
+    "shortDescription": "Green iguanas can grow longer than a person is tall, mostly thanks to their whip-like tail. They're expert tree-climbers and, when something scares them, they'll drop from a branch straight into the water below — and swim away without a second thought. Fun fact: Iguanas can detach their tail when grabbed and grow a new one in its place."
+  },
+  "image": {
+    "primaryFileName": "iguana.jpg",
+    "sourceRelativePath": "Content/images/iguana.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Iguana",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Iguana"
+    },
+    "photo": {
+      "attributionName": "Matthias",
+      "licenseName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "commonsFile": "Green Iguana Portrait (120776875).jpeg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Green_Iguana_Portrait_%28120776875%29.jpeg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "iguana",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

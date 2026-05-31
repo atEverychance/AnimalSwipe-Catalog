@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "mountain-goat",
+  "name": "Mountain goat",
+  "species": {
+    "displayName": "Mountain goat",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "North America's calmest cliff-dweller.",
+    "shortDescription": "Mountain goats are not actually true goats — they're more closely related to antelopes — but they live on cliffs so steep that no predator bothers to follow them. Their hoof pads are almost rubbery, gripping rock the way a climbing shoe grips a wall, and a notch in each hoof acts like a brake to stop them sliding backwards. Fun fact: Mountain goats can stand on a ledge the width of a credit card without flinching."
+  },
+  "image": {
+    "primaryFileName": "mountain-goat.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/mountain-goat.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Mountain_goat",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Mountain_goat"
+    },
+    "photo": {
+      "attributionName": "Adam Schneider",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Mountain_Goat,_Enchantments_Basin.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Mountain_Goat%2C_Enchantments_Basin.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "mountain",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "horns"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "mountain-goat",
+    "sourcePackIDs": [
+      "mountain-mob"
+    ]
+  }
+}

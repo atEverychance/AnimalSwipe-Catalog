@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "gecko",
+  "name": "Gecko",
+  "species": {
+    "displayName": "Gecko",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Ceiling-walker, wall-runner, and the loudest little lizard in the room.",
+    "shortDescription": "Geckos can run straight up a glass wall and hang from the ceiling using millions of microscopic hair-like structures on their toe pads that grip surfaces at the molecular level. Many geckos are nocturnal and have huge eyes with vertical slit pupils that let them see in near darkness. Fun fact: Geckos are the only lizards with a real voice — many species chirp, click, and bark to talk to each other."
+  },
+  "image": {
+    "primaryFileName": "gecko.jpg",
+    "sourceRelativePath": "Content/images/gecko.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Gecko",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Gecko"
+    },
+    "photo": {
+      "attributionName": "Muhammad Mahdi Karim",
+      "licenseName": "GFDL 1.2",
+      "licenseURL": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "commonsFile": "Dwarf yellow-headed gecko portrait.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Dwarf_yellow-headed_gecko_portrait.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "gecko",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

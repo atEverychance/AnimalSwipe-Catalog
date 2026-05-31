@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "reef-rainbow",
+  "name": "Reef Rainbow",
+  "subtitle": "Color-pop creatures under the waves",
+  "description": "Coral-reef and open-water critters with wild shapes and colors.",
+  "kind": "habitat",
+  "sortOrder": 120,
+  "coverAnimalID": "seahorse",
+  "symbolName": "waveform.path.ecg.rectangle.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 3,
+    "weight": 2,
+    "group": "reef-life"
+  },
+  "animalIDs": [
+    "seahorse",
+    "octopus",
+    "squid",
+    "jellyfish",
+    "starfish",
+    "crab",
+    "lobster",
+    "shrimp",
+    "eel",
+    "clownfish"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "civet",
+  "name": "Civet",
+  "species": {
+    "displayName": "Civet",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Nighttime prowler with a scent gland and a love of coffee.",
+    "shortDescription": "Civets are cat-like mammals from Africa and Asia with spotted coats, ringed tails, and very active scent glands — they smear a thick musky paste called civetone onto branches and rocks to mark their territory. The world's most expensive coffee is made from beans that have passed through a civet's digestive system. Fun fact: Civets are not cats at all — they're more closely related to mongooses and hyenas."
+  },
+  "image": {
+    "primaryFileName": "civet.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/civet.jpg",
+    "focalPoint": {
+      "x": 0.83,
+      "y": 0.4
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Civet",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Civet"
+    },
+    "photo": {
+      "attributionName": "Николай Усик / http://paradoxusik.livejournal.com/",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Civettictis_civetta_12.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Civettictis_civetta_12.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "civet",
+    "sourcePackIDs": [
+      "mystery-mammals"
+    ]
+  }
+}

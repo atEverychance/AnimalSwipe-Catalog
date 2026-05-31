@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "duck",
+  "name": "Duck",
+  "species": {
+    "displayName": "Duck",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Dabbling and dipping with that bright bill pointed straight down.",
+    "shortDescription": "Dabbling ducks tip forward in the water, tails pointing at the sky, using their flat bills to filter seeds and tiny creatures from muddy water. That bill isn't just for scooping — it's full of comb-like ridges called lamellae that strain out exactly what the duck wants to eat. Fun fact: A duck's feathers are completely waterproof because they produce a special oil that coats each one."
+  },
+  "image": {
+    "primaryFileName": "duck.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/duck.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Duck",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Duck"
+    },
+    "photo": {
+      "attributionName": "Mdf",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Bucephala-albeola-010.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bucephala-albeola-010.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "duck",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}

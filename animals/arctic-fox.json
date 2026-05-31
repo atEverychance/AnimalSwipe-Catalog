@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "arctic-fox",
+  "name": "Arctic fox",
+  "species": {
+    "displayName": "Arctic fox",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "White as a snowstorm, quick as a heartbeat.",
+    "shortDescription": "Arctic foxes have the warmest fur of any mammal — they don't even start shivering until the temperature drops to minus seventy degrees. In summer their coat turns brown or grey so they blend into the tundra rocks, then flips back to brilliant white for winter snow. Fun fact: Arctic foxes follow polar bears to scavenge leftover scraps from their kills."
+  },
+  "image": {
+    "primaryFileName": "arctic-fox.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/arctic-fox.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Arctic_fox",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Arctic_fox"
+    },
+    "photo": {
+      "attributionName": "Jonathen Pie https://unsplash.com/@r3dmax",
+      "licenseName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "commonsFile": "Vulpes_lagopus_in_Iceland_(cropped_3).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "polar",
+      "forest"
+    ],
+    "regions": [
+      "Arctic"
+    ],
+    "traits": [
+      "fluffy"
+    ],
+    "hookArchetypes": [
+      "cute"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "arctic-fox",
+    "sourcePackIDs": [
+      "frost-and-fluff"
+    ]
+  }
+}

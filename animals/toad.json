@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "toad",
+  "name": "Toad",
+  "species": {
+    "displayName": "Toad",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Bumpy, patient, and very happy when it rains.",
+    "shortDescription": "Toads look a lot like frogs but their skin is drier and bumpier, and instead of leaping, they tend to take short hops and trundle across the ground. They spend most of the day buried under leaf litter or soil, then come out at dusk to hunt. Fun fact: The bumps on a toad's skin aren't warts — but they do ooze a foul-tasting liquid that makes most predators spit them straight out."
+  },
+  "image": {
+    "primaryFileName": "toad.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/toad.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Toad",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Toad"
+    },
+    "photo": {
+      "attributionName": "Marek Szczepanek",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "commonsFile": "Bombina_bombina_1_(Marek_Szczepanek).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bombina_bombina_1_%28Marek_Szczepanek%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "wetland",
+      "forest"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "amphibian"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "toad",
+    "sourcePackIDs": [
+      "scale-squad"
+    ]
+  }
+}

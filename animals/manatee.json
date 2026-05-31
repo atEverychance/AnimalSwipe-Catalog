@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "manatee",
+  "name": "Manatee",
+  "species": {
+    "displayName": "Manatee",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The ocean's slowest, gentlest giant, grazing like an underwater cow.",
+    "shortDescription": "Manatees drift through warm, shallow water, munching on sea grasses for up to eight hours a day. They have no natural predators, so they take their time — surfacing every few minutes to breathe, then sinking back down to graze. Their closest relatives on land are actually elephants. Fun fact: Manatees replace their teeth continuously — old worn-out teeth fall out at the back and new ones grow in from the front, like a slow-moving conveyor belt."
+  },
+  "image": {
+    "primaryFileName": "manatee.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/manatee.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Manatee",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Manatee"
+    },
+    "photo": {
+      "attributionName": "Ramos Keith, U.S. Fish and Wildlife Service",
+      "licenseName": "Public domain",
+      "licenseURL": null,
+      "commonsFile": "Underwater_photography_on_endangered_mammal_manatee.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Underwater_photography_on_endangered_mammal_manatee.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "manatee",
+    "sourcePackIDs": [
+      "splash-superstars"
+    ]
+  }
+}

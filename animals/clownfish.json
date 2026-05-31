@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "clownfish",
+  "name": "Clownfish",
+  "species": {
+    "displayName": "Clownfish",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "The brave little fish that lives inside a sea of stingers.",
+    "shortDescription": "Clownfish live inside sea anemones whose tentacles would sting any other fish to death — but clownfish are covered in a special mucus that tricks the anemone into thinking they're part of itself. They keep the anemone clean by eating parasites and debris, and the anemone keeps predators away. Fun fact: All clownfish are born male — the biggest one in a group can turn female whenever the group needs a female."
+  },
+  "image": {
+    "primaryFileName": "clownfish.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/clownfish.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Clownfish",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Clownfish"
+    },
+    "photo": {
+      "attributionName": "Nick Hobgood",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "fish",
+    "habitats": [
+      "ocean"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "scales"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "clownfish",
+    "sourcePackIDs": [
+      "reef-rainbow"
+    ]
+  }
+}

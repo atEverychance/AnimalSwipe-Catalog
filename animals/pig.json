@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "pig",
+  "name": "Pig",
+  "species": {
+    "displayName": "Pig",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Rolling in mud isn't being dirty — it's being brilliant.",
+    "shortDescription": "Pigs don't sweat the way we do, so on a hot day they wade straight into the nearest mud puddle and stay there. That mud dries into a cool, crispy shell that keeps them comfortable for hours. They're also shockingly clever — pigs can learn to play simple video games and figure out puzzles faster than dogs. Fun fact: A pig's nose is so sensitive it can sniff out food buried thirty centimeters underground."
+  },
+  "image": {
+    "primaryFileName": "pig.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/pig.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Pig",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Pig"
+    },
+    "photo": {
+      "attributionName": "kallerna",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Pig_farm_Vampula_1.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_1.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "farm"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "pig",
+    "sourcePackIDs": [
+      "farm-friends"
+    ]
+  }
+}

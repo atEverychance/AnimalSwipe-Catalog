@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "hoofed-horizons",
+  "name": "Hoofed Horizons",
+  "subtitle": "Big grazers and open plains",
+  "description": "Large hoofed wanderers from grasslands and mountain edges.",
+  "kind": "habitat",
+  "sortOrder": 20,
+  "coverAnimalID": "hippopotamus",
+  "symbolName": "sun.max.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 1,
+    "weight": 3,
+    "group": "hoofed-herd"
+  },
+  "animalIDs": [
+    "hippopotamus",
+    "rhinoceros",
+    "okapi",
+    "camel",
+    "llama",
+    "alpaca",
+    "bison",
+    "water-buffalo",
+    "moose",
+    "reindeer"
+  ]
+}

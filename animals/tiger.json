@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "tiger",
+  "name": "Tiger",
+  "species": {
+    "displayName": "Tiger",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "A striped shadow that moves like silence through the grass.",
+    "shortDescription": "Tigers wear their stripes on their skin, not just their fur — shave a tiger and the pattern is still there. They ghost through tall grass with every footfall placed so carefully you could pass one at arm's length and never know. Fun fact: No two tigers share the same stripe pattern, which means every tiger on Earth is wearing something completely one-of-a-kind."
+  },
+  "image": {
+    "primaryFileName": "tiger.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/tiger.jpg",
+    "focalPoint": {
+      "x": 0.24,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Tiger",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Tiger"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "Asia"
+    ],
+    "traits": [
+      "stripes"
+    ],
+    "hookArchetypes": [
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "tiger",
+    "sourcePackIDs": [
+      "starter"
+    ]
+  }
+}

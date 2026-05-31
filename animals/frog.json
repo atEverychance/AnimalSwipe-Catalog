@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "frog",
+  "name": "Frog",
+  "species": {
+    "displayName": "Frog",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Spring peeper, puddle jumper, creature of two very different worlds.",
+    "shortDescription": "Frogs start life as fish-like tadpoles breathing through gills underwater, then grow legs, lose their tail, and hop onto land — all in a few weeks. Their smooth moist skin can absorb water and even oxygen directly, so they never really have to drink the usual way. Fun fact: The glass frog has nearly transparent skin on its belly — you can see its beating heart right through it."
+  },
+  "image": {
+    "primaryFileName": "frog.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/frog.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Frog",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Frog"
+    },
+    "photo": {
+      "attributionName": "Charlie Jackson",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Red-eyed_Leaf_Frog_(49661076226).jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Red-eyed_Leaf_Frog_%2849661076226%29.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "wetland",
+      "forest",
+      "desert"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "amphibian"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "frog",
+    "sourcePackIDs": [
+      "fin-frenzy"
+    ]
+  }
+}

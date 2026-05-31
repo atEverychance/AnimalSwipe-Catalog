@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "hamster",
+  "name": "Hamster",
+  "species": {
+    "displayName": "Hamster",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Cheeks like suitcases, burrow like a five-room apartment.",
+    "shortDescription": "Wild hamsters are surprisingly serious engineers — they dig burrows with a sleeping room, a pantry, a bathroom corner, and multiple escape tunnels. Their stretchy cheek pouches can hold so much food that a fully loaded hamster looks almost too round to walk. Fun fact: A Syrian hamster's cheek pouches extend all the way back to its shoulders when completely stuffed."
+  },
+  "image": {
+    "primaryFileName": "hamster.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/hamster.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Hamster",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Hamster"
+    },
+    "photo": {
+      "attributionName": "Charles J. Sharp",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "commonsFile": "European_hamster_(Cricetus_cricetus)_Meidling.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:European_hamster_%28Cricetus_cricetus%29_Meidling.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest",
+      "grassland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "mammal"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "hamster",
+    "sourcePackIDs": [
+      "tiny-trailblazers"
+    ]
+  }
+}

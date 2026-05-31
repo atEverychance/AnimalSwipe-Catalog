@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "woodpecker",
+  "name": "Woodpecker",
+  "species": {
+    "displayName": "Woodpecker",
+    "scientificName": null
+  },
+  "copy": {
+    "caption": "Hammering into a tree trunk like it's got all day and the tree doesn't.",
+    "shortDescription": "Woodpeckers drum into trees up to twenty times per second to find insects, carve out nest holes, or send messages to other woodpeckers. Their skulls are built with special shock-absorbing bones and a brain that fits tightly inside its case — no sloshing around on impact. Fun fact: A woodpecker's tongue is so long it wraps around the inside of its skull when not in use."
+  },
+  "image": {
+    "primaryFileName": "woodpecker.jpg",
+    "sourceRelativePath": "AnimalSwipe/Resources/AnimalPhotos/woodpecker.jpg",
+    "focalPoint": null,
+    "focalPointGrandfathered": true
+  },
+  "provenance": {
+    "origin": "bundledPack",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Woodpecker",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Woodpecker"
+    },
+    "photo": {
+      "attributionName": "Joshlaymon",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "PileatedWoodpeckerFeedingonTree,_crop.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:PileatedWoodpeckerFeedingonTree%2C_crop.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "bird",
+    "habitats": [
+      "wetland"
+    ],
+    "regions": [
+      "global"
+    ],
+    "traits": [
+      "wings"
+    ],
+    "hookArchetypes": [
+      "weird"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "approvedMigrated",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "migration-equivalence",
+    "reviewedAt": "2026-05-31T13:47:56Z"
+  },
+  "migration": {
+    "sourceAnimalRecordID": "woodpecker",
+    "sourcePackIDs": [
+      "wetland-wings"
+    ]
+  }
+}
