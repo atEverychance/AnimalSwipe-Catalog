@@ -1,0 +1,1081 @@
+{
+  "schemaVersion": 1,
+  "theme": "forest",
+  "requestedCount": 20,
+  "returnedCount": 20,
+  "existingCatalogRead": {
+    "animalCount": 200,
+    "packCount": 20
+  },
+  "sourceMode": "live",
+  "sourceDiagnostics": {
+    "sourceAdapters": [
+      {
+        "name": "Wikidata API",
+        "kind": "trusted-structured-source",
+        "hitCount": 20,
+        "entityCount": 20
+      },
+      {
+        "name": "local seed queue",
+        "kind": "curated-fill",
+        "hitCount": 56
+      }
+    ],
+    "warnings": [],
+    "queries": [
+      "forest frog",
+      "forest lizard",
+      "forest snake",
+      "forest bird",
+      "forest beetle",
+      "forest moth",
+      "forest mammal",
+      "forest fish",
+      "forest animal species",
+      "rainforest animal species"
+    ]
+  },
+  "duplicateCandidatesFiltered": [],
+  "scoringFormula": "balance_gap + novelty_gap + kid_recognition + visual_distinctiveness + source_quality + image_availability + theme_bonus - duplicate_similarity - recent_drop_similarity - overrepresented_habitat - scary_or_gory_risk - licensing_complexity",
+  "candidates": [
+    {
+      "candidateID": "panther-chameleon",
+      "name": "Panther Chameleon",
+      "score": 39.46,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 2.21,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 10.0,
+        "visual_distinctiveness_score": 9.8,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.6,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "reptile",
+        "habitats": [
+          "forest"
+        ],
+        "regions": [
+          "Africa"
+        ],
+        "traits": [
+          "bright-color",
+          "scales",
+          "camouflage"
+        ],
+        "hookArchetypes": [
+          "colorful",
+          "camouflage"
+        ]
+      },
+      "facts": [
+        "can show brilliant colors",
+        "moves each eye separately",
+        "uses a long tongue to catch insects"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "red-eyed-tree-frog",
+      "name": "Red-eyed Tree Frog",
+      "score": 38.0,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 1.87,
+        "novelty_gap_score": 2.43,
+        "kid_recognition_score": 10.0,
+        "visual_distinctiveness_score": 9.8,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.6,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.62,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "amphibian",
+        "habitats": [
+          "forest",
+          "rainforest",
+          "wetland"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "big-eyes",
+          "bright-color",
+          "climber"
+        ],
+        "hookArchetypes": [
+          "cute",
+          "colorful"
+        ]
+      },
+      "facts": [
+        "has bright red eyes",
+        "climbs on rainforest leaves",
+        "hides its colorful sides while resting"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "green-anole",
+      "name": "Green Anole",
+      "score": 37.86,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 2.21,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 10.0,
+        "visual_distinctiveness_score": 8.2,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.6,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "reptile",
+        "habitats": [
+          "forest",
+          "backyard"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "green",
+          "scales",
+          "climber"
+        ],
+        "hookArchetypes": [
+          "colorful",
+          "camouflage"
+        ]
+      },
+      "facts": [
+        "can change from green to brown",
+        "climbs fences and branches",
+        "males flash a colorful throat fan"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "blue-morpho",
+      "name": "Blue Morpho",
+      "score": 37.23,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.68,
+        "novelty_gap_score": 2.43,
+        "kid_recognition_score": 10.0,
+        "visual_distinctiveness_score": 9.8,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.8,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "invertebrate",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "wings",
+          "bright-color",
+          "blue"
+        ],
+        "hookArchetypes": [
+          "colorful"
+        ]
+      },
+      "facts": [
+        "has shining blue wings",
+        "flashes color as it flies",
+        "lives in tropical forests"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "poison-dart-frog",
+      "name": "Poison Dart Frog",
+      "score": 36.9,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 1.87,
+        "novelty_gap_score": 2.43,
+        "kid_recognition_score": 10.0,
+        "visual_distinctiveness_score": 9.8,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.6,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 1.44,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "amphibian",
+        "habitats": [
+          "forest",
+          "rainforest",
+          "wetland"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "bright-color",
+          "tiny"
+        ],
+        "hookArchetypes": [
+          "colorful",
+          "tiny"
+        ]
+      },
+      "facts": [
+        "has bright warning colors",
+        "is very small",
+        "lives on rainforest floors"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "leafcutter-ant",
+      "name": "Leafcutter Ant",
+      "score": 36.89,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.68,
+        "novelty_gap_score": 3.69,
+        "kid_recognition_score": 10.0,
+        "visual_distinctiveness_score": 8.6,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.4,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "invertebrate",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "tiny",
+          "teamwork",
+          "leaf"
+        ],
+        "hookArchetypes": [
+          "tiny",
+          "excellent-parent"
+        ]
+      },
+      "facts": [
+        "carries leaf pieces overhead",
+        "works in huge colonies",
+        "uses leaves to grow fungus food"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "great-hornbill",
+      "name": "Great Hornbill",
+      "score": 34.41,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.69,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.6,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.6,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "bird",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "traits": [
+          "beak",
+          "wings",
+          "colorful"
+        ],
+        "hookArchetypes": [
+          "colorful",
+          "excellent-parent"
+        ]
+      },
+      "facts": [
+        "has a huge yellow bill and casque",
+        "nests in tree hollows",
+        "helps spread forest fruit seeds"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "emerald-tree-boa",
+      "name": "Emerald Tree Boa",
+      "score": 33.78,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 2.21,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.6,
+        "source_quality_score": 8.4,
+        "image_availability_score": 8.0,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 1.2,
+        "licensing_complexity_penalty": 1.4
+      },
+      "tags": {
+        "taxonomy": "reptile",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "green",
+          "scales",
+          "camouflage"
+        ],
+        "hookArchetypes": [
+          "camouflage",
+          "colorful"
+        ]
+      },
+      "facts": [
+        "rests curled on branches",
+        "has bright green scales",
+        "uses heat-sensing pits to find prey"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "atlas-moth",
+      "name": "Atlas Moth",
+      "score": 33.69,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.68,
+        "novelty_gap_score": 2.43,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.7,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.8,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.84,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "invertebrate",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "traits": [
+          "wings",
+          "giant",
+          "pattern"
+        ],
+        "hookArchetypes": [
+          "giant",
+          "colorful"
+        ]
+      },
+      "facts": [
+        "is one of the largest moths",
+        "has wing tips that can look like snake heads",
+        "does not eat as an adult"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "pine-marten",
+      "name": "Pine Marten",
+      "score": 32.31,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 8.2,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.6,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.62,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.24,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "mammal",
+        "habitats": [
+          "forest"
+        ],
+        "regions": [
+          "Europe",
+          "Asia"
+        ],
+        "traits": [
+          "climber",
+          "fluffy",
+          "tail"
+        ],
+        "hookArchetypes": [
+          "cute",
+          "speedy"
+        ]
+      },
+      "facts": [
+        "climbs trees with sharp claws",
+        "has a long bushy tail",
+        "hunts mostly at dusk and night"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "clouded-leopard",
+      "name": "Clouded Leopard",
+      "score": 31.61,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.4,
+        "source_quality_score": 8.6,
+        "image_availability_score": 7.8,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.96,
+        "licensing_complexity_penalty": 1.4
+      },
+      "tags": {
+        "taxonomy": "mammal",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "traits": [
+          "spots",
+          "climber",
+          "tail"
+        ],
+        "hookArchetypes": [
+          "camouflage",
+          "colorful"
+        ]
+      },
+      "facts": [
+        "has cloud-shaped markings",
+        "is an excellent tree climber",
+        "uses a long tail for balance"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "protogoniomorpha-parhassus",
+      "name": "Protogoniomorpha parhassus",
+      "score": 31.59,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.68,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 4.5,
+        "visual_distinctiveness_score": 8.2,
+        "source_quality_score": 9.2,
+        "image_availability_score": 9.0,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.36,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "invertebrate",
+        "habitats": [
+          "forest"
+        ],
+        "regions": [
+          "needs-review"
+        ],
+        "traits": [
+          "tiny"
+        ],
+        "hookArchetypes": [
+          "tiny",
+          "speedy"
+        ]
+      },
+      "facts": [
+        "species of butterfly"
+      ],
+      "externalIDs": {
+        "wikidata": "Q7251988",
+        "wikipediaTitle": "Protogoniomorpha parhassus"
+      },
+      "sourceURLs": {
+        "wikidata": "https://www.wikidata.org/wiki/Q7251988",
+        "wikipedia": "https://en.wikipedia.org/wiki/Protogoniomorpha_parhassus"
+      },
+      "mediaHints": {
+        "wikidataImage": "SeitzFaunaAfricanaXIIITaf50, Protogoniomorpha parhassus aethiops.jpg"
+      },
+      "review": {
+        "needsHumanReview": true,
+        "source": "wikidata-api"
+      }
+    },
+    {
+      "candidateID": "harpy-eagle",
+      "name": "Harpy Eagle",
+      "score": 31.37,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.6,
+        "source_quality_score": 8.4,
+        "image_availability_score": 8.0,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.84,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.96,
+        "licensing_complexity_penalty": 1.4
+      },
+      "tags": {
+        "taxonomy": "bird",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "wings",
+          "crest",
+          "giant"
+        ],
+        "hookArchetypes": [
+          "giant",
+          "speedy"
+        ]
+      },
+      "facts": [
+        "is one of the largest forest eagles",
+        "has a dramatic feather crest",
+        "hunts from rainforest trees"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "olm",
+      "name": "Olm",
+      "score": 30.47,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 1.87,
+        "novelty_gap_score": 0.0,
+        "kid_recognition_score": 4.5,
+        "visual_distinctiveness_score": 8.8,
+        "source_quality_score": 8.4,
+        "image_availability_score": 7.0,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.94,
+        "overrepresented_habitat_penalty": 1.44,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 1.6
+      },
+      "tags": {
+        "taxonomy": "amphibian",
+        "habitats": [
+          "cave",
+          "wetland"
+        ],
+        "regions": [
+          "Europe"
+        ],
+        "traits": [
+          "pale",
+          "weird",
+          "aquatic"
+        ],
+        "hookArchetypes": [
+          "weird"
+        ]
+      },
+      "facts": [
+        "lives in dark cave waters",
+        "has pale skin",
+        "can sense its way without much light"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "wood-thrush",
+      "name": "Wood Thrush",
+      "score": 30.35,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 2.43,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 7.0,
+        "source_quality_score": 8.6,
+        "image_availability_score": 8.4,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 0.8
+      },
+      "tags": {
+        "taxonomy": "bird",
+        "habitats": [
+          "forest",
+          "backyard"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "spots",
+          "wings",
+          "song"
+        ],
+        "hookArchetypes": [
+          "colorful"
+        ]
+      },
+      "facts": [
+        "has a flute-like song",
+        "has spotted chest feathers",
+        "nests in eastern forests"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "orchid-mantis",
+      "name": "Orchid Mantis",
+      "score": 30.27,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.68,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 4.5,
+        "visual_distinctiveness_score": 9.8,
+        "source_quality_score": 8.2,
+        "image_availability_score": 7.8,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.48,
+        "licensing_complexity_penalty": 1.4
+      },
+      "tags": {
+        "taxonomy": "invertebrate",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "traits": [
+          "camouflage",
+          "bright-color",
+          "tiny"
+        ],
+        "hookArchetypes": [
+          "camouflage",
+          "colorful"
+        ]
+      },
+      "facts": [
+        "looks like a flower petal",
+        "uses camouflage while waiting on plants",
+        "has pink and white coloring"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "agouti",
+      "name": "Agouti",
+      "score": 30.23,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 7.4,
+        "source_quality_score": 8.2,
+        "image_availability_score": 7.8,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.62,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 1.0
+      },
+      "tags": {
+        "taxonomy": "mammal",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "small",
+          "runner",
+          "seed-eater"
+        ],
+        "hookArchetypes": [
+          "cute",
+          "speedy"
+        ]
+      },
+      "facts": [
+        "carries and buries seeds",
+        "runs quickly on the forest floor",
+        "helps some trees spread seeds"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "sugar-glider",
+      "name": "Sugar Glider",
+      "score": 30.11,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.0,
+        "source_quality_score": 7.8,
+        "image_availability_score": 7.2,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.62,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.24,
+        "licensing_complexity_penalty": 1.6
+      },
+      "tags": {
+        "taxonomy": "mammal",
+        "habitats": [
+          "forest"
+        ],
+        "regions": [
+          "Oceania"
+        ],
+        "traits": [
+          "glider",
+          "tiny",
+          "big-eyes"
+        ],
+        "hookArchetypes": [
+          "cute",
+          "speedy"
+        ]
+      },
+      "facts": [
+        "glides on a membrane between its legs",
+        "has large eyes for night activity",
+        "eats nectar and tree sap"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "margay",
+      "name": "Margay",
+      "score": 30.05,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 3.33,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.2,
+        "source_quality_score": 8.2,
+        "image_availability_score": 7.0,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 5.4,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.72,
+        "licensing_complexity_penalty": 1.8
+      },
+      "tags": {
+        "taxonomy": "mammal",
+        "habitats": [
+          "forest",
+          "rainforest"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "spots",
+          "climber",
+          "cat"
+        ],
+        "hookArchetypes": [
+          "camouflage",
+          "colorful"
+        ]
+      },
+      "facts": [
+        "is a spotted forest cat",
+        "can climb down trees headfirst",
+        "hunts among branches"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    },
+    {
+      "candidateID": "quetzal",
+      "name": "Resplendent Quetzal",
+      "score": 29.95,
+      "themeMatch": true,
+      "duplicate": null,
+      "components": {
+        "balance_gap_score": 0.0,
+        "novelty_gap_score": 2.43,
+        "kid_recognition_score": 7.0,
+        "visual_distinctiveness_score": 9.8,
+        "source_quality_score": 8.4,
+        "image_availability_score": 7.8,
+        "theme_bonus": 9.0,
+        "duplicate_similarity_penalty": 0.0,
+        "recent_drop_similarity_penalty": 7.2,
+        "overrepresented_habitat_penalty": 5.76,
+        "scary_or_gory_risk_penalty": 0.12,
+        "licensing_complexity_penalty": 1.4
+      },
+      "tags": {
+        "taxonomy": "bird",
+        "habitats": [
+          "forest",
+          "mountain"
+        ],
+        "regions": [
+          "Americas"
+        ],
+        "traits": [
+          "wings",
+          "bright-color",
+          "long-tail"
+        ],
+        "hookArchetypes": [
+          "colorful"
+        ]
+      },
+      "facts": [
+        "has shimmering green feathers",
+        "males grow long tail plumes",
+        "lives in cloud forests"
+      ],
+      "externalIDs": {},
+      "sourceURLs": {},
+      "mediaHints": {},
+      "review": {
+        "needsHumanReview": true,
+        "source": "local-seed-queue"
+      }
+    }
+  ]
+}

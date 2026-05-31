@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "batchID": "forest-2026-05-31",
+  "theme": "forest",
+  "status": "review-batch-needs-human-approval",
+  "policy": {
+    "prCadence": "one pull request per curation turn/batch, whether that batch contains one animal or several",
+    "publishOnApprovedMerge": true,
+    "githubSourceOfTruth": true,
+    "cloudflareDeliveryOnly": true
+  },
+  "branchName": "catalog/forest-2026-05-31",
+  "prTitle": "Catalog batch: forest (1 animal)",
+  "animalReviews": [
+    {
+      "candidate": "pine-marten",
+      "copyArtifact": "review/copy-pine-marten.json",
+      "mediaBrief": "review/media-pine-marten.json",
+      "mediaManifest": "review/media/pine-marten/manifest.json",
+      "contactSheet": "review/media/pine-marten/contact-sheet.html",
+      "downloadedMediaCount": 2,
+      "requiredApprovals": [
+        "identity confirmed against source URLs/scientific name",
+        "kid-safety approved: no gore, distress, watermark, or confusing crop",
+        "license and attribution fields verified from source page",
+        "copy is factual, age-appropriate, and source-backed",
+        "tags/balance reviewed for catalog diversity"
+      ]
+    }
+  ],
+  "packArtifact": "review/pack-forest-live.json",
+  "mergeGates": [
+    "python3 scripts/catalog.py validate --mode expansion",
+    "python3 scripts/catalog.py validate --mode publish",
+    "human reviewer checks every requiredApprovals item for each animal",
+    "approved PR merge to main triggers live catalog build/publish workflow"
+  ],
+  "suggestedGhCommands": [
+    "git switch -c catalog/forest-2026-05-31",
+    "git add animals packs review assets indexes README.md docs scripts policy .github",
+    "git commit -m \"Add catalog batch: forest\"",
+    "gh pr create --draft --title \"Catalog batch: forest (1 animal)\" --body-file review/batches/forest-2026-05-31-pr-body.md"
+  ]
+}

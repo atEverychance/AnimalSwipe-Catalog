@@ -1,0 +1,85 @@
+name: Live catalog publish
+
+on:
+  pull_request:
+    branches: [main]
+    types: [closed]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Optional catalog version override"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+  pull-requests: read
+
+env:
+  LIVE_BUCKET: animalswipe-catalog-prod
+  LIVE_WORKER_ENV: production
+
+jobs:
+  publish-live:
+    name: Build, sign, and publish live catalog
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout approved catalog source
+        uses: actions/checkout@v4
+
+      - name: Choose catalog version
+        id: version
+        shell: bash
+        run: |
+          if [ -n "${{ inputs.version }}" ]; then
+            echo "value=${{ inputs.version }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=${GITHUB_RUN_NUMBER}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install Wrangler
+        run: npm install -g wrangler
+
+      - name: Require at least one approving PR review before live publish
+        if: github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        shell: bash
+        run: |
+          approvals=$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/reviews" --jq '[.[] | select(.state == "APPROVED")] | length')
+          if [ "$approvals" -lt 1 ]; then
+            echo "Merged PR has no APPROVED review; refusing live catalog publish."
+            exit 1
+          fi
+
+      - name: Restore signing key from GitHub secret
+        shell: bash
+        run: |
+          mkdir -p "$HOME/.animalswipe"
+          printf '%s\n' "${{ secrets.CATALOG_SIGNING_KEY_P256 }}" > "$HOME/.animalswipe/catalog-signing-key-p256.pem"
+          chmod 600 "$HOME/.animalswipe/catalog-signing-key-p256.pem"
+
+      - name: Build catalog artifacts from merged PR contents
+        run: python3 scripts/build_catalog.py --version "${{ steps.version.outputs.value }}"
+
+      - name: Sign live latest.json
+        run: python3 scripts/prepare_signed_manifest.py --version "${{ steps.version.outputs.value }}" --channel production --private-key "$HOME/.animalswipe/catalog-signing-key-p256.pem"
+
+      - name: Validate live catalog artifacts
+        run: |
+          python3 scripts/catalog.py validate --mode expansion
+          python3 scripts/catalog.py validate --mode publish
+
+      - name: Upload catalog and available assets to production R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: python3 scripts/cloudflare_upload.py --bucket "$LIVE_BUCKET" --version "${{ steps.version.outputs.value }}" --include-assets --skip-missing-assets
+
+      - name: Deploy production Worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: wrangler deploy --env "$LIVE_WORKER_ENV"

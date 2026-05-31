@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "candidate": "pine-marten",
+  "name": "Pine Marten",
+  "status": "downloaded-media-needs-human-review",
+  "bundleDir": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/pine-marten",
+  "downloadedCount": 2,
+  "maxBytesPerFile": 12000000,
+  "downloads": [
+    {
+      "title": "File:Martes martes, Clunes, Scotland 4.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Martes_martes%2C_Clunes%2C_Scotland_4.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Martes_martes%2C_Clunes%2C_Scotland_4.jpg",
+      "mime": "image/jpeg",
+      "width": 4288,
+      "height": 2848,
+      "byteSize": 3219136,
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionNameHTML": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/vsmithuk/\">Vince Smith</a>",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Pine Marten -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/01-file-martes-martes-clunes-scotland-4-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/pine-marten/originals/01-file-martes-martes-clunes-scotland-4-jpg.jpg",
+      "sha256": "56072c91a61e0318c88a74d5b4d1ba9ab31beb535ff0648c116f80f98f4d59c2",
+      "downloadedByteSize": 3219136,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "3219136",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Martes_martes%2C_Clunes%2C_Scotland_4.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    },
+    {
+      "title": "File:Hungry pine marten - geograph.org.uk - 2182211.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Hungry_pine_marten_-_geograph.org.uk_-_2182211.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hungry_pine_marten_-_geograph.org.uk_-_2182211.jpg",
+      "mime": "image/jpeg",
+      "width": 2648,
+      "height": 2731,
+      "byteSize": 5836296,
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionNameHTML": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/43584\">Keith Cunneen</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Hungry_pine_marten_-_geograph.org.uk_-_2182211.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Pine Marten photo -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/02-file-hungry-pine-marten-geograph-org-uk-2182211-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/pine-marten/originals/02-file-hungry-pine-marten-geograph-org-uk-2182211-jpg.jpg",
+      "sha256": "87227d45fbd3a7b3a50b671f4168aff6900b83b17225c411bc6d56be31d97db7",
+      "downloadedByteSize": 5836296,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "5836296",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hungry_pine_marten_-_geograph.org.uk_-_2182211.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    }
+  ],
+  "warnings": [
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate",
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+  ],
+  "needsHumanReview": true,
+  "contactSheetPath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/pine-marten/contact-sheet.html"
+}

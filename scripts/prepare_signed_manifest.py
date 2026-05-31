@@ -78,30 +78,35 @@ def sign(private_key: Path, catalog_path: Path) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument('--source-app-repo', required=True)
+    parser.add_argument('--source-app-repo', help='optional app repo used to refresh local asset hashes before signing')
     parser.add_argument('--version', type=int, default=1)
     parser.add_argument('--private-key', default=str(DEFAULT_KEY))
     parser.add_argument('--manifest-url-base', default='catalog')
+    parser.add_argument('--channel', choices=['staging', 'production'], default='staging')
+    parser.add_argument('--min-app-version', default='0.2.0')
     args = parser.parse_args()
     root = ROOT
     private_key = Path(args.private_key).expanduser().resolve()
-    app_repo = Path(args.source_app_repo).resolve()
     ensure_key(private_key)
-    update_assets(root, app_repo, args.version)
+    if args.source_app_repo:
+        update_assets(root, Path(args.source_app_repo).resolve(), args.version)
     catalog_path = root / 'dist' / f'catalog-v{args.version:04d}.json'
+    if not catalog_path.exists():
+        raise SystemExit(f'missing catalog artifact: {catalog_path}; run scripts/build_catalog.py first')
     digest = sha256_bytes(catalog_path)
     signature = sign(private_key, catalog_path)
     latest = {
         'schemaVersion': 1,
         'catalogVersion': args.version,
         'publishedAt': datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z'),
-        'minAppVersion': '0.2.0',
+        'minAppVersion': args.min_app_version,
         'manifestURL': f"{args.manifest_url_base}/catalog-v{args.version:04d}.json",
         'manifestSHA256': digest,
         'signatureAlgorithm': 'P256.ECDSA.SHA256',
         'signatureFormat': 'base64-der',
         'signature': signature,
-        'stagingOnly': True,
+        'stagingOnly': args.channel != 'production',
+        'channel': args.channel,
         'keyID': 'catalog-p256-v1'
     }
     write_json(root / 'dist/latest.json', latest)

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "candidate": "pine-marten",
+  "name": "Pine Marten",
+  "status": "draft-needs-human-review",
+  "llmPolicy": "Rule-based local placeholder only; future LLM drafts must use provided facts and open review artifacts, never publish directly.",
+  "providedFacts": [
+    "The European pine marten, also known as the pine marten, is a mustelid native to and widespread in most of Europe, Asia Minor, the Caucasus, and parts of Iran, Iraq, and Syria.",
+    "It is listed as Least Concern on the IUCN Red List.",
+    "It is less commonly known as baum marten or sweet marten."
+  ],
+  "factSource": {
+    "source": "Wikipedia REST summary",
+    "title": "European pine marten",
+    "url": "https://en.wikipedia.org/wiki/European_pine_marten",
+    "warning": null
+  },
+  "captionOptions": [
+    "Pine Marten has a cute trick to notice.",
+    "Look closely: Pine Marten is built for forest life.",
+    "Pine Marten keeps one clever secret: The European pine marten, also known as the pine marten, is a mustelid native to and widespread in most of Europe, Asia Minor, the Caucasus, and parts of Iran, Iraq, and Syria."
+  ],
+  "shortDescription": "Pine Marten is a mammal with kid-safe review notes: It is listed as Least Concern on the IUCN Red List.",
+  "funFact": "The European pine marten, also known as the pine marten, is a mustelid native to and widespread in most of Europe, Asia Minor, the Caucasus, and parts of Iran, Iraq, and Syria.",
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest"
+    ],
+    "regions": [
+      "Europe",
+      "Asia"
+    ],
+    "traits": [
+      "climber",
+      "fluffy",
+      "tail"
+    ],
+    "hookArchetypes": [
+      "cute",
+      "speedy"
+    ]
+  },
+  "safetyFlags": [
+    "needsHumanReview"
+  ],
+  "needsHumanReview": true
+}

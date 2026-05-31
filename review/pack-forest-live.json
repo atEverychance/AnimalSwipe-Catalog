@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "status": "draft-pack-needs-human-review",
+  "theme": "forest",
+  "size": 10,
+  "sourceMode": "live",
+  "sourceDiagnostics": {
+    "sourceAdapters": [
+      {
+        "name": "Wikidata API",
+        "kind": "trusted-structured-source",
+        "hitCount": 20,
+        "entityCount": 20
+      },
+      {
+        "name": "local seed queue",
+        "kind": "curated-fill",
+        "hitCount": 56
+      }
+    ],
+    "warnings": [],
+    "queries": [
+      "forest frog",
+      "forest lizard",
+      "forest snake",
+      "forest bird",
+      "forest beetle",
+      "forest moth",
+      "forest mammal",
+      "forest fish",
+      "forest animal species",
+      "nocturnal animal species"
+    ]
+  },
+  "packNameOptions": [
+    "Forest Finders",
+    "Forest Wonders",
+    "Forest Surprise"
+  ],
+  "coverCandidateID": "panther-chameleon",
+  "animalIDs": [
+    "panther-chameleon",
+    "red-eyed-tree-frog",
+    "green-anole",
+    "blue-morpho",
+    "olm",
+    "mandarinfish",
+    "sand-cat",
+    "jerboa",
+    "pika",
+    "protogoniomorpha-parhassus"
+  ],
+  "animals": [
+    {
+      "id": "panther-chameleon",
+      "name": "Panther Chameleon",
+      "score": 39.46,
+      "taxonomy": "reptile",
+      "habitats": [
+        "forest"
+      ],
+      "hooks": [
+        "colorful",
+        "camouflage"
+      ],
+      "kid": "common",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "red-eyed-tree-frog",
+      "name": "Red-eyed Tree Frog",
+      "score": 38.0,
+      "taxonomy": "amphibian",
+      "habitats": [
+        "forest",
+        "rainforest",
+        "wetland"
+      ],
+      "hooks": [
+        "cute",
+        "colorful"
+      ],
+      "kid": "common",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "green-anole",
+      "name": "Green Anole",
+      "score": 37.86,
+      "taxonomy": "reptile",
+      "habitats": [
+        "forest",
+        "backyard"
+      ],
+      "hooks": [
+        "colorful",
+        "camouflage"
+      ],
+      "kid": "common",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "blue-morpho",
+      "name": "Blue Morpho",
+      "score": 37.23,
+      "taxonomy": "invertebrate",
+      "habitats": [
+        "forest",
+        "rainforest"
+      ],
+      "hooks": [
+        "colorful"
+      ],
+      "kid": "common",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "olm",
+      "name": "Olm",
+      "score": 30.47,
+      "taxonomy": "amphibian",
+      "habitats": [
+        "cave",
+        "wetland"
+      ],
+      "hooks": [
+        "weird"
+      ],
+      "kid": "surprise",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "mandarinfish",
+      "name": "Mandarinfish",
+      "score": 34.8,
+      "taxonomy": "fish",
+      "habitats": [
+        "ocean",
+        "reef"
+      ],
+      "hooks": [
+        "colorful",
+        "tiny"
+      ],
+      "kid": "medium",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "sand-cat",
+      "name": "Sand Cat",
+      "score": 33.75,
+      "taxonomy": "mammal",
+      "habitats": [
+        "desert"
+      ],
+      "hooks": [
+        "cute",
+        "camouflage"
+      ],
+      "kid": "medium",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "jerboa",
+      "name": "Jerboa",
+      "score": 33.01,
+      "taxonomy": "mammal",
+      "habitats": [
+        "desert"
+      ],
+      "hooks": [
+        "tiny",
+        "speedy"
+      ],
+      "kid": "medium",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "score": 32.29,
+      "taxonomy": "mammal",
+      "habitats": [
+        "mountain"
+      ],
+      "hooks": [
+        "cute",
+        "tiny"
+      ],
+      "kid": "medium",
+      "source": "local-seed-queue",
+      "externalIDs": {}
+    },
+    {
+      "id": "protogoniomorpha-parhassus",
+      "name": "Protogoniomorpha parhassus",
+      "score": 31.59,
+      "taxonomy": "invertebrate",
+      "habitats": [
+        "forest"
+      ],
+      "hooks": [
+        "tiny",
+        "speedy"
+      ],
+      "kid": "surprise",
+      "source": "wikidata-api",
+      "externalIDs": {
+        "wikidata": "Q7251988",
+        "wikipediaTitle": "Protogoniomorpha parhassus"
+      },
+      "relaxedFill": true
+    }
+  ],
+  "summary": {
+    "taxonomy": {
+      "reptile": 2,
+      "amphibian": 2,
+      "invertebrate": 2,
+      "fish": 1,
+      "mammal": 3
+    },
+    "habitats": {
+      "forest": 5,
+      "rainforest": 2,
+      "wetland": 2,
+      "backyard": 1,
+      "cave": 1,
+      "ocean": 1,
+      "reef": 1,
+      "desert": 2,
+      "mountain": 1
+    },
+    "hookArchetypes": {
+      "colorful": 5,
+      "camouflage": 3,
+      "cute": 3,
+      "weird": 1,
+      "tiny": 4,
+      "speedy": 2
+    },
+    "recognizableCount": 8,
+    "surpriseCount": 2,
+    "existingCatalogAnimalCount": 200
+  },
+  "warnings": [
+    "used relaxed habitat fill to satisfy requested pack size; human review should check diversity"
+  ],
+  "commitBehavior": "No files were changed; this is a review draft only.",
+  "needsHumanReview": true
+}

@@ -10,8 +10,9 @@ Wrangler is authenticated locally with OAuth. No API token is required for local
 - Staging Worker: `animalswipe-catalog-staging`
 - Staging Worker URL: `https://animalswipe-catalog-staging.everychance-ai.workers.dev`
 - Staging R2 bucket: `animalswipe-catalog-staging`
-- Production Worker placeholder: `animalswipe-catalog`
-- Production R2 bucket placeholder: `animalswipe-catalog-prod`
+- Production Worker: `animalswipe-catalog`
+- Production Worker URL: `https://animalswipe-catalog.everychance-ai.workers.dev`
+- Production R2 bucket: `animalswipe-catalog-prod`
 
 ## Current status
 
@@ -61,11 +62,11 @@ That file must stay out of Git. The public key is exported to `keys/catalog-publ
 ## Current delivery decisions
 
 - Production/staging delivery can use the workers.dev domain for now; a custom `catalog.animalswipe.app` route is optional later.
-- GitHub is the source-of-truth for catalog records, review history, scripts, prompts, and source originals.
-- Cloudflare is delivery-only: generated manifests and optimized assets are uploaded to R2 and served by Workers.
+- GitHub is the source-of-truth for everything editorial/curatorial: catalog records, review history, scripts, prompts, policies, source originals, generated audit artifacts, and public verification keys.
+- Cloudflare is delivery-only: signed generated manifests and optimized runtime assets are uploaded to R2 and served by Workers.
 
 ## Remaining production decisions
 
 - Catalog GitHub repo owner/name and visibility. Recommended default: private GitHub repo under the user's normal GitHub owner/org, named `AnimalSwipe-Catalog`, until licensing/reuse posture is intentionally public.
 - Whether large source originals require Git LFS once new source images are added; default to plain Git until file sizes or repo growth justify LFS.
-- Explicit approval before any first real remote pack goes live to app users. Approval means promoting new remote content into a signed manifest that a shipped app build can fetch/use, not merely generating candidates or staging existing baseline content.
+- Approved PR merge to `main` is the live approval gate. The GitHub Actions workflow builds/signs/uploads the live catalog after verifying the merged PR had at least one approving review. The remaining setup need is adding the `CLOUDFLARE_API_TOKEN` GitHub secret.

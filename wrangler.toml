@@ -18,7 +18,8 @@ bucket_name = "animalswipe-catalog-staging"
 
 [env.production]
 name = "animalswipe-catalog"
-workers_dev = false
+workers_dev = true
+preview_urls = false
 
 [[env.production.r2_buckets]]
 binding = "CATALOG_BUCKET"

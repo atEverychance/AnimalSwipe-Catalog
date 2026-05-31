@@ -17,6 +17,7 @@ def main() -> int:
     parser.add_argument('--version', type=int, default=1)
     parser.add_argument('--source-app-repo', default='../AnimalSwipe')
     parser.add_argument('--include-assets', action='store_true')
+    parser.add_argument('--skip-missing-assets', action='store_true', help='skip asset uploads whose source bytes are not present locally; useful in CI when unchanged baseline assets already exist in R2')
     parser.add_argument('--dry-run', action='store_true')
     args = parser.parse_args()
     dist = ROOT / 'dist'
@@ -30,7 +31,11 @@ def main() -> int:
         app_repo = (ROOT / args.source_app_repo).resolve()
         manifest = json.loads((dist / f'assets-manifest-v{args.version:04d}.json').read_text())
         for asset in manifest['assets']:
-            source = app_repo / asset['sourceRelativePath']
+            rel = asset.get('sourceRelativePath')
+            source = (ROOT / rel).resolve() if rel and (ROOT / rel).exists() else app_repo / rel if rel else Path('')
+            if args.skip_missing_assets and not source.exists():
+                print(f"skip missing asset source already expected in bucket: {asset.get('animalID')} {asset.get('remotePath')}")
+                continue
             uploads.append((source, asset['remotePath'], asset.get('contentType') or 'image/jpeg'))
     for source, key, content_type in uploads:
         if not source.exists(): raise SystemExit(f'missing upload source: {source}')
