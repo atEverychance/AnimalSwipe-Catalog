@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "red-eyed-tree-frog",
+  "name": "Red-eyed tree frog",
+  "species": {
+    "displayName": "Red-eyed tree frog",
+    "scientificName": "Agalychnis callidryas"
+  },
+  "copy": {
+    "caption": "A tiny rainforest acrobat that opens its red eyes like a jump scare.",
+    "shortDescription": "Red-eyed tree frogs are bright green climbers from the forests of Central America and northwestern South America. They sleep tucked against leaves, hiding their flashy blue-and-yellow sides, orange feet, and red eyes until danger gets too close. Fun fact: They are not poisonous — the sudden burst of color is a startle trick that may buy the frog a split second to leap away."
+  },
+  "image": {
+    "primaryFileName": "red-eyed-tree-frog.jpg",
+    "sourceRelativePath": "assets/source/red-eyed-tree-frog.jpg",
+    "focalPoint": {
+      "x": 0.32,
+      "y": 0.42
+    }
+  },
+  "provenance": {
+    "origin": "curatedExpansion",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Agalychnis_callidryas",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Agalychnis_callidryas"
+    },
+    "photo": {
+      "attributionName": "Geoff Gallice from Gainesville, FL, USA",
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "commonsFile": "Red-eyed_Tree_Frog_(Agalychnis_callidryas)_4.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Red-eyed_Tree_Frog_(Agalychnis_callidryas)_4.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "forest",
+      "rainforest",
+      "wetland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "big-eyes",
+      "bright-color",
+      "climber"
+    ],
+    "hookArchetypes": [
+      "cute",
+      "colorful"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "implementedNeedsHumanReview",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "pi-local-curation",
+    "reviewedAt": "2026-06-01T00:57:56Z"
+  }
+}

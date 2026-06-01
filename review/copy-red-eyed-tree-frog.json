@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "candidate": "red-eyed-tree-frog",
+  "name": "Red-eyed Tree Frog",
+  "status": "draft-needs-human-review",
+  "llmPolicy": "Rule-based local placeholder only; future LLM drafts must use provided facts and open review artifacts, never publish directly.",
+  "providedFacts": [
+    "Red-eyed tree frog is a common name for several frog species:Agalychnis callidryas, native to Central America and Colombia\nAgalychnis taylori, native to Mexico and Central America\nRanoidea chloris, native to Australia"
+  ],
+  "factSource": {
+    "source": "Wikipedia REST summary",
+    "title": "Red-eyed tree frog",
+    "url": "https://en.wikipedia.org/wiki/Red-eyed_tree_frog",
+    "warning": null
+  },
+  "captionOptions": [
+    "Red-eyed Tree Frog has a cute trick to notice.",
+    "Look closely: Red-eyed Tree Frog is built for forest life.",
+    "Red-eyed Tree Frog keeps one clever secret: Red-eyed tree frog is a common name for several frog species:Agalychnis callidryas, native to Central America and Colombia\nAgalychnis taylori, native to Mexico and Central America\nRanoidea chloris, native to Australia."
+  ],
+  "shortDescription": "Red-eyed Tree Frog is a amphibian with kid-safe review notes: Red-eyed tree frog is a common name for several frog species:Agalychnis callidryas, native to Central America and Colombia\nAgalychnis taylori, native to Mexico and Central America\nRanoidea chloris, native to Australia.",
+  "funFact": "Red-eyed tree frog is a common name for several frog species:Agalychnis callidryas, native to Central America and Colombia\nAgalychnis taylori, native to Mexico and Central America\nRanoidea chloris, native to Australia",
+  "tags": {
+    "taxonomy": "amphibian",
+    "habitats": [
+      "forest",
+      "rainforest",
+      "wetland"
+    ],
+    "regions": [
+      "Americas"
+    ],
+    "traits": [
+      "big-eyes",
+      "bright-color",
+      "climber"
+    ],
+    "hookArchetypes": [
+      "cute",
+      "colorful"
+    ]
+  },
+  "safetyFlags": [
+    "needsHumanReview"
+  ],
+  "needsHumanReview": true
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "panther-chameleon",
+  "name": "Panther chameleon",
+  "species": {
+    "displayName": "Panther chameleon",
+    "scientificName": "Furcifer pardalis"
+  },
+  "copy": {
+    "caption": "A rainbow lizard with eyes that can look two ways at once.",
+    "shortDescription": "Panther chameleons live in the tropical forests of northern and eastern Madagascar, where males can glow in wild reds, greens, blues, and oranges. Each eye can swivel separately, so a chameleon can scan two directions before both eyes lock onto a tiny insect. Fun fact: Its tongue can shoot out to snatch prey while its mitten-like feet and curling tail grip the branch like climbing gear."
+  },
+  "image": {
+    "primaryFileName": "panther-chameleon.jpg",
+    "sourceRelativePath": "assets/source/panther-chameleon.jpg",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.46
+    }
+  },
+  "provenance": {
+    "origin": "curatedExpansion",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/Panther_chameleon",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/Panther_chameleon"
+    },
+    "photo": {
+      "attributionName": "Rod Waddington",
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "commonsFile": "Panther_Chameleon_738367.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Panther_Chameleon_738367.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "forest"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "bright-color",
+      "scales",
+      "camouflage"
+    ],
+    "hookArchetypes": [
+      "colorful",
+      "camouflage"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "implementedNeedsHumanReview",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "pi-local-curation",
+    "reviewedAt": "2026-06-01T00:57:56Z"
+  }
+}

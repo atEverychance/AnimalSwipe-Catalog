@@ -6,7 +6,7 @@ source originals, review artifacts, generated audit history, and public verifica
 keys. Cloudflare remains delivery-only for signed manifests and optimized runtime
 assets; the workers.dev staging URL is acceptable for now.
 
-Current milestone: Phase 0 migration baseline. The first generated catalog version (`v0001`) is a one-file-per-animal migration of the existing AnimalSwipe bundled library. No new animals should be added until baseline equivalence passes.
+Current milestone: Phase 1 expansion. The first generated catalog version (`v0001`) is a one-file-per-animal migration of the existing AnimalSwipe bundled library; expansion batches now add reviewed candidate animals on top of that baseline.
 
 ## Fast loop
 

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "candidate": "panther-chameleon",
+  "name": "Panther Chameleon",
+  "status": "downloaded-media-needs-human-review",
+  "bundleDir": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/panther-chameleon",
+  "downloadedCount": 2,
+  "maxBytesPerFile": 12000000,
+  "downloads": [
+    {
+      "title": "File:Panther Chameleon 738367.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Panther_Chameleon_738367.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Panther_Chameleon_738367.jpg",
+      "mime": "image/jpeg",
+      "width": 4161,
+      "height": 4161,
+      "byteSize": 1559149,
+      "licenseName": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionNameHTML": "Rod Waddington",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Panther Chameleon photo -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/01-file-panther-chameleon-738367-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/panther-chameleon/originals/01-file-panther-chameleon-738367-jpg.jpg",
+      "sha256": "9970ba74d34fcf872f11801cd0abe1bef5c9b616300465bb9e1e0c8ca96efc43",
+      "downloadedByteSize": 1559149,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "1559149",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Panther_Chameleon_738367.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    },
+    {
+      "title": "File:Panther chameleon (Furcifer pardalis) male Montagne d’Ambre 3.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Panther_chameleon_%28Furcifer_pardalis%29_male_Montagne_d%E2%80%99Ambre_3.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/48/Panther_chameleon_%28Furcifer_pardalis%29_male_Montagne_d%E2%80%99Ambre_3.jpg",
+      "mime": "image/jpeg",
+      "width": 5148,
+      "height": 3432,
+      "byteSize": 8319495,
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionNameHTML": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Panther Chameleon -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/03-file-panther-chameleon-furcifer-pardalis-male-montagne-d-ambre-3-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/panther-chameleon/originals/03-file-panther-chameleon-furcifer-pardalis-male-montagne-d-ambre-3-jpg.jpg",
+      "sha256": "08bb5027814993ae4a0a488abdc7249d6248a682c140bb96876d0f8fec0b85f6",
+      "downloadedByteSize": 8319495,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "8319495",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/48/Panther_chameleon_%28Furcifer_pardalis%29_male_Montagne_d%E2%80%99Ambre_3.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    }
+  ],
+  "warnings": [
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate",
+    "download failed for File:Zürich Zoo Panther Chameleon (17245993971).jpg: ValueError: download exceeded max bytes (12000000)",
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+  ],
+  "needsHumanReview": true,
+  "contactSheetPath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/panther-chameleon/contact-sheet.html"
+}

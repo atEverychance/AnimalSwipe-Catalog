@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "forest-finders",
+  "name": "Forest Finders",
+  "subtitle": "Three bright lives tucked into the leaves",
+  "description": "A small expansion pack of climbers, jumpers, and branch-level surprises.",
+  "kind": "theme",
+  "sortOrder": 200,
+  "coverAnimalID": "red-eyed-tree-frog",
+  "symbolName": "leaf.fill",
+  "isStarter": false,
+  "defaultEnabledOnFirstRun": false,
+  "defaultEnabledOnUnlock": true,
+  "unlock": {
+    "mode": "rewardChest",
+    "tier": 2,
+    "weight": 1,
+    "group": "forest"
+  },
+  "animalIDs": [
+    "panther-chameleon",
+    "red-eyed-tree-frog",
+    "pine-marten"
+  ]
+}

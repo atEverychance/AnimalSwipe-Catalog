@@ -2598,5 +2598,44 @@
     "photoCommonsPageURL": "https://commons.wikimedia.org/wiki/File:Mantled_howler_monkey_and_baby_%2881337%292.jpg",
     "photoLicenseName": "CC BY-SA 4.0",
     "photoLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "panther-chameleon",
+    "shortDescription": "Panther chameleons live in the tropical forests of northern and eastern Madagascar, where males can glow in wild reds, greens, blues, and oranges. Each eye can swivel separately, so a chameleon can scan two directions before both eyes lock onto a tiny insect. Fun fact: Its tongue can shoot out to snatch prey while its mitten-like feet and curling tail grip the branch like climbing gear.",
+    "fullExtract": "A panther chameleon does not sprint through the forest; it creeps with rocking, leaf-like steps and trusts its camouflage until lunch comes close. The bright colors are not just for hiding — males flash different shades during displays, and different Madagascar localities are famous for different color patterns. Like other chameleons, it has grasping feet, a prehensile tail, and a projectile tongue that turns a slow climber into a lightning-fast bug catcher. Fun fact: A chameleon can watch two places at once, then swing both eyes forward for precise depth perception before firing its tongue.",
+    "factSourceName": "Wikipedia",
+    "factSourceURL": "https://en.wikipedia.org/wiki/Panther_chameleon",
+    "photoAttributionName": "Rod Waddington",
+    "photoSourcePageURL": "https://en.wikipedia.org/wiki/Panther_chameleon",
+    "photoCommonsFile": "Panther_Chameleon_738367.jpg",
+    "photoCommonsPageURL": "https://commons.wikimedia.org/wiki/File:Panther_Chameleon_738367.jpg",
+    "photoLicenseName": "CC BY-SA 2.0",
+    "photoLicenseURL": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "red-eyed-tree-frog",
+    "shortDescription": "Red-eyed tree frogs are bright green climbers from the forests of Central America and northwestern South America. They sleep tucked against leaves, hiding their flashy blue-and-yellow sides, orange feet, and red eyes until danger gets too close. Fun fact: They are not poisonous — the sudden burst of color is a startle trick that may buy the frog a split second to leap away.",
+    "fullExtract": "Red-eyed tree frogs spend most of their lives above the ground, gripping leaves with long limbs and webbed toes. At night they hunt moths, crickets, flies, and other small insects; during breeding season, females place eggs on leaves above ponds so the tadpoles can drop into water after hatching. Their colors look like a warning sign, but this frog relies more on hiding and surprise than poison. Fun fact: Red-eyed tree frog embryos can hatch early when vibrations warn them that danger is nearby.",
+    "factSourceName": "Wikipedia",
+    "factSourceURL": "https://en.wikipedia.org/wiki/Agalychnis_callidryas",
+    "photoAttributionName": "Geoff Gallice from Gainesville, FL, USA",
+    "photoSourcePageURL": "https://en.wikipedia.org/wiki/Agalychnis_callidryas",
+    "photoCommonsFile": "Red-eyed_Tree_Frog_(Agalychnis_callidryas)_4.jpg",
+    "photoCommonsPageURL": "https://commons.wikimedia.org/wiki/File:Red-eyed_Tree_Frog_(Agalychnis_callidryas)_4.jpg",
+    "photoLicenseName": "CC BY 2.0",
+    "photoLicenseURL": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "pine-marten",
+    "shortDescription": "European pine martens are mustelids — relatives of weasels and otters — found across much of Europe and parts of western Asia. They have chocolate-brown fur, a creamy yellow throat patch, sharp senses, and claws that help them climb through branches. Fun fact: Pine martens are mostly active at dusk and night, slipping through trees after small animals, insects, eggs, berries, and nuts.",
+    "fullExtract": "A pine marten moves like a woodland shadow: quick on the ground, confident in the branches, and hard to spot unless it pauses to look back. Its long bushy tail helps with balance, and its semi-retractable claws make tree climbing easier than it is for many other mustelids. Pine martens use scent marks to claim a home range and often rest in tree holes, old nests, or sheltered crevices. Fun fact: In some places, recovering pine martens can help native red squirrels by putting more pressure on invasive grey squirrels.",
+    "factSourceName": "Wikipedia",
+    "factSourceURL": "https://en.wikipedia.org/wiki/European_pine_marten",
+    "photoAttributionName": "Green Yoshi",
+    "photoSourcePageURL": "https://en.wikipedia.org/wiki/European_pine_marten",
+    "photoCommonsFile": "Martes_martes_in_Sweden.jpg",
+    "photoCommonsPageURL": "https://commons.wikimedia.org/wiki/File:Martes_martes_in_Sweden.jpg",
+    "photoLicenseName": "CC BY-SA 3.0",
+    "photoLicenseURL": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 ]

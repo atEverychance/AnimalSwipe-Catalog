@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "candidate": "panther-chameleon",
+  "name": "Panther Chameleon",
+  "status": "draft-needs-human-review",
+  "llmPolicy": "Rule-based local placeholder only; future LLM drafts must use provided facts and open review artifacts, never publish directly.",
+  "providedFacts": [
+    "The panther chameleon is a species of chameleon found in the eastern and northern parts of Madagascar in a tropical forest biome.",
+    "Additionally, it has been introduced to Réunion and Mauritius, as well as the state of Florida within the United States."
+  ],
+  "factSource": {
+    "source": "Wikipedia REST summary",
+    "title": "Panther chameleon",
+    "url": "https://en.wikipedia.org/wiki/Panther_chameleon",
+    "warning": null
+  },
+  "captionOptions": [
+    "Panther Chameleon has a colorful trick to notice.",
+    "Look closely: Panther Chameleon is built for forest life.",
+    "Panther Chameleon keeps one clever secret: The panther chameleon is a species of chameleon found in the eastern and northern parts of Madagascar in a tropical forest biome."
+  ],
+  "shortDescription": "Panther Chameleon is a reptile with kid-safe review notes: Additionally, it has been introduced to Réunion and Mauritius, as well as the state of Florida within the United States.",
+  "funFact": "The panther chameleon is a species of chameleon found in the eastern and northern parts of Madagascar in a tropical forest biome.",
+  "tags": {
+    "taxonomy": "reptile",
+    "habitats": [
+      "forest"
+    ],
+    "regions": [
+      "Africa"
+    ],
+    "traits": [
+      "bright-color",
+      "scales",
+      "camouflage"
+    ],
+    "hookArchetypes": [
+      "colorful",
+      "camouflage"
+    ]
+  },
+  "safetyFlags": [
+    "needsHumanReview"
+  ],
+  "needsHumanReview": true
+}

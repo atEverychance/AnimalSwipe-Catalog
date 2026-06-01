@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "batchID": "forest-2026-06-01",
+  "theme": "forest",
+  "status": "implemented-local-needs-human-approval",
+  "animalIDs": [
+    "panther-chameleon",
+    "red-eyed-tree-frog",
+    "pine-marten"
+  ],
+  "packID": "forest-finders",
+  "sourceArtifacts": [
+    "review/media-panther-chameleon.json",
+    "review/media-red-eyed-tree-frog.json",
+    "review/media-pine-marten.json"
+  ],
+  "validationPlan": [
+    "python3 Scripts/content.py validate",
+    "python3 Scripts/content.py build --clean-photos",
+    "python3 scripts/catalog.py validate --mode expansion",
+    "python3 scripts/build_catalog.py --version 2 --strict-assets"
+  ],
+  "notes": "Added to both bundled app content and catalog source so the animals are visible in local AnimalSwipe builds while the remote catalog path remains under review."
+}

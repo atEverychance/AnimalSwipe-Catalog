@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "pine-marten",
+  "name": "Pine marten",
+  "species": {
+    "displayName": "European pine marten",
+    "scientificName": "Martes martes"
+  },
+  "copy": {
+    "caption": "A quick forest climber with a golden bib and a fox-bright face.",
+    "shortDescription": "European pine martens are mustelids — relatives of weasels and otters — found across much of Europe and parts of western Asia. They have chocolate-brown fur, a creamy yellow throat patch, sharp senses, and claws that help them climb through branches. Fun fact: Pine martens are mostly active at dusk and night, slipping through trees after small animals, insects, eggs, berries, and nuts."
+  },
+  "image": {
+    "primaryFileName": "pine-marten.jpg",
+    "sourceRelativePath": "assets/source/pine-marten.jpg",
+    "focalPoint": {
+      "x": 0.58,
+      "y": 0.38
+    }
+  },
+  "provenance": {
+    "origin": "curatedExpansion",
+    "fact": {
+      "sourceName": "Wikipedia",
+      "sourceURL": "https://en.wikipedia.org/wiki/European_pine_marten",
+      "sourcePageURL": "https://en.wikipedia.org/wiki/European_pine_marten"
+    },
+    "photo": {
+      "attributionName": "Green Yoshi",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "commonsFile": "Martes_martes_in_Sweden.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Martes_martes_in_Sweden.jpg"
+    }
+  },
+  "tags": {
+    "taxonomy": "mammal",
+    "habitats": [
+      "forest"
+    ],
+    "regions": [
+      "Europe",
+      "Asia"
+    ],
+    "traits": [
+      "climber",
+      "fluffy",
+      "tail"
+    ],
+    "hookArchetypes": [
+      "cute",
+      "speedy"
+    ]
+  },
+  "externalIDs": {},
+  "review": {
+    "status": "implementedNeedsHumanReview",
+    "tagsStatus": "needsTagReview",
+    "reviewedBy": "pi-local-curation",
+    "reviewedAt": "2026-06-01T00:57:56Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "candidate": "red-eyed-tree-frog",
+  "name": "Red-eyed Tree Frog",
+  "status": "downloaded-media-needs-human-review",
+  "bundleDir": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/red-eyed-tree-frog",
+  "downloadedCount": 3,
+  "maxBytesPerFile": 12000000,
+  "downloads": [
+    {
+      "title": "File:Agalychnis callidryas.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Agalychnis_callidryas.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Agalychnis_callidryas.jpg",
+      "mime": "image/jpeg",
+      "width": 3560,
+      "height": 3544,
+      "byteSize": 476936,
+      "licenseName": "CC BY-SA 3.0",
+      "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionNameHTML": "Christian R. Linder",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Red-eyed Tree Frog -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/01-file-agalychnis-callidryas-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/red-eyed-tree-frog/originals/01-file-agalychnis-callidryas-jpg.jpg",
+      "sha256": "34dfdd415607ba6749551ea24ca5a8aa0ba339df5eeb30b37c65b5bf836174f4",
+      "downloadedByteSize": 476936,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "476936",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Agalychnis_callidryas.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    },
+    {
+      "title": "File:Golden-eyed tree frog (Agalychnis annae) 1.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Golden-eyed_tree_frog_%28Agalychnis_annae%29_1.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Golden-eyed_tree_frog_%28Agalychnis_annae%29_1.jpg",
+      "mime": "image/jpeg",
+      "width": 4467,
+      "height": 3479,
+      "byteSize": 6353814,
+      "licenseName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionNameHTML": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Red-eyed Tree Frog -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/02-file-golden-eyed-tree-frog-agalychnis-annae-1-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/red-eyed-tree-frog/originals/02-file-golden-eyed-tree-frog-agalychnis-annae-1-jpg.jpg",
+      "sha256": "5d02f3a8831dc7b00e88bc14f0dc19e24600e8f28e52d56ade5cfee410025261",
+      "downloadedByteSize": 6353814,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "6353814",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Golden-eyed_tree_frog_%28Agalychnis_annae%29_1.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    },
+    {
+      "title": "File:Red-eyed Tree Frog (Agalychnis callidryas) 4.jpg",
+      "commonsPageURL": "https://commons.wikimedia.org/wiki/File:Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_4.jpg",
+      "thumbURL": null,
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_4.jpg",
+      "mime": "image/jpeg",
+      "width": 4581,
+      "height": 3054,
+      "byteSize": 943483,
+      "licenseName": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "attributionNameHTML": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11014423@N07\">Geoff Gallice</a> from Gainesville, FL, USA",
+      "licenseAllowed": true,
+      "reviewFlags": [
+        "downloaded-original-needs-human-review",
+        "identity-needs-human-confirmation",
+        "kid-safety-needs-human-confirmation"
+      ],
+      "searchQuery": "Red-eyed Tree Frog photo -skull -skeleton -taxidermy -taxidermied -specimen -museum -bone -pelt -dead -roadkill",
+      "localPath": "originals/03-file-red-eyed-tree-frog-agalychnis-callidryas-4-jpg.jpg",
+      "absolutePath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/red-eyed-tree-frog/originals/03-file-red-eyed-tree-frog-agalychnis-callidryas-4-jpg.jpg",
+      "sha256": "50750289a2c75d391cfdf7394eb262e3826e7c7562983acd5badaf1ddb3d52eb",
+      "downloadedByteSize": 943483,
+      "httpContentType": "image/jpeg",
+      "httpContentLengthHeader": "943483",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_4.jpg",
+      "transportWarnings": [
+        "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+      ]
+    }
+  ],
+  "warnings": [
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate",
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate",
+    "used unverified TLS fallback because local Python certificate store rejected the server certificate"
+  ],
+  "needsHumanReview": true,
+  "contactSheetPath": "/Users/jadel.mcguire/Documents/AnimalSwipe-Catalog/review/media/red-eyed-tree-frog/contact-sheet.html"
+}
